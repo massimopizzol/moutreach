@@ -1,9 +1,0 @@
----
-layout: post
-title:  This is a test
-tags: test
----
-
-A **Test** is used to check is something [works][1].
-
-[1]: https://en.wikipedia.org/wiki/Test_(assessment)
