@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "A wikipedia page (with formats and links)"
+date: 1999-07-21   
+category: [wikipedia, general, jekyll]
+tags: [web, wiki]
+excerpt: From Wikipedia, the free encyclopedia
+---
+# Blog
+
+From Wikipedia, the free encyclopedia
+> *"Blogger" redirects here. For the Google service with same name, see Blogger (service). For other uses, see Blog (disambiguation).
+Not to be confused with .blog.*
+
+A **blog** (a truncation of the expression _**weblog**_ )[^1] is a discussion or informational [website][1]  published on the [World Wide Web][WWW] consisting of discrete, often informal [diary](https://en.wikipedia.org/wiki/Diary)-style text entries ("posts"). Posts are typically displayed in reverse chronological order, so that the most recent post appears first, at the top of the web page. Until 2009, blogs were usually the work of a single individual[citation needed], occasionally of a small group, and often covered a single subject or topic. In the 2010s, "multi-author blogs" (MABs) have developed, with posts written by large numbers of authors and sometimes professionally edited. MABs from newspapers, other media outlets, universities, think tanks, advocacy groups, and similar institutions account for an increasing quantity of blog traffic. The rise of Twitter and other "microblogging" systems helps integrate MABs and single-author blogs into the news media. *Blog* can also be used as a verb, meaning to *maintain or add content to a blog*.
+
+The emergence and growth of blogs in the late 1990s coincided with the advent of web publishing tools that facilitated the posting of content
+by non-technical users who did not have much experience with HTML or computer programming. Previously, a knowledge of...
+
+
+[^1]: *Blood, Rebecca (September 7, 2000). ["Weblogs: A History And Perspective"](http://www.rebeccablood.net/essays/weblog_history.html).*
+
+[1]: https://en.wikipedia.org/wiki/Website
+[WWW]: https://en.wikipedia.org/wiki/World_Wide_Web
