@@ -5,7 +5,7 @@ date:   2016-12-07
 tags: [articles, network, wood]
 excerpt: I have written this article together with Marco and I am really proud of it.
 ---
-![Network screenshot]({{ site.url }}/assets/network.png)
+![Network screenshot](moutreach.science/assets/network.png)
 
 I have written this article[^1] together with [Marco][1] and I am really proud of it.
 
