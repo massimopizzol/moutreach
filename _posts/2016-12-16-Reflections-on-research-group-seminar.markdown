@@ -9,7 +9,7 @@ excerpt: What is it about and why I think it was great
 I have just attended our yearly [DCEA](http://www.en.dcea.dk/) research group seminar. But what is it really about, why are we doing it, and what makes it a great experience?
 
 ![Fishing-vessels-pic]({{ site.url }}/assets/vessel.jpg)
-<center><i><font size="2">Stranded boats nearby the seminar venue in Northern Jutland, Denmark (Photo credit: Massimo Pizzol) </font></i></center>
+<center><i><font size="2">Stranded boats nearby the seminar venue in Northern Jutland, Denmark (Photo: Massimo Pizzol)</font></i></center>
 
 ### The setting
 
@@ -22,6 +22,9 @@ I think the topics of this year were particularly interesting and relevant and t
 The first issue we addressed is **funding**. And we really approached it comprehensively. This went from a general-level discussion (powered by an internal expert) about how to improve the applications process as a group to increase success rate, to discussing concrete oncoming applications, to the very practical exercise of reading and commenting each other's past applications and new ideas. This was also a chance to hear success stories and failure stories. These activities inevitably lead to a discussion of our research strategy, its critical revision, and a brainstorm of what is our research vision as individual scientists and as a group. The outcome was somehow not conclusive but I think **the process was far more important than the outcome** in this case, as we had a necessary reflection on who we ultimately are as a group. For example, we observed how many similarities there are in the past and oncoming research in life cycle assessment and environmental impact assessment, despite the evident differences between the two tools and type of approaches and methods used in the respective scientific communities.   
 
 The second issue we addressed is **work ethics**. In particular we discussed and compared practices regarding authorship of scientific articles: when is somebody a co-author, what is a substantial contribution? What are the problems we encountered and how we solved them? We also touched on data sharing: when and how is appropriate to share data, to what extent should be done to achieve a good balance between being open to the research community but also protect our own work? What if others use our research material and data for writing publications? **Who owns the data** in a group context, and in a collaborative project context? What are advantages and limitations of working open source for us? And again we exchanged experiences in data protection and sharing, good practices, success and failure stories. For example I learnt a lot about the issues in storing and sharing interview data and in general on data sharing in social sciences, that was quite enlightening.
+
+![Walk-on-the-beach-pic]({{ site.url }}/assets/walk.jpg)
+<center><i><font size="2">Walking and discussing (Photo: Massimo Pizzol)</font></i></center>
 
 ### The reflection
 
