@@ -9,7 +9,7 @@ excerpt: What is it about and why I think it was great
 I have just attended our yearly [DCEA](http://www.en.dcea.dk/) research group seminar. But what is it really about, why are we doing it, and what makes it a great experience?
 
 ![Fishing-vessels-pic]({{ site.url }}/assets/vessel.jpg)
-##### <center><i> Stranded boats nearby the seminar venue in Northern Jutland, Denmark (Photo credit: Massimo Pizzol) </i></center>
+<center><i> Stranded boats nearby the seminar venue in Northern Jutland, Denmark (Photo credit: Massimo Pizzol) </i></center>
 
 ### The setting
 
