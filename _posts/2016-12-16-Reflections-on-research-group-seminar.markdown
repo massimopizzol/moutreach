@@ -23,7 +23,7 @@ The first issue we addressed is **funding**. And we really approached it compreh
 
 The second issue we addressed is **work ethics**. In particular we discussed and compared practices regarding authorship of scientific articles: when is somebody a co-author, what is a substantial contribution? What are the problems we encountered and how we solved them? We also touched on data sharing: when and how is appropriate to share data, to what extent should be done to achieve a good balance between being open to the research community but also protect our own work? What if others use our research material and data for writing publications? **Who owns the data** in a group context, and in a collaborative project context? What are advantages and limitations of working open source for us? And again we exchanged experiences in data protection and sharing, good practices, success and failure stories. For example I learnt a lot about the issues in storing and sharing interview data and in general on data sharing in social sciences, that was quite enlightening.
 
-![Walk-on-the-beach-pic]({{ site.url }}/assets/walk.jpg)
+![Walk-on-the-beach-pic]({{ site.url }}/assets/walk.jpg){: .center-image }
 <center><i><font size="2">Walking and discussing (Photo: Massimo Pizzol)</font></i></center>
 
 ### The reflection
