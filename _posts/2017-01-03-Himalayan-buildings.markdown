@@ -26,7 +26,7 @@ More specifically, I was interested in investigating what are the environmental 
 I have collected most of the data in the field during March and April 2014, via questionnaires and measurements. What I did is about **50 structured interviews** with hotel owners, who were very co-operative and kind. What I asked them is the _type of materials_ each building was made of, and whether these materials had been fetched _locally_, plus how much _fuels and energy_ were used in different activities like cooking and heating. I also asked for or retrieved the _price_ of each material and fuel used.
 
 ![Himalayan-Interview-pic]({{ site.url }}/assets/Hinterviews.png)
-<center><i><font size="2">Questionnaire survey in the Park (Photo: XXXXXXXXXXXXXX)</font></i></center>
+<center><i><font size="2">Questionnaire survey in the Park (Photo: Silu Bhochhibhoya)</font></i></center>
 
 
 Then **I measured each building**: length, breadth, and height of doors, windows, walls, floors. This was a necessary step to _quantify the amount of the materials used_ for the construction of each building.  When I returned back to my office I made a model for each building, using a specific software and database that contain information on the environmental impact of each material. With the model I could calculate the environmental and economic impacts of lodging in three existing buildings in the Park.
