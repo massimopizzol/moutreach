@@ -6,7 +6,7 @@ tags: [authorship, scientific writing]
 excerpt: Seven good practices for co-authoring scientific papers
 ---
 
-![Elephant_Giraffe]({{ site.url }}/assets/el_gir.jpg){: .center-image }
+![Elephant_Giraffe](http://moutreach.science/assets/el_gir.jpg){: .center-image }
 <center><i><font size="2"> Ganesha to giraffe: "With my four hands I shall be both first and second author...". (Photo: Massimo Pizzol)</font></i></center>
 
 
