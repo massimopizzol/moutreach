@@ -6,20 +6,21 @@ tags: [authorship, scientific writing]
 excerpt: Seven good practices for co-authoring scientific papers
 ---
 
-![Elephant_Giraffe](http://moutreach.science/assets/el_gir.jpg){: .center-image }
-<center><i><font size="2"> Ganesha to giraffe: "With my four hands I shall be both first and second author...". (Photo: Massimo Pizzol)</font></i></center>
+{: .center }
+![Elephant_Giraffe]({{ site.url }}/assets/el_gir_bw.jpg)
+<center><i><font size="2"> Ganesha to giraffe: "With my four hands I shall be both first and second author.". (Photo: Massimo Pizzol)</font></i></center>
 
 
 
 &nbsp;
 
-Writing scientific papers is hard. Dealing with authorship issues is harder.
+Writing scientific papers is hard. Dealing with co-authorship issues is harder.
 
-Here below is a bullet-point list of what I believe are good authorship practices.
+Here below I wrote a bullet-point list of what I believe are good co-authorship practices.
 
 **These are lessons learnt from problems I run into or mistakes I did.**
 
-I write them here as a reminder to myself. If they are useful for you too, well...good.
+I wrote them here as a reminder to myself. If they are useful for you too, well...good.
 
 &nbsp;
 
@@ -29,7 +30,7 @@ _Always remember that..._
 
 2) **Only** substantial contributions lead to co-authorship
 
-3) **The first author** is in the best position to evaluate which contributions were substantial_
+3) **The first author** is in the best position to evaluate which contributions were substantial
 
 &nbsp;
 
@@ -37,7 +38,7 @@ _A paper is a project and thus requires project management..._
 
 4) Deal with authorship issues **openly and transparently**. Bring them up for discussion instead of avoiding them. They will pop out anyway.
 
-5) Discuss authorship before doing the research/experiments, and **always** before you start writing the paper. This means also clarifying with potential co-authors mutual expectations from the beginning.
+5) Discuss authorship before doing the research/experiments, and **always before you start writing** the paper. This means also clarifying with potential co-authors mutual expectations from the beginning.
 
 6) Make a research plan and a **writing plan** with realistic milestones and concrete tasks. It allows keeping track of contributions. It is then easy to look back and check who did/delivered what and when in case of controversies.
 
@@ -47,4 +48,4 @@ _A paper is a project and thus requires project management..._
 
 _Bonus, number eight..._
 
-8) Authorship is a **sensible topic**. Sometimes troubles are inevitable and somebody gets pissed off. Seek the advice of a senior colleague or peer in case of serious problems. Reading the [Vancouver reccomendations](http://www.icmje.org/icmje-recommendations.pdf) can be of concrete help too.
+8) In an _ideal_ world, the previous points would be enough. Yet co-authorship is a **sensible topic**. Sometimes troubles are inevitable and somebody gets pissed off. Seek the advice of a senior colleague or peer in case of serious problems. Reading the [Vancouver reccomendations](http://www.icmje.org/icmje-recommendations.pdf) can be of concrete help too.
