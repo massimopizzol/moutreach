@@ -8,7 +8,7 @@ excerpt: Seven good practices for co-authoring scientific papers
 
 {: .center }
 ![Elephant_Giraffe]({{ site.url }}/assets/el_gir_bw.jpg)
-<center><i><font size="2"> Ganesha to giraffe: "With my four hands I shall be both first and second author.". (Photo: Massimo Pizzol)</font></i></center>
+<center><i><font size="2"> Ganesha to giraffe: "With my four hands I shall be both first and second author". (Photo: Massimo Pizzol)</font></i></center>
 
 
 
