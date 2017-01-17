@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Wood networks are nice</title>
+  <meta name="description" content="I have written this article together with Marco and I am really proud of it.">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="http://localhost:4000/2016/12/07/Marginal-suppliers-NA-wood.html">
+  <link rel="alternate" type="application/rss+xml" title="moutreach" href="/feed.xml">
+  
+  
+</head>
+
+
+  <body>
+
+    <header class="site-header" role="banner">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="/">moutreach</a>
+
+    <nav class="site-nav">
+      <span class="menu-icon">
+        <svg viewBox="0 0 18 15" width="18px" height="15px">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </span>
+
+      <div class="trigger">
+        
+          
+          <a class="page-link" href="/about/">About</a>
+          
+        
+          
+          <a class="page-link" href="/History/">History</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/tags/">Tags</a>
+          
+        
+          
+        
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">Wood networks are nice</h1>
+    <p class="post-meta"><time datetime="2016-12-07T00:00:00+01:00" itemprop="datePublished">Dec 7, 2016</time></p>
+
+    <!--This part below is for inserting tags, can be moved anywhere in this doc
+    and it is non-default, it is a modificaiton I did later on found on the web-->
+        <div class="post-tags">
+          
+          
+          <a href="/tags/#articles">articles</a>
+          &nbsp;
+          
+          <a href="/tags/#network">network</a>
+          &nbsp;
+          
+          <a href="/tags/#wood">wood</a>
+          
+          
+        </div>
+        
+  </header>
+
+
+
+  <div class="post-content" itemprop="articleBody">
+    <p><img src="http://localhost:4000/assets/Network.PNG" alt="Network screenshot" /></p>
+
+<p>I have written this article<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> together with <a href="http://www.geomar.de/en/mitarbeiter/fb3/eoe/eoe-n/mscotti/">Marco</a> and I am really proud of it.</p>
+
+<h3 id="why-we-did-it">Why we did it</h3>
+<p>We wanted to answer a simple question: <strong>where does the wood of tomorrow come from?</strong> This is an important question because many are looking at wood as future energy source or construction material. Energy from waste wood residues may contribute to reducing our dependency from fossil fuels, as woody feedstock can be used for heating and for producing liquid fuels too. In fact, this study was part of the larger <a href="http://www.et.aau.dk/research-programmes/biomass/activities/c3bo/">C3BO project</a> on producing fuel from wood residues. Wood is also praised as a sustainable construction material and future substitute of cement. <em>So who is going to produce all this wood and where?</em> Once we figure this out, we can investigate in detail what impact wood production will have on the environment in terms of land occupation and emissions. This will allow making better informed decisions and evaluate which energy source and construction material is more <strong>eco-efficient</strong>.</p>
+
+<h3 id="how-we-did-it">How we did it</h3>
+<p>To answer this question we had to study the market of wood products. We live in the times of globalization, so products are traded globally. However, to what extent is this the case for wood products? Chips and particles are light and cheap, but sawn wood is heavy and costly. So there must be differences in the way they are traded. The market may be <strong>not that global</strong> after all. There may be many local markets instead. We looked at trade data from <a href="http://faostat.fao.org/">FAOSTAT</a>. These show the amount of wood products exchanged by all countries in the world via exports and imports, in the last 15 years. <strong>We realized that this was a <em>network</em></strong>! A trade network to be precise. At that point we knew that we could use some powerful mathematical tools (<em>network analysis</em>, <em>clustering algorithms</em>)<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> to crunch the data and see whether the trade network was fragmented into smaller networks, called <em>communities</em>, and whether these could represent <strong>geographical markets</strong>.</p>
+
+<h3 id="what-we-found">What we found</h3>
+<p>We found that the wood trade network could be actually split into smaller geographical markets, which correspond to our communities. Most interestingly the trade network of each wood product was fragmented in a different way. For some products like wood pulp we could observe a huge, global market, with several countries trading between each other. For some other products like sawn wood we could see many different markets with countries trading with their neighbors only. The nice thing is that in the fragmented networks <strong>the identified communities matched quite well existing geographical areas</strong>, e.g. Northern Europe and Asia. This confirmed our expectation that the markets relate to geographical proximity, trade areas (e.g. the EU), and the combination of both.</p>
+
+<h3 id="what-next">What next?</h3>
+<p>Well this was not sufficient to fully answer our initial question. We had to do some other things too, like checking if these geographical markets <strong>changed over time</strong> (they were pretty stable in the last 15 years), and finding who are the most successful countries to produce wood products in each market. Why this last part? Because we assumed that <strong>today’s most successful producers will be tomorrow’s suppliers of wood</strong>. We used a simple approach here. We calculated whether the production of wood products in each country had been increasing or decreasing over the last 15  years. Unfortunately, the results were not robust and changed too much depending on the time-span under analysis, indicating that a more advanced model would be needed. <strong>Ouch!</strong> We’ll take it from here in our next study.</p>
+
+<p> </p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p><em>Pizzol M, Scotti M, Identifying marginal supplying countries of wood products via trade network analysis, The International Journal of Life Cycle Assessment (2016)</em> <a href="http://link.springer.com/article/10.1007/s11367-016-1222-6">doi:10.1007/s11367-016-1222-6</a> <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p><em>The R code used for doing this analysis is available at my github <a href="https://github.com/massimopizzol/Wood_trade_network_analysis">profile</a></em> <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+  
+</article>
+
+      </div>
+    </main>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">moutreach</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>
+            
+              Massimo Pizzol
+            
+            </li>
+            
+            <li><a href="mailto:massimo@plan.aau.com">massimo@plan.aau.com</a></li>
+            
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          
+          <li>
+            <a href="https://github.com/massimopizzol"><span class="icon icon--github"><svg viewBox="0 0 16 16" width="16px" height="16px"><path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/></svg>
+</span><span class="username">massimopizzol</span></a>
+
+          </li>
+          
+
+          
+          <li>
+            <a href="https://twitter.com/m_outreach"><span class="icon icon--twitter"><svg viewBox="0 0 16 16" width="16px" height="16px"><path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/></svg>
+</span><span class="username">m_outreach</span></a>
+
+          </li>
+          
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>popular style research environment
+</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
