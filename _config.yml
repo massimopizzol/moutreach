@@ -24,6 +24,8 @@ twitter_username: m_outreach
 github_username:  massimopizzol
 
 # Build settings
+show_drafts: false
+future: false
 markdown: kramdown
 theme: minima
 gems:

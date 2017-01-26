@@ -14,9 +14,9 @@ excerpt: A post for LCA practitioners with communication issues.
 
 &nbsp;
 
-Reporting and communication are important elements in making understandable, transparent, and reproducible Life Cycle Assessment (LCA) studies. Yet very little has been written on how to report LCA studies the right way.
+Reporting and communication are important elements in making understandable, transparent, and reproducible Life Cycle Assessment (LCA) studies. Yet very little has been written on how to report LCA studies _the right way_.
 
-Sure enough there is a section called _"Reporting"_ in the [ISO14044 standards](http://www.iso.org/iso/catalogue_detail?csnumber=38498). And this section is a long bullet-point list of requirements specifying **what to include** in a LCA report. I have never seen a report that covers all the points, but let's keep this for another post. Another famous documentation on the topic are probably the _"ten commandments" of Heijungs[^1]_ which is a nice reading I really recommend (and open access too...). In his paper Heijungs teaches **how to speak** LCA language. That paper deals with the correct use of LCA terminology in scientific articles.
+Sure enough there is a section called _Reporting_ in the [ISO14044 standards](http://www.iso.org/iso/catalogue_detail?csnumber=38498). And this section is a long bullet-point list of requirements specifying **what to include** in a LCA report. I have never seen a report that covers all the points, but let's keep this for another post. Another famous documentation on the topic are probably the _"ten commandments" of Heijungs[^1]_ which is a nice reading I really recommend (and open access too...). In his paper Heijungs teaches **how to speak** LCA language. That paper deals with the correct use of LCA terminology in scientific articles.
 
 But there is another problem that is not covered by these sources and that I often encounter when reviewing (and writing!) LCA reports: **how to structure** a LCA report. Poor structuring of LCA reports complicates the understanding of the study and ultimately impedes the comprehension of its message.
 
@@ -59,11 +59,11 @@ Fortunately there are also those who can choose report structure freely. So why 
 
 ## 2) Just put stuff in the appendix
 
-I read some days ago a twitter post saying something like: _"Check out the LCA of product X! Oh wait, it's 300 pages..."_ Well....who on earth is gong to read that?
+I read some days ago a twitter post saying something like: _"Check out the LCA of product X! Oh wait, it's 300 pages..."_ I am puzzled about...who is actually gong to read that?
 
-In LCA, it feels like **no space will ever be large enough** to report all the study materials. However, this problem is bogus. It is not only inevitable but also necessary to make a selection of what to present. Because in LCA like in any other discipline some things are way more relevant than others. Secondly, let's not confuse communication and documentation. In my experience a critical selection of the material is always possible and the easiest thing is to **organize stuff in a main document plus appendix** (in the case of a journal article this would be the _manuscript_ and _supplementary material(s)_).
+In LCA, it feels like **no space will ever be large enough** to report all the study materials. However, this problem is bogus. It is not only inevitable but also necessary to make a selection of what to present. Because in LCA like in any other discipline some things are way more relevant than others. Most importantly, let's not confuse communication and documentation. In my experience a critical selection of the material is always possible and the easiest thing is to **organize stuff in a main document plus appendix**. In the case of a scientific journal article this would be the _manuscript_ and _supplementary material_.
 
-The former one is concise, structured, and should tell the main story for those who are simply interested in understanding what is going on and what are key take home messages. The latter is used to document the details behind the study and to provide additional information for those who want to understand what is going on "under the hood" and e.g. use some of the data or results for their own analysis. A quick google search will tell that the word "appendix" derives from the Latin word "appendere" _‘hang upon’_. So it's the place where to hang all the stuff one doesn't really need right now but may be useful later on...
+The former one is concise, structured, and should tell the main story for those who are simply interested in understanding what is going on and what are key take home messages. The latter is used to document the details behind the study and to provide additional information for those who want to understand what is going on _under the hood_ and e.g. use some of the data or results for their own analysis. A quick google search will tell that the word _appendix_ derives from the Latin word _appendere_, i.e. _‘hang upon’_. So it's the place where to hang all the stuff one doesn't really need right now but may be useful later on...
 
 Here below a summary of differences between main document and appendix.
 
