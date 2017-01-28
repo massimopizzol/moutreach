@@ -22,7 +22,7 @@ _Give me consistency or give me death_...said the wise man[^1]. Consistency betw
 
 Let's assume that in a LCA report the foreground system of product X is described with a flow chart that includes three processes named respectively: _production of X_, _use of X_, _disposal of X_.
 
-Now a couple of pages below in the same report there are three inventory tables. One is about the process _X production_, the other one is called _use stage_, and the last one is called _waste management_. Hmmm...are they the same processes as above? Maybe, who knows. Let's continue and see.
+A couple of pages below in the same report there are three inventory tables. One is about the process _X production_, the other one is called _use stage_, and the last one is called _waste management_. Hmmm...are they the same processes as above? Maybe, who knows. Let's continue and see.
 
 Further below in the report the results section proposes a nice and colorful [stacked barchart](https://en.wikipedia.org/wiki/Bar_chart) that reports the contribution analysis for a certain impact category. The chart shows one large bar named _use of X_ and many thin bars with strange names such as: `Barley grain, feed {GLO}| market for | Conseq, U` and `Biowaste {RoW}| market for | Conseq, U`... Yes, these are [ecoinvent database](http://www.ecoinvent.org/database/database.html) names, so it's background processes...
 
