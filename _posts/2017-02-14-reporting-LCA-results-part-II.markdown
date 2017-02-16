@@ -9,7 +9,7 @@ excerpt: The second part of a previous post on communication issues in LCA.
 {: .center }
 ![Desk_order]({{ site.url }}/assets/desk.jpg)
 <center><i><font size="2"> “One day I will find the right words, and they will be simple.”
-― Jack Kerouac, The Dharma Bums (Photo: Massimo Pizzol)</font></i></center>
+― Jack Kerouac, The Dharma Bums (Photo: Massimo Pizzol) </font></i></center>
 
 &nbsp;
 
