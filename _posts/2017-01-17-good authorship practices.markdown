@@ -2,7 +2,7 @@
 layout: post
 title:  "Surviving co-authorship"
 date:   2017-01-17
-tags: [authorship, scientific writing]
+tags: [scientific writing]
 excerpt: Seven good practices for co-authoring scientific papers
 ---
 
