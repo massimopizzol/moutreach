@@ -3,7 +3,7 @@ layout: post
 title:  "Wood networks are nice"
 date:   2016-12-07
 tags: [articles, life cycle assessment]
-excerpt: I have written this article together with Marco and I am really proud of it.
+excerpt: I have written this article together with Marco and I am really proud of it
 ---
 ![Network screenshot]({{ site.url }}/assets/Network.PNG)
 

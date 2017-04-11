@@ -6,7 +6,7 @@ tags: [teaching]
 excerpt: On participatory scenario development
 ---
 
-Today I had the chance to run a scenario workshop, something I wanted to try since I took a [PEER course](http://www.peer.eu/projects/metier-training-courses/course-7-environmental-scenario-analysis/) on this topic when I was a PhD student. So I though about writing a series of posts about **group-exercises to teach sustainability, modelling, and system thinking** that I am so lucky to have on my teaching portfolio.
+Today I had the chance to run a scenario workshop together with my good colleague [Lone](http://personprofil.aau.dk/109964). This is something I wanted to try since I was a PhD student and took a [PEER course](http://www.peer.eu/projects/metier-training-courses/course-7-environmental-scenario-analysis/) on this topic. So I though about writing a series of posts about **group-exercises to teach sustainability** that I am so lucky to have on my teaching portfolio.
 
 # Problem based learning
 
@@ -14,7 +14,7 @@ A little introduction about teaching methods first: at Aalborg University we wor
 
 For this reason students don't attend many frontal lectures and instead spend a substantial amount of time working on group-projects. The few lectures are also structured slightly differently than typical university lectures: **lectures look more like workshops...** where the teacher speaks a bit and then the students work on a group exercise, and this pattern is repeated.
 
-So in the last years I have developed some group-exercises that I find useful to teach sustainability, modelling, and system thinking. Besides being all *learning-by-doing* exercises that put PBL principles from theory into practice, they have various other things in common so it is interesting to compare them. An example follows.
+So in the last years I have developed some group-exercises that I find useful to teach sustainability via modelling and system thinking. Besides being all *learning-by-doing* exercises that put PBL principles from theory into practice, they have various other things in common so it is interesting to compare them. An example follows.
 
 # Participatory Scenario Development
 
