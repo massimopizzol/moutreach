@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Reflections on the yearly research group seminar"
-date:   2016-12-19
+title: "Reflections on the yearly research group seminar"
+date: 2016-12-19
 tags: [networking]
 excerpt: What is it about and why I think it was great
 ---

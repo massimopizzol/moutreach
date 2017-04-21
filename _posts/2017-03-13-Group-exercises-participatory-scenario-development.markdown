@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A group-exercise"
-date:   2017-03-13
+title: "A group-exercise"
+date: 2017-03-13
 tags: [teaching]
 excerpt: On participatory scenario development
 ---

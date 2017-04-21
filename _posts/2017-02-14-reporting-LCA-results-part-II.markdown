@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "More on LCA report structure (somehow)"
+title: "More on LCA report structure (somehow)"
 tags: [scientific writing, life cycle assessment]
 excerpt: The second part of a previous post on communication issues in LCA
 ---

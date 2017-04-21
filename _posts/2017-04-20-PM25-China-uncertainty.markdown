@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "From Aalborg to Beijing via Monte Carlo"
-date:   2017-04-20
+title: "From Aalborg to Beijing via Monte Carlo"
+date: 2017-04-20
 tags: [articles]
 excerpt: A research on PM2.5 air pollution and its social costs
 ---

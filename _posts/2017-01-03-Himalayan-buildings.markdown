@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Sustainable Himalayan buildings"
-date:   2017-01-03 08:00:00 +0100
+title: "Sustainable Himalayan buildings"
+date:  2017-01-03 08:00:00 +0100
 tags: [articles, life cycle assessment]
 excerpt: A study on the environmental impact of modern versus traditional construction methods
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A proof of concept"
-date:   2017-06-10
+title: "A proof of concept"
+date: 2017-06-10
 tags: [articles, life cycle assessment]
 excerpt: Input output analysis, social LCA, Indonesian internet cafes, and much more...all in one story
 ---

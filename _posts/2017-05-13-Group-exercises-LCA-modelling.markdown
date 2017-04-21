@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "And a third group-exercise"
-date:   2017-05-13
+title: "And a third group-exercise"
+date: 2017-05-13
 tags: [teaching, life cycle assessment]
 excerpt: To feel the life cycle assessment modelling thrill
 ---

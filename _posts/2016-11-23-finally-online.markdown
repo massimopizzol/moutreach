@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Finally online
+title: Finally online
 tags: [networking]
 date: 2016-11-23  23:15:00 +0100
 ---

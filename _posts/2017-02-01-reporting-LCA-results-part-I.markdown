@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to structure a LCA report"
+title: "How to structure a LCA report"
 tags: [scientific writing, life cycle assessment]
 excerpt: A post for LCA practitioners with communication issues
 ---
