@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Another group-exercise"
-date:   2017-04-13
+date:   2017-04-21
 tags: [teaching, sustainability]
 excerpt: On causal loop diagrams and sustainability stories
 ---
@@ -12,11 +12,11 @@ Here another post of the series about **group-exercises to teach sustainability*
 
 This exercise is usually done in the context of a lecture about _sustainability_. The point I use to make is that every time we talk about sustainability we also end up talking about _systems_ (and _values_, and other things, but let's focus on the systems). And every time we talk about systems we end up talking about _models_. So one may want to understand what a model is, and what a system is, in order to understand what sustainability is. A great way of learning these things is working with [causal loop diagrams](https://thesystemsthinker.com/causal-loop-construction-the-basics/).
 
-Another element of my rationale is that **sustainability is a difficult concept to communicate and explain**. Try writing a short but precise _definition_ of sustainability and see what happens. Yet **stories** and narratives are effective tools to convey the feeling and idea of what sustainability is. The [Easter Island](https://en.wikipedia.org/wiki/Easter_Island) story is for example used in the Sustainability Science[^1] book.
+Another element of my rationale is that sustainability is a **difficult concept to communicate** and explain. Try writing a short but precise _definition_ of sustainability and see what happens. Yet **stories** and narratives are effective tools to convey the feeling and idea of what sustainability is. The [Easter Island](https://en.wikipedia.org/wiki/Easter_Island) story is for example used in the Sustainability Science[^1] book.
 
 Summing up, combine system thinking and narratives and you get this exercise.
 
-To be honest, I should also say that in developing it I was much inspired by the findings of the [RESPONDER](http://www.scp-responder.eu/) EU project, where causal loop diagrams are used in **stakeholder workshops to achieve a common understanding of complex problems**. Yep, this is very much like in the case of the scenario development  exercise of my [previous post]({{ site.url }}/2017/03/13/Group-exercises-participatory-scenario-development.html)!
+To be honest, I should also say that in developing it I was much inspired by the findings of the [RESPONDER](http://www.scp-responder.eu/) EU project, where causal loop diagrams are used in stakeholder workshops to achieve a **common understanding** of complex problems. Yes, this is very much like in the case of the scenario development exercise of my [previous post]({{ site.url }}/2017/03/13/Group-exercises-participatory-scenario-development.html)!
 
 # So how does the exercise work?
 
