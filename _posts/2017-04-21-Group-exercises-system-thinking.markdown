@@ -2,7 +2,7 @@
 layout: post
 title:  "Another group-exercise"
 date:   2017-04-21
-tags: [teaching, sustainability]
+tags: [teaching]
 excerpt: On causal loop diagrams and sustainability stories
 ---
 
