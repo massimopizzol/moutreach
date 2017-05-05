@@ -3,7 +3,9 @@ layout: post
 title: Finally online
 tags: [networking]
 date: 2016-11-23  23:15:00 +0100
+excerpt: moutreach lives!
 ---
+
 ### **moutreach** lives!
 
 Now it's time to gradually upload content...so let's start breaking the ice. **The first feeling of being online is a mix of excitement and fear**.

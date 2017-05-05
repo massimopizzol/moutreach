@@ -19,7 +19,7 @@ Sure enough there is a section called _Reporting_ in the [ISO14044 standards](ht
 
 But there is another problem that is not covered by these sources and that I often encounter when reviewing (and writing!) LCA reports: **how to structure** a LCA report. Poor structuring of LCA reports complicates the understanding of the study and ultimately impedes the comprehension of its message.
 
-So in this post I describe two typical problems in structuring LCA reports and propose practical solutions to overcome them. In the context of this post a _LCA report_ is defined as any document intended to thoroughly communicate the making and the outcome of a LCA study. Thus, here both a student project report and a scientific article are examples of LCA reports. As usual in this blog the proposed ideas and recommendations are based on my experience as LCA researcher and teacher, _so these are things that I have tried and work well **for me**_, but it's not dogma[^2].
+So in this post I describe two typical problems in structuring LCA reports and propose practical solutions to overcome them. In the context of this post a _LCA report_ is defined as any document intended to thoroughly communicate the making and the outcome of a LCA study. Thus, here both a student project report and a scientific article are examples of LCA reports. As usual in this blog the proposed ideas and recommendations are based on my experience as LCA researcher and teacher, _so these are things that I have tried and work well **for me**_, but it's not dogma.
 
 ## 1) The four ISO phases are not a report structure
 
@@ -101,4 +101,3 @@ I will add some more in a future post and also draw conclusions on this topic.
 &nbsp;
 
 [^1]:	Heijungs, R., 2013. _Ten easy lessons for good communication of LCA._ Int. J. Life Cycle Assess. 1–4. [doi:10.1007/s11367-013-0662-5](http://link.springer.com/article/10.1007/s11367-013-0662-5)
-[^2]: You have a valid reason to think I am writing nonsense or you feel an urgent need to add your two cents? Please [write me an email]({{ site.url }}/about/) and there are good chances I'll extend this post to reflect your inputs...
