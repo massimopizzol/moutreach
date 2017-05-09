@@ -7,7 +7,7 @@ excerpt: Big databases and noisy Indonesian internet cafés...all in one story
 ---
 
 
-![market]({{ site.url }}/assets/market.jpg)
+![market]({{ site.url }}/assets/market.JPG)
 <center><i><font size="2"> Market activities in Singapore (Photo: Massimo Pizzol)</font></i></center>
 
 This post is about a research article[^1] I co-authored with Gilang Hardadi. Gilang is a former student from the [JEMES](http://www.jemes-cisu.eu/joomla3/) program, who is now doing a PhD in industrial ecology at the [University of Freiburg](https://www.indecol.uni-freiburg.de/en).
