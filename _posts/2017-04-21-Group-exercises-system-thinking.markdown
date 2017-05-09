@@ -38,9 +38,5 @@ This exercise addresses, in his own way, sustainability, modelling, and system t
 
 &nbsp;
 
-_Want to leave a comment? Write me: massimo@plan.aau.dk_
-
-&nbsp;
-
 [^1]: De Vries B, 2012. _Sustainability science._ Cambridge University Press, 1 edition, 2012.
 [^2]: Bossel H, 2007. _Systems and models, complexity dynamics evolution sustainability._ BoD Publ.

@@ -35,8 +35,4 @@ This exercise addresses sustainability, modelling, and system thinking. A key po
 
 &nbsp;
 
-_Want to leave a comment? Write me: massimo@plan.aau.dk_
-
-&nbsp;
-
 [^1]: _Chapter 5.1 How to explore the future with a scenario exercise_, in Ash et al. (eds.), 2009, [Ecosystems and human well-being  - A manual for assessment practitioners](https://www.unep-wcmc.org/resources-and-data/ecosystems-and-human-wellbeing--a-manual-for-assessment-practitioners)
