@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "A proof of concept"
-date: 2017-06-10
+date: 2017-05-09
 tags: [articles, life cycle assessment]
-excerpt: Input output analysis, social LCA, Indonesian internet cafes, and much more...all in one story
+excerpt: Big databases and noisy Indonesian internet cafés...all in one story
 ---
 
 
-![IO image]({{ site.url }}/assets/Network.PNG)
-
+![market]({{ site.url }}/assets/market.jpg)
+<center><i><font size="2"> Market activities in Singapore (Photo: Massimo Pizzol)</font></i></center>
 
 This post is about a research article[^1] I co-authored with Gilang Hardadi. Gilang is a former student from the [JEMES](http://www.jemes-cisu.eu/joomla3/) program, who is now doing a PhD in industrial ecology at the [University of Freiburg](https://www.indecol.uni-freiburg.de/en).
 
@@ -39,10 +39,11 @@ All this didn't really happen _that_ smoothly. First Gilang did a base version o
 
 What's the **scientific value** of this work? The material result is a long list of values of unemployment and accidents data per sector level per country, plus an estimation of their impact and algorithms on how to repeat this analysis. There are some **heavy assumptions** behind these values, for example disaggregating the number of unemployed for a macro-sector to its industrial sub-sectors based on the total economic output of these sub-sectors. It's also unrealistic that many readers will spend time checking one by one all these values.
 
-The work was thus framed as a [proof of concept](https://en.wikipedia.org/wiki/Proof_of_concept) were the focus is not much on the numerical values as such but on **showing that this particular procedure is feasible**. That is, we showed how it is actually possible to extend an existing input-output database to new indicators related to labor and working conditions, how it is possible to fill data gaps in various ways and validated the results, and to use this extension as starting point for the assessment of the specific social impacts all the way through endpoint values in monetary units.
+The work was thus framed as a [proof of concept](https://en.wikipedia.org/wiki/Proof_of_concept) were the focus is not much on the numerical values as such but on **showing that this particular procedure is feasible**. That is, we showed how it is actually possible to extend an existing input-output database to new indicators related to labor and working conditions, how it is possible to fill data gaps in various ways and validate the results, and to use this extension as starting point for the assessment of the specific social impacts all the way through endpoint values in monetary units.
 
-Summing up on this experience, the real proof of concept was that **combining teaching and research is possible**, even when working remotely and even on strict deadlines. Yet we didn't manage to drink a beer to celebrate the paper acceptance...
+Summing up on this experience, the real proof of concept was that **combining teaching and research is possible**, even when working remotely and even on strict deadlines. One regret though: we didn't manage to drink a beer to celebrate the paper acceptance...
 
+&nbsp;
 
-[^1]: _Hardadi G, Pizzol M. Extending the Multi Regional Input-Output framework to labor related impacts: a proof of concept. Journal of Industrial Ecology (2017)._ [doi: ... ... ](...)
+[^1]: _Hardadi G, Pizzol M. Extending the Multi Regional Input-Output framework to labor related impacts: a proof of concept. Journal of Industrial Ecology (2017)._ [DOI: 10.1111/jiec.12588](http://onlinelibrary.wiley.com/wol1/doi/10.1111/jiec.12588/full)
 [^2]: _Weidema B. The social footprint—a practical approach to comprehensive and consistent social LCA. International Journal of Life Cycle Assessment (2016)._ [doi:10.1007/s11367-016-1172-z](https://link.springer.com/article/10.1007/s11367-016-1172-z)

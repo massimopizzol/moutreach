@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![Portrait of MAPI]({{ site.url }}/assets/portrait2.jpeg)
+
 I am a researcher in **sustainability**.
 
 **moutreach** is a blog about my research work and experiences.
