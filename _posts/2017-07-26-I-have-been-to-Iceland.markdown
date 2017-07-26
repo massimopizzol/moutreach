@@ -7,9 +7,8 @@ excerpt: To learn about energy, landscape, and planning
 ---
 
 ![Volcano]({{ site.url }}/assets/Iceland1.JPG)
-<center><i><font size="2"> The [Hekla](https://www.google.dk/maps/place/Hekla/@64.0506225,-19.7870262,10z/data=!4m13!1m7!3m6!1s0x4f2b5426adb69ddb:0x85dec39e1095c74!2sGj%C3%B6gur,+Iceland!3b1!8m2!3d65.979713!4d-21.43627!3m4!1s0x48d6cfbd3c2a9c03:0xe6aae6a0dfef319!8m2!3d63.9833409!4d-19.6998596) volcano in Iceland, that  not far from the 'famous' Eyjafjallajökull volcano (Photo credits: Massimo Pizzol)</font></i></center>
+<center><i><font size="2"> The Hekla volcano in Iceland, that  not far from the 'famous' Eyjafjallajökull volcano (Photo credits: Massimo Pizzol)</font></i></center>
 
-&nbsp;
 
 This May I was so lucky to join for five days the training school on _Questions of Power and Participation: Renewable Energy and Landscape in Policy and Planning_, held in beautiful Iceland, as part of the [RELY action](http://cost-rely.eu/) of the [COST programme](http://www.cost.eu/) of the European Union. The COST programme is a sort of special EU programme that does not fund research activities in terms of salaries but funds exclusively networking activities such as the organization of conferences, meetings, training schools, etc. _"By creating open spaces where people and ideas can grow, we unlock the full potential of science"_ [they say](http://www.cost.eu/), and I agree.
 
@@ -33,7 +32,6 @@ There were three main reasons for attending:
 ![GeothHike]({{ site.url }}/assets/Iceland3.JPG)
 <center><i><font size="2"> Hiking in the geothermal landscape of Iceland (Photo credits: Massimo Pizzol)</font></i></center>
 
-&nbsp;
 
 Everything **perfect**!
 
@@ -48,8 +46,6 @@ Memorable things to remember:
 ![GroupA]({{ site.url }}/assets/Iceland2.JPG)
 <center><i><font size="2"> The 'Group A' working on the energy futures of Iceland. (Photo credits: Karl Benediktsson)</font></i></center>
 
-&nbsp;
-
-- Met a bunch of nice people with various background and had a **lot of good talks and good beers**! (though expensive, the beers). So I would say my networking expectations were 100% met.
+- I met a bunch of nice people with various background and had a **lot of good talks and good beers**! (though expensive, the beers). So I would say my networking expectations were 100% met.
 
 **Great times!**
