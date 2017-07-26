@@ -44,7 +44,7 @@ Memorable things to remember:
 - Science-wise I was part of a small group who worked with **participatory scenario development** (I wrote about it in a [previous post](http://moutreach.science/2017/03/13/Group-exercises-participatory-scenario-development.html)) on the future energy developments in Iceland, under the supervision of [Karl Benediktsson](http://starfsfolk.hi.is/en/simaskra/1467), so I was able to experiment more with this tool. We are now working on a scientific paper based on the work done. More in general there were many sources of inspiration, both theoretical and methodological, from the use of games in public involvement to how to build a survey for successive principal component analysis.
 
 ![GroupA]({{ site.url }}/assets/Iceland2.JPG)
-<center><i><font size="2"> The 'Group A' working on the energy futures of Iceland. (Photo credits: Karl Benediktsson)</font></i></center>
+<center><i><font size="2"> The 'Group A' working on the energy futures of Iceland. (Photo credits: Massimo Pizzol)</font></i></center>
 
 - I met a bunch of nice people with various background and had a **lot of good talks and good beers**! (though expensive, the beers). So I would say my networking expectations were 100% met.
 
