@@ -7,7 +7,7 @@ excerpt: To learn about energy, landscape, and planning
 ---
 
 ![Volcano]({{ site.url }}/assets/Iceland1.JPG)
-<center><i><font size="2"> The Hekla volcano in Iceland, that  not far from the 'famous' Eyjafjallajökull volcano (Photo credits: Massimo Pizzol)</font></i></center>
+<center><i><font size="2"> The Hekla volcano in Iceland, not far from the 'famous' Eyjafjallajökull volcano (Photo credits: Massimo Pizzol)</font></i></center>
 
 
 This May I was so lucky to join for five days the training school on _Questions of Power and Participation: Renewable Energy and Landscape in Policy and Planning_, held in beautiful Iceland, as part of the [RELY action](http://cost-rely.eu/) of the [COST programme](http://www.cost.eu/) of the European Union. The COST programme is a sort of special EU programme that does not fund research activities in terms of salaries but funds exclusively networking activities such as the organization of conferences, meetings, training schools, etc. _"By creating open spaces where people and ideas can grow, we unlock the full potential of science"_ [they say](http://www.cost.eu/), and I agree.
