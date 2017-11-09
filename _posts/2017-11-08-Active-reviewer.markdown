@@ -6,7 +6,7 @@ date: 2017-11-08
 excerpt: A mini-survey about how many papers my peers review and why
 ---
 
-![Peers]({{ site.url }}/assets/Peers.jpg)
+![Peers]({{ site.url }}/assets/Peers.JPG)
 <center><i><font size="2">'Peers' (Photo credits: Massimo Pizzol)</font></i></center>
 
 # Being a reviewer
