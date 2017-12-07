@@ -1,0 +1,501 @@
+{CSV separator: Semicolon}
+{CSV Format version: 7.0.0}
+{Decimal separator: .}
+{Date separator: /}
+{Short date format: dd/MM/yyyy}
+
+Process
+
+
+Category type
+material
+
+Time Period
+Unspecified
+
+Geography
+Unspecified
+
+Technology
+Unspecified
+
+Representativeness
+Unspecified
+
+Multiple output allocation
+Unspecified
+
+Substitution allocation
+Unspecified
+
+Cut off rules
+Unspecified
+
+Capital goods
+Unspecified
+
+Boundary with nature
+Unspecified
+
+Record
+
+
+Generator
+
+
+Literature references
+
+
+Collection method
+
+
+Data treatment
+
+
+Verification
+Comment
+
+Products
+"Fishery [Herring]_";"kg";"1.0";"100%";"not defined";"_Pickled Herring_2015_alternative";
+
+Materials/fuels
+"Diesel, burned in building machine {GLO}| market for | Conseq, U";"MJ";"0.18";"Undefined";"0";"0";"0";
+
+Resources
+
+Emissions to air
+
+Emissions to water
+"Copper";"";"mg";"15.0";"Undefined";"0";"0";"0";
+"Tributyltin oxide";"";"mg";"4.1";"Undefined";"0";"0";"0";
+
+Emissions to soil
+
+Final waste flows
+
+Non material emission
+
+
+Social issues
+
+Economic issues
+
+Waste to treatment
+
+End
+
+
+Process
+
+
+Category type
+material
+
+Time Period
+Unspecified
+
+Geography
+Unspecified
+
+Technology
+Unspecified
+
+Representativeness
+Unspecified
+
+Multiple output allocation
+Unspecified
+
+Substitution allocation
+Unspecified
+
+Cut off rules
+Unspecified
+
+Capital goods
+Unspecified
+
+Boundary with nature
+Unspecified
+
+Record
+
+
+Generator
+
+
+Literature references
+
+
+Collection method
+
+
+Data treatment
+
+
+Verification
+Comment
+
+Products
+"Production [Pickled herring]_";"kg";"1.0";"100%";"not defined";"_Pickled Herring_2015_alternative";
+
+Materials/fuels
+"Utilization of by-product [Fish meal]_";"kg";"-0.428";"Undefined";"0";"0";"0";
+"Electricity, medium voltage {DK}| market for | Conseq, U";"MJ";"1.8";"Undefined";"0";"0";"0";
+"Heat, central or small-scale, natural gas {Europe without Switzerland}| market for heat, central or small-scale, natural gas | Conseq, U";"MJ";"3.7";"Undefined";"0";"0";"0";
+"Tap water {Europe without Switzerland}| market for | Conseq, U";"kg";"15.0";"Undefined";"0";"0";"0";
+"Packaging glass, white {GLO}| market for | Conseq, U";"kg";"1.5";"Undefined";"0";"0";"0";
+"Sugar, from sugar beet {GLO}| market for | Conseq, U";"g";"0.05";"Undefined";"0";"0";"0";
+
+Resources
+
+Emissions to air
+
+Emissions to water
+
+Emissions to soil
+
+Final waste flows
+
+Non material emission
+
+
+Social issues
+
+Economic issues
+
+Waste to treatment
+"Wastewater, average {GLO}| market for | Conseq, U";"m3";"1.98076923077";"Undefined";"0";"0";"0";
+
+End
+
+
+Process
+
+
+Category type
+material
+
+Time Period
+Unspecified
+
+Geography
+Unspecified
+
+Technology
+Unspecified
+
+Representativeness
+Unspecified
+
+Multiple output allocation
+Unspecified
+
+Substitution allocation
+Unspecified
+
+Cut off rules
+Unspecified
+
+Capital goods
+Unspecified
+
+Boundary with nature
+Unspecified
+
+Record
+
+
+Generator
+
+
+Literature references
+
+
+Collection method
+
+
+Data treatment
+
+
+Verification
+Comment
+
+Products
+"Supermarket [Retail service, pickled herring]_";"kg";"1.0";"100%";"not defined";"_Pickled Herring_2015_alternative";
+
+Materials/fuels
+"Electricity, medium voltage {DE}| market for | Conseq, U";"MJ";"1.9";"Undefined";"0";"0";"0";
+"Transport, freight, lorry, unspecified {GLO}| market for | Conseq, U";"kgkm";"2.9";"Undefined";"0";"0";"0";
+
+Resources
+
+Emissions to air
+"Ethane, pentafluoro-, HFC-125";"";"mg";"2.8";"Undefined";"0";"0";"0";
+"Ethane, 1,1,1,2-tetrafluoro-, HFC-134a";"";"mg";"71.0";"Undefined";"0";"0";"0";
+"Ethane, 1,1,1-trifluoro-, HFC-143a";"";"mg";"34.0";"Undefined";"0";"0";"0";
+
+Emissions to water
+
+Emissions to soil
+
+Final waste flows
+
+Non material emission
+
+
+Social issues
+
+Economic issues
+
+Waste to treatment
+
+End
+
+
+Process
+
+
+Category type
+material
+
+Time Period
+Unspecified
+
+Geography
+Unspecified
+
+Technology
+Unspecified
+
+Representativeness
+Unspecified
+
+Multiple output allocation
+Unspecified
+
+Substitution allocation
+Unspecified
+
+Cut off rules
+Unspecified
+
+Capital goods
+Unspecified
+
+Boundary with nature
+Unspecified
+
+Record
+
+
+Generator
+
+
+Literature references
+
+
+Collection method
+
+
+Data treatment
+
+
+Verification
+Comment
+
+Products
+"Consumption [Pickled herring]_";"kg";"1.0";"100%";"not defined";"_Pickled Herring_2015_alternative";
+
+Materials/fuels
+"Electricity, low voltage {DE}| market for | Conseq, U";"MJ";"4.7";"Undefined";"0";"0";"0";
+"Tap water {Europe without Switzerland}| market for | Conseq, U";"kg";"17.0";"Undefined";"0";"0";"0";
+"Transport, passenger car {RER}| market for | Conseq, U";"km";"3.1";"Undefined";"0";"0";"0";
+
+Resources
+
+Emissions to air
+
+Emissions to water
+
+Emissions to soil
+
+Final waste flows
+
+Non material emission
+
+
+Social issues
+
+Economic issues
+
+Waste to treatment
+"Wastewater, average {GLO}| market for | Conseq, U";"m3";"4.74358974359";"Undefined";"0";"0";"0";
+"Waste glass {GLO}| market for | Conseq, U";"kg";"1.5";"Undefined";"0";"0";"0";
+"Municipal solid waste {DE}| treatment of, incineration | Conseq, U";"kg";"0.1";"Undefined";"0";"0";"0";
+
+End
+
+
+Process
+
+
+Category type
+material
+
+Time Period
+Unspecified
+
+Geography
+Unspecified
+
+Technology
+Unspecified
+
+Representativeness
+Unspecified
+
+Multiple output allocation
+Unspecified
+
+Substitution allocation
+Unspecified
+
+Cut off rules
+Unspecified
+
+Capital goods
+Unspecified
+
+Boundary with nature
+Unspecified
+
+Record
+
+
+Generator
+
+
+Literature references
+
+
+Collection method
+
+
+Data treatment
+
+
+Verification
+Comment
+
+Products
+"Utilization of by-product [Fish meal]_";"kg";"1.0";"100%";"not defined";"_Pickled Herring_2015_alternative";
+
+Materials/fuels
+"Protein feed, 100% crude {GLO}| market for | Conseq, U";"kg";"0.7";"Undefined";"0";"0";"0";
+"Energy feed, gross {GLO}| market for | Conseq, U";"MJ";"22.0";"Undefined";"0";"0";"0";
+
+Resources
+
+Emissions to air
+
+Emissions to water
+
+Emissions to soil
+
+Final waste flows
+
+Non material emission
+
+
+Social issues
+
+Economic issues
+
+Waste to treatment
+
+End
+
+
+Process
+
+
+Category type
+material
+
+Time Period
+Unspecified
+
+Geography
+Unspecified
+
+Technology
+Unspecified
+
+Representativeness
+Unspecified
+
+Multiple output allocation
+Unspecified
+
+Substitution allocation
+Unspecified
+
+Cut off rules
+Unspecified
+
+Capital goods
+Unspecified
+
+Boundary with nature
+Unspecified
+
+Record
+
+
+Generator
+
+
+Literature references
+
+
+Collection method
+
+
+Data treatment
+
+
+Verification
+Comment
+
+Products
+"Life Cycle [Pickled Herring]";"kg";"1.0";"100%";"not defined";"_Pickled Herring_2015_alternative";
+
+Materials/fuels
+"Fishery [Herring]_";"kg";"2.9282";"Undefined";"0";"0";"0";
+"Production [Pickled herring]_";"kg";"1.21";"Undefined";"0";"0";"0";
+"Supermarket [Retail service, pickled herring]_";"kg";"1.1";"Undefined";"0";"0";"0";
+"Consumption [Pickled herring]_";"kg";"1.0";"Undefined";"0";"0";"0";
+
+Resources
+
+Emissions to air
+
+Emissions to water
+
+Emissions to soil
+
+Final waste flows
+
+Non material emission
+
+
+Social issues
+
+Economic issues
+
+Waste to treatment
+
+End
+
+

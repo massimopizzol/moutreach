@@ -28,7 +28,7 @@ Let's have a look at **the results**:
 ![ARSresult1]({{ site.url }}/assets/ARSresult1.png)
 <center><i><font size="2">Absolute number of reviews in a year</font></i></center>
 
-As expected, the respondents received invitations that they were are **not** qualified to review (approx. 6 qualified invitation out of 10 received). Even if qualified for the job, respondents **didn't always accept invitations** (approx. 6-7 done out of 10 qualifying). Finally, the number of reviews done by the respondents was generally **similar** to the number of reviews they think is appropriate to do (approx. 1 to 1 relationship).
+As expected, the respondents received invitations that they were **not** qualified to review (approx. 6 qualified invitations out of 10 received). Even if qualified for the job, respondents **didn't always accept invitations** (approx. 6-7 done out of 10 qualifying). Finally, the number of reviews done by the respondents was generally **similar** to the number of reviews they think is appropriate to do (approx. 1 to 1 relationship).
 
 There are of course differences by scientific field. I knew I had some cryptographers in my network and they are **super-active** reviewers in general, things work a bit differently in their field, so I am not surprised by the high scores for Formal Sciences. Social scientists seem the less active, but I have a lower number of respondents so it might be just an impression (I haven't tested statistically because...I am lazy).
 
@@ -50,7 +50,7 @@ What are **the opinions** of the respondents about reviewing papers? Let's see.
 ![ARSresult2]({{ site.url }}/assets/ARSresult2.png)
 <center><i><font size="2">Opinions on reviewing papers, on a 1-9 Likert scale</font></i></center>
 
-Seems like reviewing papers is **definitely intellectually stimulating**. Even if is considered a time consuming task, it is **not perceived as a waste of time**, and instead considered beneficial for research. The **funny thing** is that although it is perceived as part of the job, it is not encouraged by the management according to the respondents...! I think respondents are a bit **undecided** on how beneficial is reviewing papers career-wise.
+Seems like reviewing papers is **definitely intellectually stimulating**. Even if it is considered a time consuming task, it is **not perceived as a waste of time**, and instead considered beneficial for research. The **funny thing** is that although it is perceived as part of the job, it is not encouraged by the management according to the respondents...! I think respondents are a bit **undecided** on how beneficial is reviewing papers career-wise.
 
 At a quick testing, these variables seem **poorly correlated**. This may be a good sign. It may signify that the variables addressed different and non-overlapping issues and their selection was thus appropriate. The main highlights are the moderate correlation between benefit for research and for career and the moderate inverse correlation between being intellectually stimulating and being a waste of time. Both make sense considered that the respondents are mostly academics (their career is in research, **they value intellectual work**).
 
