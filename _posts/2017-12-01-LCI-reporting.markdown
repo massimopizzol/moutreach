@@ -13,7 +13,7 @@ I am reading a LCA report from an institution that I will not mention by authors
 
 The authors have managed to write 100+ pages **without** being able to clearly explain what they did. If I had to replicate their results, it would take me a week of work just to put together the information.
 
-This situation is not uncommon unfortunately. The problem with may LCA reports of all types (scientific papers, grey literature, student projects) is that either the inventory data are **not reported**, or the authors are **overloading the reader** with information. For _information overload_ I mean filling the document with tables and text, numerous and disorganised, and even irrelevant, so that even if the data are actually there it's impossible to find them with reasonable effort. Neither omitting data nor making them impossible to understand corresponds to what I consider _transparent, complete, and clear_ documentation (which is what I would expect from any LCA report).
+This situation is not uncommon unfortunately. The problem with many LCA reports of all types (scientific papers, scientific reports, student projects) is that either the inventory data are **not reported**, or the authors are **overloading the reader** with information. For _information overload_ I mean filling the document with tables and text, numerous and disorganised, and even irrelevant, so that even if the data are actually there it's impossible to make sense of them with reasonable effort. Neither omitting data nor making them impossible to understand corresponds to what I consider _transparent, complete, and clear_ documentation (which is what I would expect from any LCA report).
 
 It is just so important to document the modelling done in an LCA study in a way that is easily **understandable** (and ideally also **reproducible**, but that is a different story). Bad writing is a sign of bad thinking. So when I read a LCA report that is not reporting the data in an organised way I have difficulties in taking the analysis seriously. Readers must be put in the condition to understand in detail and reasonably quickly what was done in the study. And for _what was done_ I mean _what is the product system_.
 
@@ -76,7 +76,7 @@ Here the **second table** (db = database).
 {: .center }
 | **Activity B** | **Amount** | **Unit** | **Type** | **Notes** |
 | Product _b_ | 0.5 | kg |  Output | Reference flow |
-| Product _d_ | 1 | kg | Input | Name/code of db activity D |
+| Product _d_ | 2 | kg | Input | Name/code of db activity D |
 | Env. exchange _x_ | 1 | kg | Air | - |
 {:.mbtablestyle}
 <i><font size="2">Table 2. Inventory of activity B, data from Pizzol M (2017), foreground activities from 'db_name', 'db_version'</font></i>
