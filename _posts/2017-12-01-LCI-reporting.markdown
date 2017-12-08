@@ -63,7 +63,7 @@ Here below the **first table**.
 {:.mbtablestyle}
 <i><font size="2">Table 1. Inventory of activity A, data from Pizzol M (2017)</font></i>
 
-It's important to refer to the other inventory tables, and to **add sources**. How can people find the information otherwise?
+It's important to refer to the other inventory tables. It is also useful to **add sources** in case of secondary data. Here I put everything in a generic column called _Notes_.
 
 # Background system (database activities used)
 
