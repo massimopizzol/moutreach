@@ -35,7 +35,7 @@ Another was an Impressive presentation of Laurent Vandepaer et al. at [PSI](http
 - You could take a beer at the lunch break. And we literally talked about the posters "over lunch". **Gastronomic**.
 - [Matthias Buyle](https://www.uantwerpen.be/en/staff/matthias-buyle/) awarded for _Best contribution to LCA modelling_ by the [International Life Cycle Academy](https://ilca.es/meetings-and-awards/academy-awards/awards-2017/ ). And I am a co-author of the [paper](https://doi.org/10.1007/s11367-017-1389-5) ;) **Show-off**.
 
-![SETACCSS17_2]({{ site.url }}/assets/SETACCSS17_1.jpg)
+![SETACCSS17_2]({{ site.url }}/assets/SETACCSS17_2.jpg)
 <center><i><font size="2"> Matthias receiving the award, well done! (Photo credits: Massimo Pizzol)</font></i></center>
 
 # What I missed
@@ -52,5 +52,5 @@ In general I get a lot of ideas after attending conferences and now I also know 
 
 **Hasta la vista, baby**
 
-![SETACCSS17_3]({{ site.url }}/assets/SETACCSS17_1.jpg)
+![SETACCSS17_3]({{ site.url }}/assets/SETACCSS17_3.jpg)
 <center><i><font size="2"> How did I get there? (Photo credits: Massimo Pizzol)</font></i></center>
