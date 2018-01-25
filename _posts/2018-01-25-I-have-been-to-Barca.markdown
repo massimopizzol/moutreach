@@ -7,8 +7,8 @@ excerpt: Living la vida loca at SETAC CSS '17 conference
 ---
 
 
-![SETACCSS17_3]({{ site.url }}/assets/SETACCSS17_3.jpg)
-<center><i><font size="2"> How did I get there? (Photo credits: Massimo Pizzol)</font></i></center>
+![SETACCSS17_1]({{ site.url }}/assets/SETACCSS17_3.jpg)
+<center><i><font size="2"> How did I get there? Blurred memories (Photo credits: Massimo Pizzol)</font></i></center>
 
 
 So [SETAC](https://www.setac.org/) together with the LCA guru [Bo Weidema](https://ilca.es/about-us/governing-board/) decided to dedicate the 2017 edition of the [LCA case study symposium](https://lca2017.setac.org/) to [consequential LCA](https://consequential-lca.org/). **Good idea.**
