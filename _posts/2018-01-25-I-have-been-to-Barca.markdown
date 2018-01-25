@@ -6,8 +6,10 @@ tags: [networking, life cycle assessment]
 excerpt: Living la vida loca at SETAC CSS '17 conference
 ---
 
-![SETACCSS17_1]({{ site.url }}/assets/SETACCSS17_1.jpg)
-<center><i><font size="2"> In Barcelona, showing some fancy graphics about uncertainty (Photo credits: Michele De Rosa)</font></i></center>
+
+![SETACCSS17_3]({{ site.url }}/assets/SETACCSS17_3.jpg)
+<center><i><font size="2"> How did I get there? (Photo credits: Massimo Pizzol)</font></i></center>
+
 
 So [SETAC](https://www.setac.org/) together with the LCA guru [Bo Weidema](https://ilca.es/about-us/governing-board/) decided to dedicate the 2017 edition of the [LCA case study symposium](https://lca2017.setac.org/) to [consequential LCA](https://consequential-lca.org/). **Good idea.**
 
@@ -51,6 +53,3 @@ I didn't hear much about these two things:
 In general I get a lot of ideas after attending conferences and now I also know that I get a lot of ideas from _writing_ about conferences, as I already planned to write three posts. Plenty of work for the oncoming months. Time for me to close and say:
 
 **Hasta la vista, baby**
-
-![SETACCSS17_3]({{ site.url }}/assets/SETACCSS17_3.jpg)
-<center><i><font size="2"> How did I get there? (Photo credits: Massimo Pizzol)</font></i></center>
