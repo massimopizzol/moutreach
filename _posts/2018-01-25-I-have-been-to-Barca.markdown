@@ -7,7 +7,7 @@ excerpt: Living la vida loca at SETAC CSS '17 conference
 ---
 
 
-![SETACCSS17_1]({{ site.url }}/assets/SETACCSS17_3.jpg)
+![SETACCSS17_3]({{ site.url }}/assets/SETACCSS17_3.jpg)
 <center><i><font size="2"> How did I get there? Blurred memories (Photo credits: Massimo Pizzol)</font></i></center>
 
 
