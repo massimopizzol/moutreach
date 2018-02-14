@@ -7,8 +7,8 @@ excerpt: Living la vida loca at SETAC CSS '17 conference
 ---
 
 
-![SETACCSS17_1]({{ site.url }}/assets/SETACCSS17_1.jpg)
-<center><i><font size="2"> How did I get here? Blurred memories of BCN (Photo credits: Massimo Pizzol)</font></i></center>
+![SETACCSS17_1_II]({{ site.url }}/assets/SETACCSS17_1_II.jpg)
+<center><i><font size="2"> Getting to know BCN during the conf luch break (Photo credits: Massimo Pizzol)</font></i></center>
 
 
 So [SETAC](https://www.setac.org/) together with the LCA guru [Bo Weidema](https://ilca.es/about-us/governing-board/) decided to dedicate the 2017 edition of the [LCA case study symposium](https://lca2017.setac.org/) to [consequential LCA](https://consequential-lca.org/). **Good idea.**
@@ -19,7 +19,7 @@ Here my highlights from the whole conference.
 
 # Monte Carlo makes you stupid
 
-This is actually a quote form the session. The discussion was on stochastic error propagation **versus** scenario analysis to address uncertainties in LCA. I have talked about Monte Carlo simulation in a [previous post](http://moutreach.science/2017/04/20/PM25-China-uncertainty.html) but in a different research context. In short: take random values from a parameter's distribution, run the model, repeat several times, study the distribution of the results. You can do it in LCA too and you can actually do it for consequential models as well (results can have some tricky distributions though, as I showed in my presentation).
+This is actually a quote from the session. The discussion was on stochastic error propagation **versus** scenario analysis to address uncertainties in LCA. I have talked about Monte Carlo simulation in a [previous post](http://moutreach.science/2017/04/20/PM25-China-uncertainty.html) but in a different research context. In short: take random values from a parameter's distribution, run the model, repeat several times, study the distribution of the results. You can do it in LCA too and you can actually do it for consequential models as well (results can have some tricky distributions though, as I showed in my presentation).
 
 So the point raised was whether scenarios are more **useful** than Monte Carlo simulation to address uncertainties. Maybe I did too much of the latter and it really made me stupid, because I don't get it. These are two completely different things for me so a comparison makes no sense. It's even difficult for me to understand what people mean by _scenarios_ in LCA context. In other contexts definitions are pretty clear, see [here](http://moutreach.science/2017/03/13/Group-exercises-participatory-scenario-development.html). Are scenarios just a special type of _alternatives_? Is this about uncertainty or about _variability_? And how will the new possibilities for [large LCA simulations](https://brightwaylca.org/) change the way we intend scenarios? I'll probably write a post about this topic too because deserves a deeper reflection. Good that uncertainty is hot on the LCA agenda though.
 
@@ -37,7 +37,7 @@ Another impressive presentation was the one by [Laurent Vandepaer](https://www.p
 
 - A plenum session with online real-time voting & discussion on provocative questions about attributional versus consequential EPDs. **Interactive**.
 - You could take a beer at the lunch break. And we literally talked about the posters "over lunch". **Gastronomic**.
-- [Matthias Buyle](https://www.uantwerpen.be/en/staff/matthias-buyle/) from Antwerp Univ. (BE) awarded for [Best contribution to LCA modelling](https://ilca.es/meetings-and-awards/academy-awards/awards-2017/) by the [International Life Cycle Academy](https://ilca.es/)). And I am very proud to be a co-author of the [paper](https://doi.org/10.1007/s11367-017-1389-5). **Show-off**.
+- [Matthias Buyle](https://www.uantwerpen.be/en/staff/matthias-buyle/) from Antwerp Univ. (BE) awarded for [Best contribution to LCA modelling](https://ilca.es/meetings-and-awards/academy-awards/awards-2017/) by the [International Life Cycle Academy](https://ilca.es/). And I am very proud to be a co-author of the [paper](https://doi.org/10.1007/s11367-017-1389-5). **Show-off**.
 
 ![SETACCSS17_2]({{ site.url }}/assets/SETACCSS17_2.jpg)
 <center><i><font size="2"> Matthias receiving the award, well done! (Photo credits: Massimo Pizzol)</font></i></center>
