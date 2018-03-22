@@ -2,7 +2,7 @@
 layout: post
 title: "The right bag for grocery shopping?"
 date: 2018-03-22
-tags: [life cycle assessment, peer-review]
+tags: [life cycle assessment, peer review]
 excerpt: Not your Gucci one
 ---
 
