@@ -95,7 +95,7 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 10%);
+    color: darken($brand-color, 15%);
   }
 
   &:hover {
@@ -136,8 +136,8 @@ blockquote {
  */
 pre,
 code {
-  @include relative-font-size(0.9);
-  /** border: 1px solid $grey-color-light; */
+  @include relative-font-size(0.9375);
+  border: 1px solid $grey-color-light;
   border-radius: 3px;
   background-color: #eef;
 }
@@ -212,25 +212,4 @@ pre {
   li + li {
     padding-top: 5px;
   }
-}
-
-
-
-/**
- * Tables
- */
-.mbtablestyle {
-        border-collapse: collapse;
-
-   > table, td, th {
-        border: 1px solid black;
-        }
-}
-
-
-/**
- * Center images
- */
-.center {
-    text-align: center;
 }
