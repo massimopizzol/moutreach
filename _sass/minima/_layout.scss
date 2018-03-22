@@ -171,6 +171,7 @@
 }
 
 
+
 /**
  * Page content
  */
@@ -179,6 +180,10 @@
 }
 
 .page-heading {
+  @include relative-font-size(1.25);
+}
+
+.post-list-heading {
   @include relative-font-size(1.25);
 }
 
