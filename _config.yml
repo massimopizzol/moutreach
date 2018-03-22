@@ -28,7 +28,7 @@ show_drafts: false
 future: false
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
