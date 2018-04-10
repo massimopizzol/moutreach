@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A teaching experiment"
-date: 2018-04-01
+date: 2018-04-10
 tags: [teaching, life cycle assessment]
 excerpt: Reflections after teaching Brightway2
 ---
@@ -19,7 +19,7 @@ Our Department kindly provides a SimaPro LCA software faculty license for studen
 
 An interesting alternative is _Brightway2_. This is a LCA software written in the programming language [python](https://en.wikipedia.org/wiki/Python_(programming_language)). It's open source, extremely flexible, allows to do very advanced simulations[^1]. Can be used in endless combinations with all the python data science features and packages. _But_, unless you already are a python expert, it has a **steep learning curve**.
 
-I really enjoy using _Brightway2_, especially for doing uncertainty analysis and statistical testing of data. Feels like doing real science. But I often have a hard time figuring out how to make it work. This is part of the trade off with experimental software: it's advanced but unfriendly. I am self-learned in python (studied [this book](https://learnpythonthehardway.org/python3/) during the evenings when I took paternity leave some years ago...). And not a programmer so this partly explains why I am having a hard time. 
+I really enjoy using _Brightway2_, especially for doing uncertainty analysis and statistical testing of data. Feels like doing real science. But I often have a hard time figuring out how to make it work. This is part of the trade off with experimental software: it's advanced but unfriendly. I am self-learned in python (studied [this book](https://learnpythonthehardway.org/python3/) during the evenings when I took paternity leave some years ago...). And not a programmer so this largely explains why I am having a hard time. 
 
 So I got this idea: if more people at our group use it, then we'll perhaps create a small **community**. This could make it easier to share code, experiences, fix problems, etc. Also, I was not using _Brightway2_ regularly in the beginning and I kept forgetting how all the functions and syntax worked. So I made some scripts to **teach myself** things after a period off.  I said OK, let's revise the material I already have, make a nice compilation of scripts and related explanations, and share them with some colleagues and students here and make everybody happy. _How difficult can it be?_
 
@@ -32,7 +32,7 @@ I organised an _unofficial_ course in _Brightway2_ for staff and students here a
 
 The main **learning objective** was to being able to use _Brightway2_ at a level comparable to other commercial LCA software. This required gaining both knowledge and skills in python and _Brightway2_ data structures and syntax, plus elements of LCA and statistics. 
 
-My biggest **concern** was that I had never been teaching python before, and I had only been teaching little statistics before. I had to cover all these things quite in detail because of the mixed audience. Also, I am certainly not a _Brightway2_ expert. I estimate that I can use perhaps 15-20% of its full potential.
+My biggest **concern** was that I had never been teaching python before, and I had only been teaching little statistics before. I had to cover all these things quite in detail because of the mixed audience. Also, I am certainly not a _Brightway2_ expert. I estimate that I can use perhaps 15-20% of its full potential. Optimistically.
 
 **I decided not to overthinking this**. Perhaps I was _expert enough_ in all this stuff to teach it. To my intended audience at least. I.e. to complete beginners. And in relation to the objective set for the course. Worst case, if I had said something wrong in class, we would find together an answer. Or google one. Sharing experiences with others was more important than fearing to fail. 
 
@@ -47,7 +47,7 @@ After a little evaluation survey and personal reflection, here the main take hom
 
 - **More time needed**. No surprise, the course was really condensed. In particular more time to be dedicated to practical exercises. Makes sense, this is a tool, so one needs to get hands dirty and try try try...(_now imagine the sound of somebody frantically typing on a keyboard: tjk tjk tjk k-tjk tjk k-tjk tjk_)
 
-- **Python and stats: not scary** (at this basic level at least). It is actually surprisingly straightforward to teach basic elemnts of programming (functions, objects, loops) and statistics (distributions, significance tests) because 1) there is plenty of reading material available for free online - compared to teaching LCA this is the world of plenty 2) they are applied easily and immediately and this makes them very concrete. Definitely worth trying.
+- **Python and stats: not scary** (at this level at least). It is actually surprisingly straightforward to teach base elements of programming (functions, objects, loops) and statistics (distributions, significance tests) because 1) there is plenty of reading material available for free online - compared to teaching LCA this is the world of plenty 2) they are applied easily and immediately and this makes them very concrete. Definitely worth trying.
 
 - **Fix it on the way**. The students had interesting questions about issues that I didn't face or didn't think about including (_How to fix this installation?_ _How to model co-products?_ _How to find an exchange without indexing?_ etc.). We found solutions instantly (thanks also to our own python guru [Romain Sacchi](http://personprofil.aau.dk/126896?lang=en)) or after the lecture and followed up on the next lecture.
 
