@@ -57,6 +57,11 @@ What this experience confirmed is that teaching a subject is a very **effective*
 
 As somebody wise said: _"Between the road uphill and the road downhill, choose the road uphill and you'll always be better off"_.
 
+--
+
+_EDIT AUGUST 2018: The material for the course described in this post is freely availabe at [this repository](https://github.com/massimopizzol/B4B) on my github page_
+
+--
 
 
 [^1]: Mutel, C. Brightway: An open source framework for Life Cycle Assessment. J. Open Source Softw. 2017, 2 (12), 1–2.
