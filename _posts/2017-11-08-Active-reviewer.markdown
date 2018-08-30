@@ -75,7 +75,7 @@ Etc. Pick your favourite. This is the second group of respondents. Those who qua
 
 > "It is a task which is part of the academic life but not of the highest priority"
 
-The ethical, the compensated, the pragmatic. The **diversity** of opinions.
+The ethical, the utilitarian, the pragmatic. The **diversity** of opinions.
 
 
 # Lesson learnt #1. Benchmarking
