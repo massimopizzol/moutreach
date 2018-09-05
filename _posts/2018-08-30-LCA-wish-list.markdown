@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A whish list for LCA"
+title: "A wish list for LCA"
 date: 2018-08-30
 tags: [networking, life cycle assessment]
 excerpt: In a Stop-Start-Continue format
@@ -19,13 +19,13 @@ About one year ago I answered to a thread on the [Pre discussion list](https://s
 
 **Long story short:** we have to accept the fact that in some circles LCA is perceived as greenwashing-ish,  pseudo-scientific, and a bureaucratic nightmare. Often I share these concerns too. If the LCA community want this LCA thing to survive there is some work to do. 
 
-After one year from my mail I still have the same wishes. To celebrate this anniversay I will reformulate them here below in a *Stop-Start-Continue* style.
+After one year from my mail I still have the same wishes. To celebrate this anniversray I will reformulate them here below in a *Stop-Start-Continue* style.
 
-*Dear LCA community, I whish we could...*
+*Dear LCA community, I wish we could...*
 
 # Stop
 
-**Producing bureaucracy**. There have been substantial efforts in the last 20+ years in making LCA practice more standard and more uniform. It has been successful to a certain extent, but it has not solved many problems. I feel a certain fatigue regarding this process of dealing with diversity by enforcing uniformity, and honestly another standard or guideline won’t make my life as LCA practitioner easier or better. There is also a limit to what we can reasonably standardize. Let's accept that there is not only one way of doing LCA, and prioritize substance rather than form.
+**Producing bureaucracy**. There have been substantial efforts in the last 20+ years in making LCA practice more standard and more uniform. It has been successful to a certain extent, but it has not solved many problems. I feel a certain fatigue regarding this process of dealing with diversity by enforcing uniformity, and honestly another standard or guideline won’t make my life as LCA practitioner easier or better. There is also a limit to what we can reasonably standardise. Let's accept that there is not only one way of doing LCA, and prioritise substance rather than form.
 
 # Start
  
@@ -39,9 +39,9 @@ After one year from my mail I still have the same wishes. To celebrate this anni
 
 # A little disclaimer
 
-To be honest I know that a lot of clever people are already active on these fronts and I see many interesting initiatives growing on data sharing, open software, new texbooks, etc. **Too long a list for this short post!** This is really positive. Keep it up. Good vibrations.  
+To be honest I know that a lot of clever people are already active on these fronts and I see many interesting initiatives growing on data sharing, open software, new textbooks, etc. **Too long a list for this short post!** This is really positive. Keep it up. Good vibrations.  
 
-I guess in a year I shuold write another post to check what progress has been made...right? Perhaps five years...
+I guess in a year I should write another post to check what progress has been made...right? Perhaps five years...
 
 [So long.](https://www.youtube.com/watch?v=xqkar6FEulI)
 
