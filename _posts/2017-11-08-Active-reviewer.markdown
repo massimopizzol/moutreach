@@ -99,3 +99,7 @@ That's really a **great project**, I think. I signed up immediately and after so
 # Acknowledgements
 
 One important thing to conclude: **thanks** to all the survey respondents and to those who helped distributing the questionnaire. Your feedback was really much appreciated. Hope the results will be useful for you as they were for me.
+ 
+---
+
+_UPDATE September 2018: there has just been a large study published on this topic by Publons. Access the report [here](https://publons.com/community/gspr) or check the related Nature paper [here](https://www.nature.com/articles/d41586-018-06602-y) for summary stats, which are really interesting. In particular they touch on the topic of differences between developed and emerging economies and the apparent "review fatigue" where editors must invite more reviewers to get the job done._ 
