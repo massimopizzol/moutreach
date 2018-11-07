@@ -1,0 +1,75 @@
+---
+layout: post
+title: "The taste of rejection"
+date: 2018-10-25
+tags: [peer review, networking]
+excerpt: A post about dealing with academic failures
+---
+
+![closed_doors]({{ site.url }}/assets/closed_doors.JPG)
+<center><i><font size="2">Closed doors (photo credit: Massimo Pizzol)</font></i></center>
+
+Yesterday I got the news that an application of mine has been rejected. It hurts of course, I had put a lot of work into that application. 
+
+But I'll make peace with that - as always. Plus, I had this post ready for the occasion, because [when life gives you lemons, make lemonade](https://en.wikipedia.org/wiki/When_life_gives_you_lemons,_make_lemonade).
+
+Consistently with this food analogy, I have organised the post like a typical Italian menu.
+
+# _Aperitivo_: Too big to fail
+
+
+If I don't submit this paper to that great journal, I won't publish there. If I submit, I might be rejected anyway. If I don't send this grant application, for sure I won't get any money. If I send it, it's still more than 90% likely that I won't get the money anyway. This is how research looks like. Kind of **entrepreneurial**. I must be proactive, I must be risk-taking, I must [Be Water My Friend](https://www.youtube.com/watch?v=TQ683zlrUSI).
+
+Then I open the social media and I read the **success stories** of fellow academics. What I don't read is their **failure stories**. I know they exist too, no doubt about it.  
+
+Below I share some of my failure stories. Mainly rejections plus other small episodes.  It's not supposed to make my academic life look really hard or pitiless. I have a great job and these are petty problems compared to real life problems. Just showing that failure happens all the time in research and...one must learn to deal with it. 
+ 
+_(In reality I am also following a sort of trend where academics share their **failure CV**, those written by [Doug Webber](http://www.doug-webber.com/cv.html) or by [Johannes_Haushofer](https://www.princeton.edu/~joha/Johannes_Haushofer_CV_of_Failures.pdf) are great examples. I am too lazy to write a full CV and I will only write some key stories. I also recommend this [NatureJobs column](https://www.nature.com/naturejobs/science/articles/10.1038/nj7322-467a) on the topic.)_
+
+
+# _Antipasti_: PhD studies
+
+- Sixt months into my PhD, I had spent too much time reading and I still had no concrete plan, no experiment nor modelling done, and I had written only review-ish work. My supervisors had to call for an emergency meeting to figure out what was wrong with me. 
+
+- When I sent to my main supervisor the draft of my [first paper](https://doi.org/10.1186/1476-069X-9-9), he (very nicely and politely) suggested me to trash it and write a completely new version. 
+
+- One of the papers included in my paper-based thesis was rejected a few days prior to the PhD defence. When the opponents asked me how the paper was received, I had to tell them in front of the whole audience (eventually they appreciated my honesty).
+
+- My PhD thesis isn't that special in all honesty (read my papers instead).
+
+# _Primi piatti_: Papers
+
+- I got manuscripts rejected at pretty much every journal and especially in the period right after my PhD when I was trying to became more autonomous from my supervisors.
+
+- I have submitted some good papers to ES&T but never got beyond their desk-rejection wall. I'll keep trying.
+
+- Once a reviewer wrote 111 comment to a paper of mine, on the first round. 50 comments in the second round. 30 comments in the third round. The response to reviewers had a higher word count than the paper itself at that point...
+
+- I co-authored a paper that was rejected based on a six-lines review. 
+
+- Over time I have received from anonymous reviewers plenty of unnecessarily harsh comments not only to my papers, but sometimes even to me as a person. _Let us not speak of them, but do thou look and pass on_ (Dante's Inferno - [Canto III](https://en.wikiquote.org/wiki/Inferno_(Dante)#Canto_III:_The_Gate_of_Hell)). 
+
+- Had arguments for co-authorship issues. Happened to me a couple of times only, but it was truly distasteful.  
+
+# _Secondi piatti_: Applications
+
+Since 2011 I have applied to several (perhaps all?) calls for proposals where I had a reasonable chance to succeed (i.e., 10% success rate or lower) and I was eligible to apply. My current success rate? Not zero, but very low. It takes me weeks to months to put together these applications, I don't do it for fun. And I don't get good ideas every day! Deadlines are once a year and it takes 3-9 months to know the outcome, which sometimes is just a brief letter saying: _You have been rejected_ and no other feedback. Only possible strategy to deal with this: _get used to it and move on!_ Some **name-dropping** of places where proposals of mine have been rejected:
+
+
+_Public Danish funding_: Danish Free Research Council (DFF)-postdoc (2 times), DFF-Project I (4 times), DFF-Sapere Aude (2 times), Aalborg Univ. talent programme (2 times)
+
+_EU funding_: Marie Curie International Mobility postdoc, ERC Starting Grant, H2020 Collaborative Project (3-4 times), COST Action (2 times)
+
+_Other private funds_: COWI Fund, Carlsberg Fund postdoc (2 times), Carlsberg Fund Associate,  Spar Nord Fund, KR Fund..._others? Can't remember._
+
+
+# _Dolci, caffé, digestivo_
+
+I hope reading about my failure stories was entertaining. I had quite some fun writing this too! 
+
+Kind of. 
+
+Let's close with some random twitter wisdom:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I finally found happiness at work when I learned to separate:<br><br>- trying to do something excellently<br>- needing to be successful for my ego to be ok</p>&mdash; Justin Kan (@justinkan) <a href="https://twitter.com/justinkan/status/1054910290033205248?ref_src=twsrc%5Etfw">October 24, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
