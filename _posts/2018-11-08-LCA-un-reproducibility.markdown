@@ -7,7 +7,7 @@ excerpt: A story of ordinary LCA madness
 ---
 
 
-![data_exchange]({{ site.url }}/assets/data_exchange.jpg)
+![data_exchange]({{ site.url }}/assets/Data_exchange.jpg)
 <center><i><font size="2">Data exchange (Photo credit: Massimo Pizzol)</font></i></center>
 
 
