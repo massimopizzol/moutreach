@@ -13,7 +13,7 @@ excerpt: Local discussion on global priorities
 
 # Something important (finally)
 
-On november 19th I was invited to speak at the event: [Building Utopia: What global issues would you prioritize?](https://www.facebook.com/events/1111501072332712/) organised by Project 2030. 
+On november 19th I was invited to speak at the event: [Building Utopia: What global issues would you prioritize?](https://www.facebook.com/events/1111501072332712/) organised by [Project 2030](https://project2030.eu/). 
 
 Project 2030 is a student organisation based in Aalborg and their aim is to raise awareness about the [Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/), also called _SDGs_. 
 
