@@ -22,7 +22,7 @@ Unfortunately I couldn't make it physically to the hackathon, and I joined remot
 
 Overall it was enriching to meet professional programmers and data scientists and see how they work _hands on_. For example, I feel now like a pro in git and version control. If you want to know more, Chris Mutel has written [here](https://chris.mutel.org/bonsai-governance.html), [here](https://chris.mutel.org/bonsai-components.html), and [here](https://chris.mutel.org/modern-ie-database.html) about BONSAI and the hackathon.
   
-![Bonsai_hackathon]({{ site.url }}/assets/Bonsai_screenshot.png)
+![Bonsai_hackathon]({{ site.url }}/assets/BONSAIscreenshot.png)
 <center><i><font size="2">A screenshot taken during the Bonsai Hackathon. End of the day and still serious discussion going on. </font></i></center>
 
 
