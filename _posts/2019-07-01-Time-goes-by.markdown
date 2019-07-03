@@ -84,4 +84,4 @@ Some references to conclude. For an overview on the topic of academic flying, ch
 &nbsp;
 
 
-[^1]: The [four difficulty levels](https://dukenukem.fandom.com/wiki/Difficulty) are taken directly from the 1996 videogame [Duke Nukem 3D](https://dukenukem.fandom.com/wiki/Duke_Nukem_3D), which I played extensively on my PC back in my good old teenager days. _Ready for action._
+[^1]: The [four difficulty levels](https://dukenukem.fandom.com/wiki/Difficulty) are taken directly from the 1996 video-game [Duke Nukem 3D](https://dukenukem.fandom.com/wiki/Duke_Nukem_3D), which I played extensively on my PC back in my good old teenager days. _Ready for action._
