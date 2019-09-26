@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Life cycle thinking for all ages"
-date: 2019-07-19
+date: 2019-09-19
 tags: [networking, life cycle assessment]
 excerpt: Materials I used for an LCA workshop at the Uni
 ---
@@ -12,7 +12,7 @@ I've been invited by The Danish Youth Association of Science (_Ungdommens Naturv
 
 Isn't this just the perfect audience? 
 
-# One does not simply
+# One does not simply...
 
 ...learn LCA in two hours. But one can get a good feeling of what LCA is about. And neither does one simply enjoy listening to my LCA rants for 120 minutes. Spare us! So I opted for an __interactive__ workshop, __popular__ style, focus on life cycle __thinking__.
 
@@ -24,7 +24,7 @@ This was the structure:
 
 - __plenum discussion__ and some sort of comment from my side, dropping some little elements of LCA theory.
 
-Below are the three exercises (random order).
+Below are the three exercises.
 
 
 &nbsp;
@@ -47,7 +47,7 @@ __Discussion.__ Focus on why choosing this or that option and what information i
 ![Questions_Page_2]({{ site.url }}/assets/Questions_Page_2.jpg)
 <center><i><font size="2">Second exercise</font></i></center>
 
-__Problem.__ This is for the visual people. It should force some system thinking. The key is to draw as many connect activities and products as you can. Important to remember the end of life. Don't get scared by complexity.
+__Problem.__ This is for the visual people. It should force some system thinking. The key is to draw as many connected activities and products as you can. Important to remember the end of life. Don't get scared by complexity.
 
 __Discussion.__ Special effects on Simapro and ecoinvent. An old trick. I show the network graph for the process "production of laptop computer" and reduce the cutoff percent progressively. The network explodes, people gasp. All activities of the world are connected. 
 
@@ -59,16 +59,16 @@ __Discussion.__ Special effects on Simapro and ecoinvent. An old trick. I show t
 ![Questions_Page_3]({{ site.url }}/assets/Questions_Page_3.jpg)
 <center><i><font size="2">Third exercise</font></i></center>
 
-__Problem.__ An unsolvable choice between two fictional products. This exercise should trigger some reflection on impact pathways, on comparability across emission and impacts, and on trade offs.  Note: numbers are invented.
+__Problem.__ An unsolvable choice between two fictional products. This exercise should trigger some reflection on impact pathways, on comparability across emissions and impacts, and on trade-offs.  Note: numbers are invented.
 
-__Discussion.__ Showing a simple calculation of CO2-equivalents. Showing a slide about impact pathway from Joillet et al.[^1] Discuss uncertainty at midpoint and endpoint. Discuss weighting (_which impact is most important, and what "important" means?_), value choices (_impacts to who?_), spatial and temporal perspectives (_impacts today or tomorrow, local or global?_), etc. This is really a powerful exercise on many level because opens up a lot of pandora boxes and discussion points. Total nice.
+__Discussion.__ Showing a simple calculation of CO<sub>2</sub>-equivalents. Showing a slide about impact pathway from Joillet et al.[^1] Discuss uncertainty at midpoint and endpoint. Discuss weighting (_which impact is most important, and what "important" means?_), value choices (_impacts to who?_), spatial and temporal perspectives (_impacts today or tomorrow, local or global?_), etc. This is really a powerful exercise on many levels because opens up a lot of pandora boxes and discussion points. Total nice.
 
 
 # Feedback and reflection
 
-I believed the exercises were well received and everybody completed all the three of them and people were discussing actively. I liked especially the product system drawings on exercise two, especially those that really __exploded in details__.
+I got the impression that the exercises were well received: everybody completed all the three of them and people were discussing actively. I liked especially the product system drawings on exercise two, in particular those that really __exploded in details__.
 
-We concluded with some very interesting questions and a discussion about issues of uncertainty (_how true are these results?_), what is the role of LCA (_tool for supporting decision rather than black-box to spit out numbers_), current political issues (_what if we put a carbon value on every product by law, who calculates that, and how?_), etc. 
+We concluded with some very interesting questions and a discussion about issues of validity (_how true are these results?_), what is the true role of LCA (_tool for supporting decision rather than black-box machine to spit out numbers_), current political issues (_what if we put a carbon value on every product by law, who calculates that, and how?_), etc. 
 
 A really nice evening with very engaged and __reflective__ young people. Thanks again SNU for the invitation.
 
