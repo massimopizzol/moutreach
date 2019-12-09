@@ -29,7 +29,6 @@ We conclude with a **plenum discussion and reflection** on the exercise. What wa
 
 ![Causal loop diagram]({{ site.url }}/assets/tonelsap.jpg)
 <center><i><font size="2"> The causal loop diagram of the Tonle Sap lake story, made by a group of master students. Plenty of mistakes, but a good starting point for discussion and improvement</font></i></center>
-
 Optionally, sometimes I add an extra step where I ask students to move from a qualitative model to a quantitative one. This means finding possible units and even numbers for each element of the system (both nodes and connections), and eventually changing, modifying, or simplifying the model. The level of difficulty at this point increases almost exponentially even for students with good quantitative skills. Sometimes the entire model has to be redesigned.
 
 # Summing up on this system thinking exercise
