@@ -2,7 +2,7 @@
 layout: post
 title: "Three goats and a troll"
 date: 2019-12-05
-tags: [peer-review, scientific writing, life cycle assessment]
+tags: [peer review, scientific writing, life cycle assessment]
 excerpt: Peer review is not broken and LCAs are reproducible
 ---
 
