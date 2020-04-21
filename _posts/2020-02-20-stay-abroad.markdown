@@ -73,3 +73,12 @@ Yet, even if one doesn't actually get this damn paper published, the time spent 
 
 As valuable as a __barrel of dollars__ or a __chest of gold__.
 
+
+## _First update_
+
+_This post is dedicated to Jakob Løvstad Funder, a good friend. Just a few days after the publication of this post he died in tragic circumstances. I had not seen him in many years and we weren't very close anymore, but we had a lot of fun together back in the Montreal days. Partying like there's no tomorrow. We were both doing a PhD stay abroad at the time, and he was my "Danish connection" there. He introduced me to a lot of crazy places, people, and...to Dirty Martini cocktails. I had been thinking to him a lot while writing this post. Nostalgia. He truly will be missed._ 
+
+## _Second update_
+
+_Destiny, sometimes. A couple of weeks after this post the COVID-19 pandemic happened. The university offices closed and we were sent home to work from there, doing research and teaching remotely. Danish borders closed too, together with those of many other countries. Travel plans were abandoned. This was a post about international relationships, but it was exactly these relationships that were mostly affected by the Corona crisis. One of the PhD students I supervise had to cancel her trip to US, that took months to plan: visas, letters, grants, tickets, collaboration agreements, etc. At present, I don't know whether she will be able to take this trip during her PhD. Another PhD student was supposed to visit us for some months from Thailand. Again tickets, visas, letters, all wasted. Our LCA PhD course - 25 international participants, planned since the autumn - was also affected. We are going to hold this remotely in some days, but it's a pity not to get these PhD students in person, and I am sure they were looking forward to it too. Then workshops, international projects, funding, employment of new international staff...all delayed, postponed, or cancelled. Such a big mess! But anyway, we'll survive of course, these are first world problems after all. Lesson learned? Not sure, but we should probably be happy to have such an international job, and international research mobility is something we are so accustom to that we take it almost for granted, but can be actually be quite fragile._
+
