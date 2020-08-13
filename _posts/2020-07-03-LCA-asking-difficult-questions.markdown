@@ -2,7 +2,7 @@
 layout: post
 title: LCA, asking the tough questions
 date: 2020-08-12
-tags: [Life cycle assessment]
+tags: [life cycle assessment]
 excerpt: The answers are inside you
 ---
 
@@ -30,7 +30,7 @@ Is LCA really useful? Is LCA really making a change in this world? Are LCA studi
 
 ## On the need for LCA
 
-When is LCA needed and when some other tools are instead a better fit? When I review sci papers I get sometimes the impression that LCA is used to answer research questions that have very little to do with a life cycle perspective. If there is no trade off between life cycle stages of product to be studies, or between different impacts in a life cycle, why should we use LCA at all? For which questions is LCA able to provide sufficiently accurate answers, e.g. regarding the modelling of future scenarios, emerging technologies, prospective questions, do we need a the quantitative assessment framework of LCA at all or can we better off using other and perhaps (imagine [a face screaming in fear](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg/1024px-Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg) Much-style) __qualitive__ ones?
+When is LCA needed and when some other tools are instead a better fit? When I review sci papers I get sometimes the impression that LCA is used to answer research questions that have very little to do with a life cycle perspective. If there is no trade off between the life cycle stages of a product to be studied, or between different impacts in a life cycle, why should we use LCA at all? For which questions is LCA able to provide sufficiently accurate answers, e.g. regarding the modelling of future scenarios, emerging technologies, prospective questions, do we need the quantitative assessment framework of LCA at all or are we better off using other and perhaps (imagine [a face screaming in fear](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg/1024px-Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg) Much-style) __qualitative__ ones?
 
 ## On LCA research 
 
