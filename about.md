@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Portrait of MAPI]({{ site.url }}/assets/IMG_20170407_190817589.jpg)
+![Portrait of MAPI]({{ site.url }}/assets/DSC_0176 copy.JPG)
 
 I am a researcher in **sustainability**.
 
