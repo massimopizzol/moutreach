@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LCA, this pseudo-science
-date: 2020-11-10
+date: 2020-11-12
 tags: [life cycle assessment]
 excerpt: War of the purists
 ---
