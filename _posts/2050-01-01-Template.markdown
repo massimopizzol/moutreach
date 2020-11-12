@@ -1,0 +1,52 @@
+---
+layout: post
+title: some title
+date: 2050-01-01
+tags: [life cycle assessment]
+excerpt: some text appears in landing page
+---
+
+
+![Figurehere]({{ site.url }}/assets/image800x450size.JPG)
+<center><i><font size="2">Figure caption</font></i></center>
+
+&nbsp;
+
+# Intro
+
+
+Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here.
+
+Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here.
+ 
+Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here.
+Text here 
+
+_Text in italics here_
+__Text in bold here__ 
+*Text in italics here* 
+**Text in bold here**
+
+ 
+[^1] footnote
+
+
+
+# Section heading
+
+
+> _quote_
+> 
+
+
+## Subsection heading
+
+[link](https://en.wikipedia.org/wiki/RTFM)
+
+### SubSubsection heading
+
+&nbsp; Space
+
+
+[^1]: footnote
+
