@@ -56,15 +56,20 @@ Totally, see [last post](https://moutreach.science/2020/11/12/LCA-this-pseudo-sc
 
 # Now we publish a blog post live!
 
-We include what the participants to this webinar do:
+We include examples of what the participants to this webinar do:
 
-Copy paste this text below, insert your research topic, and your name/link and I will publish it here. 
 
-Like this:
+#### Example: Allan and the competitive firms
 
-_If you want to learn about **YOUR RESEARCH TOPIC HERE** follow [YOUR NAME HERE](YOUR AAU PAGE/WEBSITE HERE)_
+[Allan](https://vbn.aau.dk/da/persons/103451)'s research explores and explains **what drives competitiveness of firms**. He looks at this within a number of contexts, which are defined by research questions such as: What are dynamic capabilities of firms? How to co-evolve dynamic capabilities with the value chains and ecosystems that firms are part of? How is this co-evolution shaped by the deep change involved in industry 4.0? What are the roles of strategy and innovation in the co-evolution in terms of developing organisational resilience? How is resilience translated into organisational structures and behaviour?
+He applies mixed methods with an emphasis on how qualitative case studies and quantitative surveys are mutually supportive in creating scholarly knowledge.
 
-_If you want to learn about **the sustainability of products** follow [Massimo](https://moutreach.science/)_
+
+#### Example: Cumhur on differentiable everything
+
+Cumhur's research aims to understand how new advances in [differentiable  programming](https://en.wikipedia.org/wiki/Differentiable_programming) can generate rich, interactive, synthetic audio-visual media that can be applied to sound, music, and movement computing. 
+
+This area of research uses and combines knowledge in  digital signal processing, convolutional neural networks, deep learning, and [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35) among others. Check [Cumhur's blog](http://cerkut.blog.aau.dk/) to learn more about these things.
 
 
 &nbsp; 
@@ -134,4 +139,3 @@ End of the notes, now...
 
 
 [^1]: Wait, did they just copy the name of my blog???
-
