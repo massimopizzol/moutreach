@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top-gem scientific papers of 2020
+title: Criteria to evaluate a model
 date: 2021-01-10
 tags: [articles, scientific writing]
 excerpt: Approved by Thanos the titan
