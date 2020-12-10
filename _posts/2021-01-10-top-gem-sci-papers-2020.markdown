@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top-gem scientific papers of 2020
-date: 2020-12-01
+date: 2021-01-10
 tags: [articles, scientific writing]
 excerpt: Approved by Thanos the titan
 ---
