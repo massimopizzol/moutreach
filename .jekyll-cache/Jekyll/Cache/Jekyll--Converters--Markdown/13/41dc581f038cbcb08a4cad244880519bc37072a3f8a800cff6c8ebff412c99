@@ -1,0 +1,37 @@
+I"�<p>Today I had the chance to run a scenario workshop together with my good colleague <a href="http://personprofil.aau.dk/109964">Lone</a>. This is something I wanted to try since I was a PhD student and took a <a href="http://www.peer.eu/projects/metier-training-courses/course-7-environmental-scenario-analysis/">PEER course</a> on this topic. So I though about writing a series of posts about <strong>group-exercises to teach sustainability</strong> that I am so lucky to have on my teaching portfolio.</p>
+
+<h1 id="problem-based-learning">Problem based learning</h1>
+
+<p>A little introduction about teaching methods first: at Aalborg University we work with a specific pedagogic model called <em>Problem-Based Learning</em>, or simply <a href="http://www.en.aau.dk/about-aau/aalborg-model-problem-based-learning">PBL model</a>. PBL is <strong>student centered</strong> and puts substantial focus on project and <strong>group</strong> activities. A key element of the model, as the name suggests, is working on the identification, delimitation, formulation, and then solution of specific problems.</p>
+
+<p>For this reason students don’t attend many frontal lectures and instead spend a substantial amount of time working on group-projects. The few lectures are also structured slightly differently than typical university lectures: <strong>lectures look more like workshops…</strong> where the teacher speaks a bit and then the students work on a group exercise, and this pattern is repeated.</p>
+
+<p>So in the last years I have developed some group-exercises that I find useful to teach sustainability via modelling and system thinking. Besides being all <em>learning-by-doing</em> exercises that put PBL principles from theory into practice, they have various other things in common so it is interesting to compare them. An example follows.</p>
+
+<h1 id="participatory-scenario-development">Participatory Scenario Development</h1>
+
+<p>This is a group-exercise where my original contribution is lowest. In fact I developed it following quite closely and summarizing the indications in a 2009 book by Ash et al.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>. The exercise takes two lectures, i.e. two rounds of approximately 4 hours. The learning objective is to develop <strong>skills in scenario development</strong>, which is a mix of problem formulation, system thinking, and negotiation skills. The idea behind this exercise is to create scenarios, i.e. <strong>possible visions of the future</strong>, for a specific problem, through a step-by-step procedure. It is supposed to be a <strong>simulation</strong> of a real participatory scenario development workshop.</p>
+
+<p>In the first step students are divided in groups that brainstorm and boil down a general complex issue to a more specific problem. For example, one of the complex issues analyzed was loosely labelled <em>The green energy transition</em>. This is done by first reaching a consensus on the status and historical causes of the issue and by delimiting it via the formulation of a concrete and specific question. The question should be answerable by <em>it depends…</em> and therefore have a different answer in different scenarios.</p>
+
+<p>In the second step students (again) brainstorm to identify a set of <strong>drivers</strong> for the specific problem and then (again) they go through a structured process of selection and ranking of these drivers to derive <strong>scenario logics</strong>. In the third step the students do two things, the first one is estimating qualitatively (or semi-quantitatively) the trends for the previously selected drivers. It’s a sort of educated guess rather than a precise estimation. The second thing is writing a <strong>narrative</strong> for each scenario using a <em>letter from the future</em> format. This means that they should imagine to be somebody living in the future, in one of the scenarios identified, and write either a letter to a friend, or newspaper article, or any other form of written witness. This narrative should be evocative and descriptive of such possible future. In a real participatory scenario development workshop this communication step may be also performed by setting up a short theatre piece, by drawing a painting, etc. Also, in reality there should be a fourth step where a quantitative analysis of the driver trends is performed, alongside and consistently with the narratives, but we skipped that because requires more advanced quantitative modelling skills.</p>
+
+<p><img src="https://moutreach.science/assets/PSD.jpg" alt="Participatory Scenario Development" /></p>
+<center><i><font size="2"> Students working on drivers of "The green energy transition" (Photo: Massimo Pizzol). </font></i></center>
+
+<h1 id="reflections-on-this-scenario-development-exercise">Reflections on this scenario development exercise</h1>
+
+<p>Scenario development is usually done by a group of <strong>stakeholders with different background</strong>, so this is a sort of simulation with a more homogenous group but still works fine for teaching purposes. The moderator has a key role, and I have done it only once so there is plenty of room for improvement, and possible failures are due to me primarily. The most difficult part for the students was the problem formulation, i.e. getting from a loose complex topic to a specific problem.</p>
+
+<p>This exercise addresses sustainability, modelling, and system thinking. A key point of this exercise is that <strong>the process is more important than the result</strong>. So in the end it doesn’t matter how evocative the developed scenario narrative is or how accurately the trends for the drivers are quantified. The important thing is going through the brainstorming, understanding, and modelling process and reflecting on it.</p>
+
+<p> </p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p><em>Chapter 5.1 How to explore the future with a scenario exercise</em>, in Ash et al. (eds.), 2009, <a href="https://www.unep-wcmc.org/resources-and-data/ecosystems-and-human-wellbeing--a-manual-for-assessment-practitioners">Ecosystems and human well-being  - A manual for assessment practitioners</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

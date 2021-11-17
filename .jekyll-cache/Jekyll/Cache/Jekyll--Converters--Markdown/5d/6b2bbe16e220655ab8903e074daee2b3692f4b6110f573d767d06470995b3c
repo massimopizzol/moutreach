@@ -1,0 +1,92 @@
+I"j)<p><img src="https://moutreach.science/assets/Data_exchange.jpg" alt="data_exchange" /></p>
+<center><i><font size="2">Data exchange (Photo credit: Massimo Pizzol)</font></i></center>
+
+<h1 id="weapon-of-choice">Weapon of choice</h1>
+
+<p>In the last three months we have been hosting in our DCEA group Nils Thonemann, a PhD student from <a href="https://www.umsicht.fraunhofer.de/en.html">Fraunhofer UMSICHT</a> (DE). I am collaborating with Nils on a comparative environmental assessment of technologies for Carbon Capture and Usage (CCU), super interesting. We are using LCA as main methodology.</p>
+
+<p>Nils is a really nice guy but unfortunately he is using <a href="http://www.openlca.org/">openLCA</a> software for this LCA project. There is nothing wrong about openLCA of course - it’s a great and free software - but in my group we either use <a href="https://simapro.com/">SimaPro</a> or <a href="https://brightwaylca.org/">Brightway2</a>. So now the troubles begin. Keep reading.</p>
+
+<h1 id="first-compromise">First compromise</h1>
+
+<p>So after me and Nils had discussed and defined an appropriate model for the life cycle inventory of this study, it was time to start implementing such a model into a LCA software to do the analysis.</p>
+
+<p>Nils of course preferred to use openLCA, the software he was familiar with, without having to invest time and resources in learning a new one (not the primary purpose of his research stay). This was completely reasonable. Similarly, I am not familiar with openLCA and I didn’t want to learn a new software either. So how could we <strong>share</strong> data and information? How could I give feedback on his model when he made revisions? I couldn’t just physically take his computer and look at the screen, for obvious reasons.</p>
+
+<p>The first thing we tried was our business as usual option, i.e. structuring the foreground system in Excel in a matrix format (see an example <a href="http://moutreach.science/2017/12/01/LCI-reporting.html">here</a>). With some <a href="https://github.com/massimopizzol/Simapro-CSV-converter">magic</a>, this can then be converted in a <em>SimaPro.csv</em> type of file and imported directly in SimaPro. There is an <em>import SimaPro.csv</em> option in openLCA, so this could have been the perfect solution. However, we tested it by importing an example of <em>SimaPro.csv</em> file in openLCA and didn’t work. Why? Because the names of the database activities and the structure of the database are different between SimaPro and openLCA. <em>Gosh.</em> We also tried exporting data from openLCA. We had to export a huge file with all background system. Crazy unpractical. <strong>Headache</strong>.</p>
+
+<p>So first compromise. We decided that Nils would organise the inventory data into an Excel file using the matrix structure. We agreed to only use this file as common shared version, for analytical and practical reasons. It allowed for a nice overview of the foreground system, and it could be exchanged via email. Then Nils would manually <strong>duplicate</strong> this product system in openLCA to run the calculations. Double work, hurray!</p>
+
+<p><em>Status</em>: we had now the same product system in <strong>two</strong> formats: Excel (matrix) and OpenLCA.</p>
+
+<p><em>For completeness, this foreground system includes about 20 activities, and each of these is linked to some (3-10) background activities from the ecoinvent consequential database v.3.4. So it’s rather small.</em></p>
+
+<h1 id="second-compromise">Second compromise</h1>
+
+<p>After some time Nils obtained the first results and everything seemed alright and now we really wanted to do the uncertainty analysis. So I proposed to do this in Brightway2 because: <em>“…man, it’s faster”</em>. All we had to do was to reproduce the same product system in Brightway2.</p>
+
+<p><em>Now that I am writing this down I realise that this idea was quite optimistic. Anyway.</em></p>
+
+<p>Brigthway2 is a great software as well although it’s not super easy when it comes to import and export data. There are plenty of import strategies but honestly, I never got them to work or I didn’t like them. But at least the software is very flexible. So I have developed my own workflow that, again, is about formatting the foreground system in Excel using a table format, creating a .csv file, and importing in Brightway2 (see an example <a href="https://github.com/massimopizzol/B4B/blob/master/03.3_Excel_import.py">here</a> and the code <a href="https://github.com/massimopizzol/B4B/blob/master/lci_to_bw2.py">here</a>). Works perfectly for my purposes and I am super satisfied with that.</p>
+
+<p>However, this meant that Nils had to format <strong>again</strong> his product system in another structure. On top of this, Brightway2 uses univocal codes to identify each activity from the ecoinvent database and these codes are <strong>not the same</strong> as the codes used by openLCA.</p>
+
+<p>Second compromise. Nils formatted the foreground system in Excel in the table format as well, and I manually found all the codes of all the ecoinvent database activities plus wrote the specific code for the analysis by recycling code from previous projects. <em>Recycle or die!</em> It took me about half a day because…I am slow (but thorough). Triple work, hurray!</p>
+
+<p><em>Status</em>: we had now the same product system in <strong>four</strong> formats: Excel (matrix), Excel (table), openLCA, and Brightway2.</p>
+
+<h1 id="detective-work">Detective work</h1>
+
+<p>After all the formatting of this holy product system I run the analysis in Brightway2, exported the results, and compared with the results that Nils had obtained from openLCA.</p>
+
+<p><strong>Results didn’t match.</strong></p>
+
+<p>The reason why I was not freaking out at this point was that I had tried this many times before. Actually I would have been more surprised if everything had worked as expected on the first attempt.</p>
+
+<p>We then started sharing spreadsheets with either the data or the results <strong>back and forth</strong> between us and double-checking them to find the mistakes. And we found quite some mistakes. Some examples:</p>
+
+<ul>
+  <li>used wrong <em>amounts</em> for some exchanges (e.g. mismatch between unit and amount or copy-pasting errors)</li>
+  <li>used a wrong model <em>structure</em> (some exchanges had been forgotten)</li>
+  <li>selected the wrong <em>dataset</em> from the database</li>
+  <li>the results file I had received contained some wrong <em>impact</em> values (belonged from a previous analysis and had not been updated).</li>
+</ul>
+
+<p>So a lot of mistakes that are imputable to the <strong>manual handling</strong> of data.</p>
+
+<h1 id="pearls-of-wisdom">Pearls of wisdom</h1>
+
+<p>After a lot of detective work we were able to find all the mistakes and obtain comparable results with a reasonable difference (0.1% or lower). <strong>Mission accomplished.</strong></p>
+
+<p>Take home message: data exchange between LCA software is <em>clumsy</em>.</p>
+
+<p>In this occasion, I was trying to share data with (and get the same results as) a colleague <strong>sitting in the same office</strong> but using a different software. We had  full access to information and sufficient time and resources available. Imagine how this becomes when one tries to reproduce results from let’s say…a scientific paper.</p>
+
+<p>The fact that data exchange between LCA software is complicated is not a surprise for anybody who has collaborated on a LCA project on multiple software. Let’s consider for a second the possibility that all of this is due to my incapacity. Perhaps it’s me who’s not good enough in getting all of this software to interact properly.</p>
+
+<p>Ok, but honestly, my impression is that to import/export LCA data I need to be either rich, or an IT <em>guru</em>, or I need a PhD in data science. Is this reasonable? I actually think me and colleagues have developed a lot of workarounds over time…</p>
+
+<p>LCA is <strong>manual work</strong> and this means a lot of little transcription mistakes. Since one wrong data point can change results dramatically, it is important to reduce as much as possible all this error-prone manual handling in the exchange of data.</p>
+
+<p>Some final notes:</p>
+
+<ol>
+  <li>
+    <p>I am no data expert, but my understanding is that there is a difference between formats that allow to <em>understand</em> the data, and formats that allow to <em>share</em> them. A LCI structured in an excel matrix is a nice and easy to understand <strong>at a glance</strong>. But a text file unreadable to humans might be perfectly fine as format for import/export between software and <strong>reproduce</strong> results. The two purposes might not be achievable with one data format only, but then we should have tools to convert easily between formats.</p>
+  </li>
+  <li>
+    <p>One must think hard about software before doing a LCA because once started one can easily get <strong>locked in</strong> a situation where it’s hardly possible to use this data in another software. I usually save data in multiple formats as backup.</p>
+  </li>
+  <li>
+    <p>There are people out there crazy enough to be actually <strong>interested</strong> in using LCA data from other studies and even reproduce results of other studies. So I hope LCA practitioners will start thinking a bit more about <em>the life cycle of their data</em> (ahahah) and provide foreground system information in a reasonably organised and easy to reproduce, <em>software-agnostic</em> format. <a href="http://moutreach.science/2017/12/01/LCI-reporting.html">Here some tricks</a>.</p>
+  </li>
+  <li>
+    <p>I kind of understand why providers of commercial LCA software have an interest in locking people into using their own software-specific data formats. However, this doesn’t mean that I should like or accept this situation. Those who know ways to <strong>hack</strong> the data import/export please get in touch, I would love to hear more about it.</p>
+  </li>
+  <li>
+    <p>In general it’s a pity that there isn’t a mainstream platform to <strong>share</strong> LCA data between researchers. There are some initiatives in this sense: from the <a href="https://bonsai.uno/">Bonsai</a> project to the <em>open industrial ecology data commons</em> <a href="http://www.database.industrialecology.uni-freiburg.de/">pilot</a>, but right now these initiatives are striving to reach critical mass.</p>
+  </li>
+</ol>
+
+<p>Long story short, a lot of work to do on the reproducibility front for the LCA community.</p>
+:ET

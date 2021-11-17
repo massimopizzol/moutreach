@@ -1,0 +1,79 @@
+I"�<h1 id="an-invitation">An invitation</h1>
+
+<p>I’ve been invited by The Danish Youth Association of Science (<em>Ungdommens Naturvidenskabelige Forening</em> - <a href="https://unf.dk/">UNF</a>) to give a two-hour lecture/workshop <a href="https://unf.dk/aktiviteter/2019-09-19/life-cycle-analysis-lca/">about LCA</a> for a mixed audience. Mixed audience means anybody from high school students to people enjoying their pension, and all the rest in the middle with mixed background of course.</p>
+
+<p>Isn’t this just the perfect audience?</p>
+
+<h1 id="one-does-not-simply">One does not simply…</h1>
+
+<p>…learn LCA in two hours. But one can get a good feeling of what LCA is about. And neither does one simply enjoy listening to my LCA rants for 120 minutes. Spare us! So I opted for an <strong>interactive</strong> workshop, <strong>popular</strong> style, focus on life cycle <strong>thinking</strong>.</p>
+
+<p>This was the structure:</p>
+
+<ul>
+  <li>
+    <p>short <strong>warm-up</strong> on “why LCA?”. Showing some newspaper articles about (in)famous LCAs</p>
+  </li>
+  <li>
+    <p><strong>problem solving</strong> in groups of min. two people. Three expressly tricky exercises. I go around the groups and ask questions, give hints, etc. (<em>facilitator</em> role). Then break.</p>
+  </li>
+  <li>
+    <p><strong>plenum discussion</strong> and some sort of comment from my side, dropping some little elements of LCA theory.</p>
+  </li>
+</ul>
+
+<p>Below are the three exercises.</p>
+
+<p> </p>
+
+<h1 id="1-the-painter">1. The painter</h1>
+
+<p><img src="https://moutreach.science/assets/Questions_Page_1.jpg" alt="Questions_Page_1" /></p>
+<center><i><font size="2">First exercise</font></i></center>
+
+<p><strong>Problem.</strong> This exercise is about functional units. I have been writing a bit about this <a href="https://moutreach.science/2018/03/22/Shopping-Bags.html">here</a>. The key message is that in comparative assessment the focus is not on products as items but on the functions of products. So it’s about comparing different products with same function. Note: numbers are invented.</p>
+
+<p><strong>Discussion.</strong> Focus on why choosing this or that option and what information is missing to decide. I showed a slide with the three key questions to identify Function (<em>what should the product do?</em>), Functional unit (<em>how much function is needed?</em>) and reference flow (<em>how much product is needed to perform the function?</em>).</p>
+
+<p> </p>
+
+<h1 id="2-how-far">2. How far?</h1>
+
+<p><img src="https://moutreach.science/assets/Questions_Page_2.jpg" alt="Questions_Page_2" /></p>
+<center><i><font size="2">Second exercise</font></i></center>
+
+<p><strong>Problem.</strong> This is for the visual people. It should force some system thinking. The key is to draw as many connected activities and products as you can. Important to remember the end of life. Don’t get scared by complexity.</p>
+
+<p><strong>Discussion.</strong> Special effects on Simapro and ecoinvent. An old trick. I show the network graph for the process “production of laptop computer” and reduce the cutoff percent progressively. The network explodes, people gasp. All activities of the world are connected.</p>
+
+<p> </p>
+
+<h1 id="3-the-shampoo">3. The shampoo</h1>
+
+<p><img src="https://moutreach.science/assets/Questions_Page_3.jpg" alt="Questions_Page_3" /></p>
+<center><i><font size="2">Third exercise</font></i></center>
+
+<p><strong>Problem.</strong> An unsolvable choice between two fictional products. This exercise should trigger some reflection on impact pathways, on comparability across emissions and impacts, and on trade-offs.  Note: numbers are invented.</p>
+
+<p><strong>Discussion.</strong> Showing a simple calculation of CO<sub>2</sub>-equivalents. Showing a slide about impact pathway from Joillet et al.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> Discuss uncertainty at midpoint and endpoint. Discuss weighting (<em>which impact is most important, and what “important” means?</em>), value choices (<em>impacts to who?</em>), spatial and temporal perspectives (<em>impacts today or tomorrow, local or global?</em>), etc. This is really a powerful exercise on many levels because opens up a lot of pandora boxes and discussion points. Total nice.</p>
+
+<h1 id="feedback-and-reflection">Feedback and reflection</h1>
+
+<p>I got the impression that the exercises were well received: everybody completed all the three of them and people were discussing actively. I liked especially the product system drawings on exercise two, in particular those that really <strong>exploded in details</strong>.</p>
+
+<p>We concluded with some very interesting questions and a discussion about issues of validity (<em>how true are these results?</em>), what is the true role of LCA (<em>tool for supporting decision rather than black-box machine to spit out numbers</em>), current political issues (<em>what if we put a carbon value on every product by law, who calculates that, and how?</em>), etc.</p>
+
+<p>A really nice evening with very engaged and <strong>reflective</strong> young people. Thanks again SNU for the invitation.</p>
+
+<p><strong>@Anibody reading this:</strong> please feel free to use this material for your lecture.</p>
+
+<p> </p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Jolliet et al. The LCIA midpoint-damage framework of the UNEP/SETAC life cycle initiative. Int. J. Life Cycle Assess. 2004, 9 (6), 394–404. <a href="https://link.springer.com/article/10.1007/BF02979083">https://doi.org/10.1007/BF02979083</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

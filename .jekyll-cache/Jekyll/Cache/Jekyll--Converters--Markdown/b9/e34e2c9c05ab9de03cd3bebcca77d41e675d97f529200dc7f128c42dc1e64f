@@ -1,0 +1,41 @@
+I"�<p>Here another post of the series about <strong>group-exercises to teach sustainability</strong>. Why group exercises? Check my <a href="https://moutreach.science/2017/03/13/Group-exercises-participatory-scenario-development.html">previous post</a> to learn about <a href="http://www.en.aau.dk/about-aau/aalborg-model-problem-based-learning">problem based learning</a> and how teaching is done at Aalborg University.</p>
+
+<h1 id="system-analysis-with-causal-loop-diagrams">System analysis with causal loop diagrams</h1>
+
+<p>This exercise is usually done in the context of a lecture about <em>sustainability</em>. The point I use to make is that every time we talk about sustainability we also end up talking about <em>systems</em> (and <em>values</em>, and other things, but let’s focus on the systems). And every time we talk about systems we end up talking about <em>models</em>. So one may want to understand what a model is, and what a system is, in order to understand what sustainability is. A great way of learning these things is working with <a href="https://thesystemsthinker.com/causal-loop-construction-the-basics/">causal loop diagrams</a>.</p>
+
+<p>Another element of my rationale is that sustainability is a <strong>difficult concept to communicate</strong> and explain. Try writing a short but precise <em>definition</em> of sustainability and see what happens. Yet <strong>stories</strong> and narratives are effective tools to convey the feeling and idea of what sustainability is. The <a href="https://en.wikipedia.org/wiki/Easter_Island">Easter Island</a> story is for example used in the Sustainability Science<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> book.</p>
+
+<p>Summing up, combine system thinking and narratives and you get this exercise.</p>
+
+<p>To be honest, I should also say that in developing it I was much inspired by the findings of the <a href="http://www.scp-responder.eu/">RESPONDER</a> EU project, where causal loop diagrams are used in stakeholder workshops to achieve a <strong>common understanding</strong> of complex problems. Yes, this is very much like in the case of the scenario development exercise of my <a href="https://moutreach.science/2017/03/13/Group-exercises-participatory-scenario-development.html">previous post</a>!</p>
+
+<h1 id="so-how-does-the-exercise-work">So how does the exercise work?</h1>
+
+<p>The above mentioned concepts of sustainability, narratives, etc. are introduced to the students. Then I explain how a causal loop diagram works using basic examples from Bossel<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>. Then students are divided into groups (4-6 students). Each group is given a newspaper article to read, for example this one about <a href="https://www.nytimes.com/2014/06/10/science/of-fish-monsoons-and-the-future.html">Cambodia’s Tonle Sap Lake</a>. I have a collection of articles similar to this one, that I call <em>sustainability stories</em>.</p>
+
+<p>The group develops a causal loop diagram as a model of the system(s) described in the article. Students are also given a short list of simple guiding questions like <em>reflect on what is the main problem described in the article…</em> that facilitate the task. Each group prepares a digital version of the diagram (power point or just by taking a picture with a mobile phone). I show the diagram to the class and in turn each group tells their story to the other groups using the diagram only as guide. The other students make comments and ask questions.</p>
+
+<p>We conclude with a <strong>plenum discussion and reflection</strong> on the exercise. What was more/less interesting/challenging? I have done this various times and typical issues are agreeing on which elements the diagram should include, their names, the links between them, their direction, the causality, etc. I really like this exercise.</p>
+
+<p><img src="https://moutreach.science/assets/tonelsap.jpg" alt="Causal loop diagram" /></p>
+<center><i><font size="2"> The causal loop diagram of the Tonle Sap lake story, made by a group of master students. Plenty of mistakes, but a good starting point for discussion and improvement</font></i></center>
+<p>Optionally, sometimes I add an extra step where I ask students to move from a qualitative model to a quantitative one. This means finding possible units and even numbers for each element of the system (both nodes and connections), and eventually changing, modifying, or simplifying the model. The level of difficulty at this point increases almost exponentially even for students with good quantitative skills. Sometimes the entire model has to be redesigned.</p>
+
+<h1 id="summing-up-on-this-system-thinking-exercise">Summing up on this system thinking exercise</h1>
+
+<p>This exercise addresses, in his own way, sustainability, modelling, and system thinking. A key point of this exercise is that <strong>the process is more important than the result</strong>. So in the end it doesn’t matter how visually appealing or formally correct a causal loop diagram is. The important is going through the system thinking and modelling process and reflecting on it.</p>
+
+<p> </p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>De Vries B, 2012. <em>Sustainability science.</em> Cambridge University Press, 1 edition, 2012. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>Bossel H, 2007. <em>Systems and models, complexity dynamics evolution sustainability.</em> BoD Publ. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

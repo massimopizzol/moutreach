@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Criteria to evaluate a model
-date: 2021-01-10
+date: 2050-01-10
 tags: [articles, scientific writing]
 excerpt: Approved by Thanos the titan
 ---
