@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unfinished paths
-date: 2021-11-16
+date: 2021-11-17
 tags: [articles]
 excerpt: How blockchain creates impact
 ---
