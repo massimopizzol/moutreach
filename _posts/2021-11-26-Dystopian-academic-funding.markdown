@@ -66,10 +66,9 @@ This creates **further skewness** in the access to funding.
 
 To make a concrete example, all my grant applications are checked beforehand for budget, it's a safety measure to make sure the economy will be healthy if the project is granted. The Dep. collectively can afford some no-overhead grants, but not many and depending on many factors.
 
-I myself avoid specific calls from private foundations because I know the economy will be in minus from day one...and this is some trouble you don't want to step in.
+I myself avoid specific calls from private foundations because I know the economy will be in minus from day one...and this is some trouble you don't want to step into.
 
 Most interestingly, the article also says that this is the case (and I am surprised to read that!) also in other Danish Univs. that get a much larger share of base funds than mine does. And there, researchers at institutes with many external funds **are told not to apply** to new externally financed projects, says the article, because _"there is simply no more [internal] money to support it"_.
-
 
 What do the private funds think of this? According to the article one says: _"we will not pay fixed overhead nor pay the universities' often expensive rent"_. 
 
@@ -84,7 +83,6 @@ End of post about dystopian academic funding...no morally clear take-home messag
 If I got something wrong, it's possible, [please correct me](mailto:massimo@plan.aau.dk).
 
 Again, some content is taken from the article linked in the beginning, I tried to make it explicit every time. If you work in Danish research, read the article, it's good.
-
 
 
 &nbsp; 
