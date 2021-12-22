@@ -3,7 +3,7 @@ layout: post
 title: Top ten sci papers 2021
 date: 2021-12-21
 tags: [articles, scientific writing, life cycle assessment]
-excerpt: Including puzzling ones
+excerpt: Bookmarking like there is no tomorrow
 ---
 
 ![Figurehere]({{ site.url }}/assets/IMG_0758.jpg)
