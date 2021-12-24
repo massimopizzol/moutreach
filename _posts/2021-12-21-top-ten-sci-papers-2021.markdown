@@ -6,13 +6,8 @@ tags: [articles, scientific writing, life cycle assessment]
 excerpt: Bookmarking like there is no tomorrow
 ---
 
-![Figurehere]({{ site.url }}/assets/IMG_0758.jpg)
-<center><i><font size="2">The wall of print is still there</font></i></center>
 
-
-&nbsp;
-
-# Look back
+# Get back Jo
 
 Here continues the millennial tradition where I list ten papers published this year that particularly impressed me for one or the other reason. Disclaimer: this is probably the most subjective and most criteria-weak top ten you find on the web. Also, this year there is **a lot of LCA** papers so I hope you really enjoy reading this stuff. 
 
