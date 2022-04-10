@@ -28,7 +28,7 @@ This is for me the most sensible way to think about LCA. The logical step is tha
 
 A modelling ethic for me is __not__ about making new standards and guidelines. Far from it. A modelling ethic is about recogninzing first that these models have limits, that quantification itself has limits, that not all models can be used for all purposes. Then about being transaprent about modelling assumptions, making uncertainty and sensitivity explicit, sharing data and allow for open model use, model check and reproducibility by others. 
 
-This is the hard work that some, but not many yet, in the LCA community have understood is important. These is what [other modelling communities](10.1038/d41586-020-01812-9) have already understood.
+This is the hard work that some, but not many yet, in the LCA community have understood is important. These is what [other modelling communities](https://www.nature.com/articles/d41586-020-01812-9) have already understood.
 
 This is also what brings back LCA into the realm of "science", I would say. 
 
