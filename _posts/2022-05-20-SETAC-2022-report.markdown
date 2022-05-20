@@ -2,15 +2,12 @@
 layout: post
 title: Highlights from SETAC'22
 date: 2022-05-20
-tags: [life cycle assessment]
+tags: [life cycle assessment, networking]
 excerpt: Live report of the CPH conference
 ---
 
 
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Anyway, good to see and catch up with so many people live at <a href="https://twitter.com/hashtag/SETACCopenhagen?src=hash&amp;ref_src=twsrc%5Etfw">#SETACCopenhagen</a>. I won’t join the next one because I would have to fly there so see you all maybe in 2 years? Here a pic of the today (admittedly not very diverse 😓) session chair group as postcard. Cheers!👋👋👋 <a href="https://t.co/rECDMKmufL">pic.twitter.com/rECDMKmufL</a></p>&mdash; Massimo Pizzol ☮🇺🇦 (@m_outreach) <a href="https://twitter.com/m_outreach/status/1527272189338259457?ref_src=twsrc%5Etfw">May 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-&nbsp;
 
 # Four days of SETAC
 
