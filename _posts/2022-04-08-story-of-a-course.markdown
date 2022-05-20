@@ -7,7 +7,7 @@ excerpt: Five years of teaching, in a timeline
 ---
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today I start teaching a master course in &#39;&#39;Holistic Design&quot;, 2020 edition. I&#39;ll tweet every Wednesday about it under <a href="https://twitter.com/hashtag/HolisticDesign20?src=hash&amp;ref_src=twsrc%5Etfw">#HolisticDesign20</a></p>&mdash; Massimo Pizzol ☮🇺🇦 (@m_outreach) <a href="https://twitter.com/m_outreach/status/1225050054748200960?ref_src=twsrc%5Etfw">February 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today I start teaching a master course in &#39;&#39;Holistic Design&quot;, 2020 edition. I&#39;ll tweet every Wednesday about it under <a href="https://twitter.com/hashtag/HolisticDesign20?src=hash&amp;ref_src=twsrc%5Etfw">#HolisticDesign20</a></p>&mdash; Massimo Pizzol ☮🇺🇦 (@m_outreach) <a href="https://twitter.com/m_outreach/status/1225050054748200960?ref_src=twsrc%5Etfw">February 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>****
 
 
 # Timeline
@@ -67,7 +67,7 @@ In this year I also included a module on critical assessment of models, inspired
 
 # 2022
 
-Back to teaching **in person**. Full flipped-classroom mode: all the videos made during the pandemic provided in advance, together with readings. At the classes, the structure is always Q&A on the material, and supervision of group exercises (in person). Worked very well, probably the best version of the course I ever made. I strengthened also the focus on the critical assessment of models, and model limitations, proposing again exercises like this. 
+Back to teaching **in person**. Full flipped-classroom mode: all the videos made during the pandemic provided in advance, together with readings. At the classes, the structure is always Q&A on the material, and supervision of group exercises (in person). Worked very well, probably the best version of the course I ever made. I strengthened also the focus on the critical assessment of models, and model limitations, proposing again exercises like the one above. 
 
 At the end of the course the assignments were very high quality, full LCAs and very reflective students. 
 
@@ -77,4 +77,4 @@ After five years, I feel this course has been fine-tuned to a very high degree. 
 
 The point of this post is: **it takes time** to make a good course. 
 
-Also, a big **thank you** to all the students, I hope the course as as useful and enjoyable to you as it was to me.
+Also, a big **thank you** to all the students, I hope the course was just as useful and enjoyable to you as it was to me.

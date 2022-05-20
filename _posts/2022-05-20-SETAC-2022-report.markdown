@@ -1,0 +1,99 @@
+---
+layout: post
+title: Highlights from SETAC'22
+date: 2022-05-20
+tags: [life cycle assessment]
+excerpt: Live report of the CPH conference
+---
+
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Anyway, good to see and catch up with so many people live at <a href="https://twitter.com/hashtag/SETACCopenhagen?src=hash&amp;ref_src=twsrc%5Etfw">#SETACCopenhagen</a>. I won’t join the next one because I would have to fly there so see you all maybe in 2 years? Here a pic of the today (admittedly not very diverse 😓) session chair group as postcard. Cheers!👋👋👋 <a href="https://t.co/rECDMKmufL">pic.twitter.com/rECDMKmufL</a></p>&mdash; Massimo Pizzol ☮🇺🇦 (@m_outreach) <a href="https://twitter.com/m_outreach/status/1527272189338259457?ref_src=twsrc%5Etfw">May 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+&nbsp;
+
+# Four days of SETAC
+
+Short report of the first conference I attended in person after the pandemic. 
+
+
+# Day 1
+
+Warming up.
+
+First session: improving data quality. Two presentations on food databases increasing granularity, two on **uncertainty** analysis - it seems to me that we have now both the data to make some inventories more accurate and the tools to simulate the uncertainty on the rest
+
+Here I presented a [recent study](https://vbn.aau.dk/da/publications/quantifying-uncertainty-elements-in-lci-modelling-of-chemical-mix) where we test the impact of different uncertain factors in total uncertainty and we figure out...**database** is the largest source. Which is a problem. Credits go mainly to Giovanni Codotto (AAU) who did the work under my supervision and in collaboration with Laurent Vandepear (AN-OG).
+ 
+Second session: **bio based** products. Integration of economics / biochemistry tools with LCA and finally, finally we are talking about constraints in biomass supply, and how “circular” solutions must account for that. Søren Løkke from the AAU side [presenting](https://vbn.aau.dk/en/publications/challenges-aligning-lca-results-across-bio-based-industries) some of the ideas behind our recent ALIGNED project.
+ 
+Heads up and congrats to our very own PhD stud [Maddalen Ayala](https://vbn.aau.dk/da/publications/life-cycle-assessment-of-brown-seaweed-based-plastic) who presented [Plastisea](https://www.sintef.no/en/projects/2020/plastisea-novel-enhanced-bioplastics-from-sustainable-processing-of-seaweed/) project results on LCA of biolastfc from seaweed! She rocked it 🤘. 
+ 
+Finally, very tired right into chairing a [discussion session](https://vbn.aau.dk/en/activities/topical-discussion-should-we-strive-towards-a-single-common-lca-a) together with our Agneta Ghose (AAU) and Tomas Ekvall (Chalmers) about striving for a common LCA methodology...**hot** topic indeed. 
+
+A survey across the audience showed that although they were undecided on whether we should go for a common LCA method, we will never make it anyway (not realistit an objective to achieve). Great comments from the audience overall. A quote about data interoperability for example:
+ 
+_"[adapting data from diff sources and software] is a nightmare for us and a source of huge pain and cost"_
+
+This says it all…
+ 
+
+# Day 2
+
+I actually missed it.
+
+So I tried collecting ‘highlights’ from the participants to the LCA session. 
+
+The first two informants were not very informative: _“Session was a bit weird”_ and _“Yesterday? It is all a bit blurried”_ is all I could get 🤌
+
+Apparently the session on LCA of biofuels was very interesting: critique of iLUC models, and strikes that people are still doing research on 1st gen biofuels? I thought we were past that?!?
+
+Sorry for lousy coverage. I asked around but there was nothing major to report. Skip to day 3 report below.
+
+# Day 3
+
+Go with the flow. 
+
+Session in the morning about impact assessment. I am a bit **rusty** on LCIA tbh but I get the impression this stuff is still as much of an open research area as 10y ago when I started. There is so much to do to increase coverage of impact pathways, increase robustness, reduce uncertainty, etc.
+
+Anyway, some presentations about methodologies and frameworks for human and ecosystem damage, as well as methods for specific sources (fisheries, wind turbines).
+
+The boundary with risk assessment is getting very blurried IMO. 
+
+A couple of presentations didn’t show results, this was...surprising?
+
+Afternoon session about **methodological harmonization**. Great session. Thomas Schaubroeck (LIST) criticizing ISO for inconsistency, Tomas Ekvall (Chalmers) reporting on the inconsistency of how people interpret system expansion
+
+I made a comment here that came out all wrong but the essence is: before writing guidelines about system expansion or substitution...do the math! Words can be misleading or confusing but **matrices and equations** shuold be quite univocal. 
+
+Finally, networking session on prospective LCA: huge attendance and interest. We are going to build a small knowledge-sharing network on the topic, stay tuned. 
+
+# Day 4
+
+Survival mode. 
+
+Only two sessions on this day about [prospective LCA](https://vbn.aau.dk/en/activities/session-chair-prospective-assessment-of-emerging-technologies-and) of emerging tech, that I was so kindly invited to co-chair by Nils Thonemann (DTU) and Alexis Laurent (DTU). **Without any bias** I can tell this was the absolutely BEST session in the conf.
+
+Presentations & posters covered several **emerging technologies** some of which were even completely new to me. And a variety of modeling approaches
+ 
+My impression, the modus operandi is generally: 
+
+ 1. Make scenarios (often in collaboration with stakeholders)
+ 2. Convert qualitative scenarios into a set of operational model parameters
+ 3. Sampling or combination to produce several LCA results
+ 4. Sensitivity analysis
+ 
+This was done to various levels of **sophistication** in the presentations, some covering foreground modeling only, some bagroung only, some both. Interesting to see the combinations and interactions between the two layers (a presenter nicely represented this as an iceberg, foreground = tip, background = bottom)
+ 
+A presentation about a **validation** study showed that upscaling methods can not be fully trusted! Do not work for specific tech e.g. bio based. Difficult to generalize but attention (and better methods and validation) needed!
+
+And again congrats to our very own PhD stud [Pierre Jouannais](https://vbn.aau.dk/da/persons/pierre-antoine-jouannais) who presented some of the [Aquahealth](https://aquahealth-project.com/) project results on modelling microalgae cultivation prospectively and stochastically - very advanced modelling effort.
+
+In general, **impressive** computational and data intensive approaches! Coding skills for using - and good practices for sharing - prospective databases increasingly needed...
+
+I speculate, looking at the funding, that this **wave** of prospective LCA studies is partly due to the EU Commission and Horizon programme. Many EU projects are initiated in green/emerging tech development and there is always a LCA WP...so LCA research followed.
+
+Also, if I can be **critical**, we need to start thinking a bit critically about these large prospective simulations: where does the science ends and the speculation begins? How can we validate any of this? What is the meaning of uncertainty in a scenario-world? Etc.
+
+Exhausted after the conf but nice to be there again. That's all from my side about SETAC-Copenhagen.
+
