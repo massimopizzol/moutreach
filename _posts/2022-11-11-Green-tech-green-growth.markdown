@@ -22,7 +22,7 @@ In this study we started from a simple premise: achieving a "green growth" means
 
 _(parenthesis: we used “green technology” to refer to a technology that is considered environmentally friendly based on its production process or supply chain. We chose it to match the “green growth” terminology and among various synonymous (“environmental technology,” “green tech” and “cleantech”, “environment-related technologies”))_
 
-So why why the journey of many green technologies from their early conception to their large-scale adoption and upscaling remains **a serious challenge**? We wanted to find out.
+So **why** the journey of many green technologies from their early conception to their large-scale adoption and upscaling remains **a serious challenge**? We wanted to find out.
 
 There has been entire books on the topic of tech innovation and development, but we wanted an ampirical study on the nordics. Because  the nordic countries are often taken as **leaders in environmental innovation** - so...it would be interesting to see what happens there.
 
@@ -39,7 +39,10 @@ Below the result:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here green patents classified according to technological domains (data from EPO). <br>- increasing steadily since 2000 (after 2015 the decrease is due to delays in reporting).<br>- but country-specific tech development pattern (strongholds or preferred areas) <a href="https://t.co/TtwseAsjMy">pic.twitter.com/TtwseAsjMy</a></p>&mdash; Massimo Pizzol 🇺🇦 (@m_outreach) <a href="https://twitter.com/m_outreach/status/1590069600041177092?ref_src=twsrc%5Etfw">November 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-But Nordic countries displays a different pattern in terms of type of technologies patented suggesting country-specific strongholds or preferred areas of green technology development.
+Green patents classified according to technological domains (data from [EPO](https://www.epo.org/)) are 
+
+- increasing steadily since 2000 (after 2015 the decrease is due to delays in reporting).
+- But Nordic countries displays a different pattern in terms of type of technologies patented suggesting country-specific strongholds or preferred areas of green technology development.
 
 So far so good, we get the **big picture**: a lot of green tech developm,ent going on in all countries, with country specific differences in the type of techs developed. But we don't know the details of this story. 
 
@@ -54,6 +57,8 @@ What did we ask? In simple terms, to **tell us a story** of their technology, wh
 And again:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">And here the result, we were able to find a structure that fits basically all stories and described the &quot;life cycle&quot; or &quot;journey&quot; of a green tech from conception to market. 7 steps influenced by 4 factors: Organisation, Funding, Technology, Market. <a href="https://t.co/rPfK0fUbKG">pic.twitter.com/rPfK0fUbKG</a></p>&mdash; Massimo Pizzol 🇺🇦 (@m_outreach) <a href="https://twitter.com/m_outreach/status/1590069623256657920?ref_src=twsrc%5Etfw">November 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+We were able to find a **structure** that fits basically all stories and described the "life cycle" or "journey" of a green tech from conception to market. Seven steps influenced by four factors: **Organisation, Funding, Technology, Market**.
 
 Not surprisingly, this scheme fits previous theories about innovation and the different steps in technology development (there are several models in the literature about this). So what is the new stuff here?
 
