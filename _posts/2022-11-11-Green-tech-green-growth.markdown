@@ -11,7 +11,7 @@ excerpt: A Nordic innovation paper
 # It takes ages
 
 
-I have been waiting to write about this article for SO long time: _"Green Tech for Green Growth? Insights from Nordic Environmental Innovation"_ recently published together with Mikael Skou Andersen. 
+I have been waiting to write about this article for SO long time: [_Green Tech for Green Growth? Insights from Nordic Environmental Innovation_](https://link-springer-com.zorac.aub.aau.dk/chapter/10.1007/978-3-031-08313-6_8) recently published together with [Prof. Mikael Skou Andersen](https://pure.au.dk/portal/da/persons/mikael-skou-andersen(d6eb07fd-3020-4801-9beb-04c0cc0f0914).html) from Aarhus Univ., Dep. Environmental Sciences. 
 
 
 # NOWAGG
@@ -20,11 +20,11 @@ First, this is the result of the work done under the [NOWAGG project](https://vb
 
 In this study we started from a simple premise: achieving a "green growth" means relying **a lot** on technological solutions to decouple growth and emissions — but evidence shows that bringing new "green" technologies to the market is actually not so easy...🤔
 
-(parenthesis: we used “green technology” to refer to a technology that is considered environmentally friendly based on its production process or supply chain. We chose it to match the “green growth” terminology and among various synonymous (“environmental technology,” “green tech” and “cleantech”, “environment-related technologies”))
+_(parenthesis: we used “green technology” to refer to a technology that is considered environmentally friendly based on its production process or supply chain. We chose it to match the “green growth” terminology and among various synonymous (“environmental technology,” “green tech” and “cleantech”, “environment-related technologies”))_
 
-So why why the journey of many green technologies from their early conception to their large-scale adoption and upscaling remains a serious challenge? We wanted to find out.
+So why why the journey of many green technologies from their early conception to their large-scale adoption and upscaling remains **a serious challenge**? We wanted to find out.
 
-There has been entire books on the topic of tech innovation and development, but we wanted an ampirical study on the nordics. Because  the nordic countries are often taken as leaders in environmental innovation - so...it would be interesting to see what happens there.
+There has been entire books on the topic of tech innovation and development, but we wanted an ampirical study on the nordics. Because  the nordic countries are often taken as **leaders in environmental innovation** - so...it would be interesting to see what happens there.
 
 # Patents
 
@@ -32,7 +32,7 @@ We used a **mixed-methods approach**: quantiative (patent analysis) and qualitat
 
 Why the **patents**? Because it's a proxy for innovation, and it's realtively good data. Very organized, very structured, realtively easy to retrieve (after you learn some SQL...)
 
-So we got data for all the patents submitted in 2000–2017 in the five Nordic countries: Denmark, Finland, Iceland, Norway, and Sweden and selected the "green" ones based on an existing classificaiton (Haščič & Migotto, 2015).
+So we got data for all the patents submitted in 2000–2017 in the five Nordic countries: Denmark🇩🇰, Finland🇫🇮, Iceland🇮🇸, Norway🇳🇴, and Sweden🇸🇪 and selected the "green" ones based on an existing classificaiton ([Haščič & Migotto, 2015](https://www.oecd-ilibrary.org/environment/measuring-environmental-innovation-using-patent-data_5js009kf48xw-en)).
 
 Below the result:
 
