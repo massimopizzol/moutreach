@@ -45,7 +45,7 @@ Don’t argue with reviewers. **This is not a discussion.** Every time you argue
 
 In this sense it helps sometimes to think that you are writing **to the editor**, not to the reviewers (it helps to avoid arguing). You are writing to the editor **to show what you have done**, not to the reviewer to offer explainations or clarifications.
  
-Sometimes I hear that people feel "atttacked" by reviewers. Don’t let the reviewer get to your nerves. "Attacks" are irrelevant. 
+Sometimes I hear that people feel "attacked" by reviewers. Don’t let the reviewer get to your nerves. "Attacks" are irrelevant. 
 
 Was a **specific revision** required? Has the paper been revised **accordingly**? **That’s all that counts.**  
 
@@ -57,9 +57,11 @@ Just write what revision has been done and where (show don't tell, see above). A
 
 Of course, there are situations where one should forget everything I wrote above and go nuclear. 
 
-Personal offenses, implicit or suggested accusations of  misconduct without evidence, denigrating, sexists or patronizing comments, etc. Zero tolerance for this stuff. Write to the editor that you don't want to deal with anything like that and offer no answer than that to the reviewer's comment.
+Personal offenses, implicit or suggested accusations of  misconduct without evidence, denigrating, sexists or patronizing comments, etc. 
 
-&nbsp
+**Zero tolerance** for this stuff. Write to the editor that you don't want to deal with anything like that and offer no answer than that to the reviewer's comment.
+
+&nbsp;
 
 
 [^1]: For a short period of my academic life, I used to first write a draft response document with very furious answers to the comments received, to let the anger out. Or the frustration, I guess. Then I would let the document "rest" for one day or two. Then read it again, cancel everything, and start over. This is a very stupid approach, don't use it.
