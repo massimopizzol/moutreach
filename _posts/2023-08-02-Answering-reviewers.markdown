@@ -3,7 +3,7 @@ layout: post
 title: Responding to reviewers
 date: 2023-08-02
 tags: [peer review]
-excerpt: Two tips I repeat often
+excerpt: Things I repeat often
 ---
 
 &nbsp;
