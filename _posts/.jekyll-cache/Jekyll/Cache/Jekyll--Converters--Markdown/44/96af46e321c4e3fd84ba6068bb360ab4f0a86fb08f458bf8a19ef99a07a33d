@@ -1,0 +1,55 @@
+I"�<p><img src="/assets/SETACCSS17_1_II.jpg" alt="SETACCSS17_1_II" /></p>
+<center><i><font size="2"> Getting to know BCN during the conf luch break (Photo credits: Massimo Pizzol)</font></i></center>
+
+<p>So <a href="https://www.setac.org/">SETAC</a> together with the LCA guru <a href="https://ilca.es/about-us/governing-board/">Bo Weidema</a> decided to dedicate the 2017 edition of the <a href="https://lca2017.setac.org/">LCA case study symposium</a> to <a href="https://consequential-lca.org/">consequential LCA</a>. <strong>Good idea.</strong></p>
+
+<p>I have <strong>mixed feelings</strong> about the usefulness of conferences as they are usually very demanding for me -socially, economically and environmentally- so I choose them carefully. Probably I’ll write a post about this one day. This was a light conference, two days only, very nice. Given the <a href="https://en.wikipedia.org/wiki/Catalan_independence_referendum,_2017">political struggles</a> happening in Spain, at the time of registration me and colleagues were wondering if we could make it to Barcelona without a visa…but the venue was found totally quiet. No surprises.</p>
+
+<p>Here my highlights from the whole conference.</p>
+
+<h1 id="monte-carlo-makes-you-stupid">Monte Carlo makes you stupid</h1>
+
+<p>This is actually a quote from the session. The discussion was on stochastic error propagation <strong>versus</strong> scenario analysis to address uncertainties in LCA. I have talked about Monte Carlo simulation in a <a href="http://moutreach.science/2017/04/20/PM25-China-uncertainty.html">previous post</a> but in a different research context. In short: take random values from a parameter’s distribution, run the model, repeat several times, study the distribution of the results. You can do it in LCA too and you can actually do it for consequential models as well (results can have some tricky distributions though, as I showed in my presentation).</p>
+
+<p>So the point raised was whether scenarios are more <strong>useful</strong> than Monte Carlo simulation to address uncertainties. Maybe I did too much of the latter and it really made me stupid, because I don’t get it. These are two completely different things for me so a comparison makes no sense. It’s even difficult for me to understand what people mean by <em>scenarios</em> in LCA context. In other contexts definitions are pretty clear, see <a href="http://moutreach.science/2017/03/13/Group-exercises-participatory-scenario-development.html">here</a>. Are scenarios just a special type of <em>alternatives</em>? Is this about uncertainty or about <em>variability</em>? And how will the new possibilities for <a href="https://brightwaylca.org/">large LCA simulations</a> change the way we intend scenarios? I’ll probably write a post about this topic too because deserves a deeper reflection. Good that uncertainty is hot on the LCA agenda though.</p>
+
+<h1 id="the-coolest-presentations">The coolest presentations</h1>
+
+<p>There were many high-quality presentations.</p>
+
+<p>What impressed me was a stunning one by <a href="https://www.list.lu/en/research/erin/life-cycle-sustainability-and-risk-assessment/team/?tx_listpeople_pi1%5B%40widget_0%5D%5BcurrentPage%5D=2&amp;cHash=b071fbd0847b7a12c8a4d26b58a55935">Thomas Gibon</a> from the LCA team at LIST (LUX) on <strong>time-differentiating inventories</strong>. This means that if the life cycle of a computer spans over three years, with precious metal extraction in year 1, assembly in year 2, and use in year 3, one can actually assign the exact time to each emission. Seems obvious but right now in LCA it’s all aggregated to the same virtual year… There are a couple of theoretical papers around showing ways to achieve this, and also some examples on GHG emissions, but the authors actually implemented it <strong>full scale</strong> in a real-world case study.</p>
+
+<p>This <strong>opens for several possibilities</strong> to improve life cycle impact assessment, currently the most problematic phase of LCA if you ask me. The only weird issue was that the final result was a time series stretching not only in the future but also in the past. This is odd. Consequences happen in the future only by definition. I am sure the LIST guys can easily revise their model to fix this (I am a huge fan of their work).</p>
+
+<p>Another impressive presentation was the one by <a href="https://www.psi.ch/ta/lvandepaer">Laurent Vandepaer</a> from Sherbrooke Univ.(CA) and PSI (CH) on <strong>linking energy models and LCA</strong>. A very complete modelling and cool answers to the many questions received: <em>Have you included this? Yes. Have you taken into account that? Yes. Have you considered if…? Yes.</em> Stylish.</p>
+
+<h1 id="special-mentions">Special mentions</h1>
+
+<ul>
+  <li>A plenum session with online real-time voting &amp; discussion on provocative questions about attributional versus consequential EPDs. <strong>Interactive</strong>.</li>
+  <li>You could take a beer at the lunch break. And we literally talked about the posters “over lunch”. <strong>Gastronomic</strong>.</li>
+  <li><a href="https://www.uantwerpen.be/en/staff/matthias-buyle/">Matthias Buyle</a> from Antwerp Univ. (BE) awarded for <a href="https://ilca.es/meetings-and-awards/academy-awards/awards-2017/">Best contribution to LCA modelling</a> by the <a href="https://ilca.es/">International Life Cycle Academy</a>. And I am very proud to be a co-author of the <a href="https://doi.org/10.1007/s11367-017-1389-5">paper</a>. <strong>Show-off</strong>.</li>
+</ul>
+
+<p><img src="/assets/SETACCSS17_2.jpg" alt="SETACCSS17_2" /></p>
+<center><i><font size="2"> Matthias receiving the award, well done! (Photo credits: Massimo Pizzol)</font></i></center>
+
+<h1 id="what-i-missed">What I missed</h1>
+
+<p>I didn’t hear much about these two things:</p>
+
+<ul>
+  <li>
+    <p>There is a lot work going on <strong>open LCA data</strong>. One side of it are developments on making reporting of inventories more accessible, organised, and transparent to increase the understanding, validation, and reproducibility of LCA studies. The other side is about new ways to gather and validating inventory data bottom-up and making them open access, e.g. partly addressed in the <a href="https://bonsai.uno/">BONSAI</a> project.</p>
+  </li>
+  <li>
+    <p>A key question about consequential studies is <strong>what data and methods</strong> should be used to conduct them, how they perform in comparison, and how valid they are, as there is a wide diversity of approaches used across studies. Perhaps this is more a methodological issue but could have been addressed by case studies too. This is something I need to write a post about as well.</p>
+  </li>
+</ul>
+
+<h1 id="take-home">Take home</h1>
+
+<p>I always get a lot of <strong>ideas</strong> after attending conferences and now I also know that I get a lot of ideas from <em>writing</em> about conferences, as I already planned to write three posts. Plenty of work for the oncoming months. Time for me to close and say:</p>
+
+<p><strong>Hasta la vista, baby</strong></p>
+:ET

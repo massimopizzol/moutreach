@@ -1,0 +1,36 @@
+I"y<h1 id="a-modelling-ethic">A modelling ethic</h1>
+
+<p>If you follow the <a href="https://support.simapro.com/articles/FAQ/How-do-I-subscribe-to-the-LCA-discussion-list">Pré LCA discussion list</a> there are occasionally more or less sensible <strong>meta</strong> threads/flames/discussions about the crisis of LCA, allocation, etc.</p>
+
+<p>The most recent one is about whether LCA is science or accounting or engineering.</p>
+
+<p>I should say Thomas Ekvall and Bo Weidema have still the clearest view on the issue.</p>
+
+<p>In short:</p>
+
+<p><strong>BW</strong>: <em>If it is accounting only, then it does not help us making decisions</em></p>
+
+<p>To support decisions you need a model of the consequences of these decisions, that happen in the future, not an accounting of past events based on arbitrary normative rules.</p>
+
+<p><strong>TE</strong>: <em>LCA is about models. Models ar emental constructs with elements of subjectivity. Moreover, LCA is about system modelling and [the model of the entire system] can’t be tested agaist reality</em></p>
+
+<p>This is for me the most sensible way to think about LCA. The logical step is that to perform LCA we need a <strong>modelling ethic</strong>.</p>
+
+<p>A modelling ethic for me is <strong>not</strong> about making new standards and guidelines. Far from it. A modelling ethic is about recogninzing first that these models have limits, that quantification itself has limits, that not all models can be used for all purposes. Then about being transaprent about modelling assumptions, making uncertainty and sensitivity explicit, sharing data and allow for open model use, model check and reproducibility by others.</p>
+
+<p>This is the hard work that some, but not many yet, in the LCA community have understood is important. These is what <a href="https://www.nature.com/articles/d41586-020-01812-9">other modelling communities</a> have already understood.</p>
+
+<p>This is also what brings back LCA into the realm of “science”, I would say.</p>
+
+<p>Yes I sound like a broken record…</p>
+
+<h1 id="mass-balance">Mass balance</h1>
+
+<p>Obviously one should strive to achieve a complete mass balance in every “unallocated” inventory dataset. This is not always practically possible due to data gaps, but should remain an objective.</p>
+
+<p>Using economic allocation - “value allocation” - aka partitioning or splitting a multifunctional activity in two or more monofunctional “virtual” activities, which is a <em>modelling practice</em> will break this mass balance and result in a <em>model</em> which is mass-unbalanced. This is a fact, it can be proven mathematically easily.</p>
+
+<p>Is the resulting model a good one? I would say it’s a model that is poorly representative of a complex reality (cows that produce milk and not calves don’t exist, combined-heat-and-power plants that produce only heat don’t exist, etc.), and also of limited practical use. But I aknowledge that the vast majority of LCA practitioners don’t have any problem with that. There is plenty of guidelines recommending economic allocation.</p>
+
+<p>Is this a problem? Probably not the right question to ask. Since we know that <em>“<a href="https://en.wikipedia.org/wiki/All_models_are_wrong">all models are wrong</a>, some are useful”</em> then likely the right question is: what is the <strong>use</strong> of such a model? Maybe worth spending a minute or two reflecting on the answer.</p>
+:ET

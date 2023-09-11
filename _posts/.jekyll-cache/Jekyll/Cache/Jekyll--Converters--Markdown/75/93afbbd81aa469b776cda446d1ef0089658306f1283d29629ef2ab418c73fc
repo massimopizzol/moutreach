@@ -1,0 +1,347 @@
+I"��<h1 id="information-overload">Information overload</h1>
+
+<p>I am reading a LCA report from an institution that I will not mention by authors that I will not mention and it is <strong>a total mess</strong>.</p>
+
+<p>The authors have managed to write 100+ pages <strong>without</strong> being able to clearly explain what they did. If I had to replicate their results, it would take me a week of work just to put together the information.</p>
+
+<p>This situation is not uncommon unfortunately. The problem with many LCA reports of all types (scientific papers, scientific reports, student projects) is that either the inventory data are <strong>not reported</strong>, or the authors are <strong>overloading the reader</strong> with information. For <em>information overload</em> I mean filling the document with tables and text, numerous and disorganised, and even irrelevant, so that even if the data are actually there it’s impossible to make sense of them with reasonable effort. Neither omitting data nor making them impossible to understand corresponds to what I consider <em>transparent, complete, and clear</em> documentation (which is what I would expect from any LCA report).</p>
+
+<p>It is just so important to document the modelling done in an LCA study in a way that is easily <strong>understandable</strong> (and ideally also <strong>reproducible</strong>, but that is a different story). Bad writing is a sign of bad thinking. So when I read a LCA report that is not reporting the data in an organised way I have difficulties in taking the analysis seriously. Readers must be put in the condition to understand in detail and reasonably quickly what was done in the study. And for <em>what was done</em> I mean <em>what is the product system</em>.</p>
+
+<p>I have been writing about LCA reporting already <a href="http://moutreach.science/2017/02/01/reporting-LCA-results-part-I.html">here</a> and <a href="http://moutreach.science/2017/02/14/reporting-LCA-results-part-II.html">here</a>. Now I continue on the same topic and describe some <strong>good practices</strong> for documenting and communicating the foreground part of product systems. These tricks work for me<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> and I believe are clear and straightforward. My intended audience is people who have to document their LCA work in reports: scientists, consultants, students. This is not a post about how to manage, structure, share, or format LCA databases.</p>
+
+<h1 id="what-i-mean-for-foreground-system">What I mean for foreground system</h1>
+
+<p>I mean basically everything in the LCA inventory that is <strong>not database</strong>. This means the activities that you define, build, and link <strong>by yourself</strong>. The basic structure of your product system. The information that you manually put into a LCA software. The qualitative and quantitative primary data that you have collected yourself. And so on.</p>
+
+<p>It’s easier to show this than to describe it in words. Usually to understand what the authors of a LCA study actually did one needs to see at least some <strong>tables with the data</strong> and ideally a <strong>figure with a flow chart</strong> (not strictly necessary, but nice-to-have). This sounds simple and close to obvious but take 10 LCA studies at random and you’ll understand why it is not so obvious. So let’s start with the qualitative part and the figure of the foreground system.</p>
+
+<h1 id="flow-chart-for-the-foreground-system">Flow chart for the foreground system</h1>
+
+<p>Keep it simple.</p>
+
+<p>Activities are boxes.</p>
+
+<p>Products are arrows.</p>
+
+<p>Everything has a name.</p>
+
+<p>At least one product output per activity.</p>
+
+<p>No background activities, no exchanges.</p>
+
+<p><strong>That’s it.</strong></p>
+
+<p>Here an example using <a href="https://www.draw.io/">draw.io</a>.</p>
+
+<center><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="499px" version="1.1" content="&lt;mxfile userAgent=&quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36&quot; version=&quot;7.6.8&quot; editor=&quot;www.draw.io&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;4aed7720-c67f-01e4-c34b-ff3ce57707e2&quot; name=&quot;Page1&quot;&gt;3Vhdb5swFP01PK4CjAk8pkm3vUyalEnrHh1wwCrgyJgm6a+fjc2HIR+oTdOtPCT2sX19fe7xkcACi3z/jaFt+oPGOLNcO95bYGm5LvSg+JXAQQHuzFVAwkisILsDVuQFK9Bp0IrEuNSYgjilGSdbE4xoUeCIGxhijO7MaRuaxQawRQkeAasIZWP0N4l5qtAAgA7/jkmS6p29mc57jaKnhNGq0NtZLtjUjxrOURNKzy9TFNNdDwIPFlgwSrlq5fsFziSzJmtfT4y2aTNc8CkLdFWeUVbpk88jTp4JPwh0rnPkh4aW+mRYrnUscL9LCcerLYrk6E7oQGApzzM9rENjxvH+ZHpOe2ghJUxzzJncWi/woK+WaBk5ni7AriuK03CZ9griawxpHSRt6I4M0dB8HOcGjLgZ8YGLeC7VJnpRhsqSRCYFeE/4Y6/9R7TtO9iSg+OBDEtasQgbtZnAVo8NeISMBmM4Q6K45o7HGNI7/KREbNwWAwaDYsyAGUIlr1f1RTcI5If+nd173PNhOWIJ5qOwdflaEiZV1DtSUR/lUrfFupR/ghT7KZGsMxpXkUxaTMkEkfdENBLZQA0itmvBkTSE6LkpBoZL8oLW9QRb9LfyRPUZ4b0FlzJyxWmpvFAuQBlJCtHO8EaGkjeJCIuaa5hTmXEp7h8pkl+ys/ziXefewXBQEzi+d0E4Vprjvf3a+ecsaczzrS3JtT/QkmbvaUmCAHZ41OKsO2rMnehXmhd1Xf9NCwPALJ7rv9LCPO9CoBOmJUqDDr1p2gNOJuwN1abN8WRezmA+DAb6Uhm81kGDkQCldi575vrzeyaA0KQejI0h9N/HM8Nznrn4eM8MgHlbGh3dwjObV4rbmuZsommG/59pAu9KpjkKdC3TdAfmbJrgxflOcF3TdJwjrulPcM3o87umB+yL1hDCq7im6HYv1qqM3bcL8PAX&lt;/diagram&gt;&lt;diagram id=&quot;a7cb868d-396a-2bf1-6e86-127da95b5a5c&quot; name=&quot;Page2&quot;&gt;7VrLctsgFP0aL5uRhF5eJk7SLtqZzqQzSZdEIhKNLDwIx3a+vmBAEkJ+1JbjJNMsHDiCC7qPcy/YIzCZLr9SOMt/kBQVI89JlyNwPfK8aOzwTwGsJAD8sQQyilMJOQ1wh1+RBF2NznGKKoVJiBFSMDwzwYSUJUqYgUFKycIc9kSK1ABmMEMWcJfAwkbvccpyicYANPg3hLNcrexHat+PMHnOKJmXarmSlEg+mUItRQ2tcpiSRQsCNyMwoYQw2ZouJ6gQSjUVdrvhab1jikq2zwRPTniBxVy99GXC8AtmK45eqj2yldbI+qWQmOuOwNUixwzdzWAini64C3AsZ9NCPVaiEWVouXF7bv3S3IsQmSJGxdJqgh+EcoryINdXul809nC1LvOWLUKFQeUCWS26UQZvKH306wZYurH0gcr0Ujga7yUFrCqcmCpAS8weWu3fvO1cBLVyUGp5YEc1fDkypwlqmcvWVksbQY8yNEZRAblxzRX7NKRW+Ekw30ttjCDuGCMCpgi5UzWr7XQdQeF4hyAGaYaYJWhtsPq197Kh32PDEE6Fp5aPlfjH1eA8Z0L1lKTzRGyTDym46q4wb2SiATXCl6tByxm4mzPT/BRV+BU+rgc4vD8Tb7R+x+BqFFwLyXNGKkl8YgIscFbydoGehCgRO5jz0aWCGRE7rnjE4TL7JTrXX/xhIi0Ye6ZNAjvS4rHtW65/fKB54z0ijUfKneoSynKSkRIWNw161XCTY1rhD2JspbKL0DeHGgnfyVqNYlzFKHlGE1IQul4TiL/b24ODNepX+JFR6IVm8IxPFjvRttxgu/9b5wbPOWNuiE+ZG7gC6OpBOfK6I595WxKH5Xi97imd4x3kEgBM43nhgbnE93cI2hAP3DRw1RqmqHnjhv2ut6mctXFfbmd8EHf8S+7g0OC0KVP4zu5U9vj5UxkIAlP1wCYGXYEMncr00aWfNCfnJ80YmOGimewtSNN1z8Ga0Z6sqU33kWgT+APRpiVoKNr0OvRs0uDO8W48LG269oHXuQj34M3k8/OmD5yd3DAOTsSbdrH579RQE4CslGoOGKq4b9OA6/Tr8m14oEvjwA8O5AGnIwichgeA27/hweLaLsiBiOr7fHtYo/6wlliKX7pQPSblhZTTSu032wRxzJD1bljjiZRMn6o91d8cI0exi6tvD7QH6GNKm10iO2I0CR11wTDEVV7DLtEJ2OVsFYVmb22WuMPm+zIJiFwze8Qdww3FJJ119IaHYhJgV/D1FSEqXy56yAEtkxyW3MI9BLP8sLxwKh6IOhWeY5/OtImH5gEwxAHktFXG2SoKYB6arQPfvjzghR1BzmkqCmud0Pim63gesE8K3h7nhHSoguL6wxLHWxUU3Zs/37OIJO655hmESMKDnONpKOe4/e8cO+65dHWpqwSdUtrOAQZxDt5tvq+XRNP8GgLc/AU=&lt;/diagram&gt;&lt;/mxfile&gt;" onclick="(function(svg){var src=window.event.target||window.event.srcElement;while (src!=null&amp;&amp;src.nodeName.toLowerCase()!='a'){src=src.parentNode;}if(src==null){if(svg.wnd!=null&amp;&amp;!svg.wnd.closed){svg.wnd.focus();}else{var r=function(evt){if(evt.data=='ready'&amp;&amp;evt.source==svg.wnd){svg.wnd.postMessage(decodeURIComponent(svg.getAttribute('content')),'*');window.removeEventListener('message',r);}};window.addEventListener('message',r);svg.wnd=window.open('https://www.draw.io/?client=1&amp;lightbox=1&amp;edit=_blank');}}})(this);" viewBox="0 0 499 157" style="cursor:pointer;max-width:100%;max-height:157px;"><defs /><g transform="translate(0.5,0.5)"><rect x="250" y="10" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000" pointer-events="none" /><g transform="translate(285.5,33.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="49" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 51px; white-space: nowrap; word-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Activity A</div></div></foreignObject><text x="25" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Activity A</text></switch></g><path d="M 369.69 39.83 L 483.63 39.99" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" /><path d="M 488.88 40 L 481.88 43.49 L 483.63 39.99 L 481.89 36.49 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none" /><g transform="translate(387.5,22.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="79" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;"> 1 kg product <i>a</i></div></div></foreignObject><text x="40" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">&amp;nbsp;1 kg product &lt;i&gt;a&lt;/i&gt;</text></switch></g><rect x="0" y="10" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000" pointer-events="none" /><g transform="translate(35.5,33.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="49" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 51px; white-space: nowrap; word-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Activity B</div></div></foreignObject><text x="25" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Activity B</text></switch></g><path d="M 120.03 39.83 L 190 39.98 Q 200 40 205 32.5 L 207.5 28.75 Q 210 25 220 25.09 L 243.32 25.29" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" /><path d="M 248.57 25.34 L 241.54 28.77 L 243.32 25.29 L 241.6 21.77 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none" /><g transform="translate(150.5,2.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="86" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">0.5 kg product <i>b</i></div></div></foreignObject><text x="43" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">0.5 kg product &lt;i&gt;b&lt;/i&gt;</text></switch></g><rect x="77" y="95" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000" pointer-events="none" /><g transform="translate(111.5,118.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="51" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 51px; white-space: nowrap; word-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Activity C</div></div></foreignObject><text x="26" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Activity C</text></switch></g><path d="M 197.28 125.34 L 210 125.15 Q 220 125 220 115 L 220 65 Q 220 55 230 55 L 243.32 55" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" /><path d="M 248.57 55 L 241.57 58.5 L 243.32 55 L 241.57 51.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none" /><g transform="translate(225.5,97.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="85" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">0.6 kg product <i>c</i></div></div></foreignObject><text x="43" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">0.6 kg product &lt;i&gt;c&lt;/i&gt;</text></switch></g></g></svg></center>
+
+<center><i><font size="2">Example of foreground system</font></i></center>
+
+<h1 id="foreground-system-in-tables">Foreground system in tables</h1>
+
+<p>Tables are <strong>consistent</strong> with the flow chart. This means <em>same names</em> and <em>same numbers</em>. This also seems obvious but it is not, check with existing published studies. <strong>One table per foreground activity</strong>. So in our case, three tables.</p>
+
+<p>Here below the <strong>first table</strong>.</p>
+
+<table class="center mbtablestyle">
+  <tbody>
+    <tr>
+      <td><strong>Activity A</strong></td>
+      <td><strong>Amount</strong></td>
+      <td><strong>Unit</strong></td>
+      <td><strong>Type</strong></td>
+      <td><strong>Notes</strong></td>
+    </tr>
+    <tr>
+      <td>Product <em>a</em></td>
+      <td>1</td>
+      <td>kg</td>
+      <td>Output</td>
+      <td>Reference flow</td>
+    </tr>
+    <tr>
+      <td>Product <em>b</em></td>
+      <td>0.5</td>
+      <td>kg</td>
+      <td>Input</td>
+      <td>cf. Table 2</td>
+    </tr>
+    <tr>
+      <td>Product <em>c</em></td>
+      <td>0.6</td>
+      <td>kg</td>
+      <td>Input</td>
+      <td>cf. Table 3</td>
+    </tr>
+  </tbody>
+</table>
+<p><i><font size="2">Table 1. Inventory of activity A, data from Pizzol M (2017)</font></i></p>
+
+<p>It’s important to refer to the other inventory tables. It is also useful to <strong>add sources</strong> in case of secondary data. Here I put everything in a generic column called <em>Notes</em>.</p>
+
+<h1 id="background-system-database-activities-used">Background system (database activities used)</h1>
+
+<p>Most LCA studies rely on a LCA database. This means that some <strong>background activities</strong> are selected among the datasets available in the database and linked to the product system. Obviously nobody should (nor can) report the entire database or even single datasets from the database. What readers are interested in is <strong>which activities were chosen</strong> from the database. E.g. if you have modelled PET plastic production, which database did you use? Which dataset from this database? Was is a market mix? Or PET production from a specific supplier, e.g. China? The reader needs to know.</p>
+
+<p>To document this, one needs as a minimum to include in the tables the <strong>exact names or code</strong> of the database activities used in the modelling so that these can be identified univocally. And specify the database version used. <em><strong>You don’t know</strong> the names of the background activities or database version because your LCA software doesn’t allow to see that?</em> Uhmm…that’s like putting a paper bag over your head while driving on a motorway. Find out how to get this info with your software or change software.</p>
+
+<p>Here the <strong>second table</strong> (db = database).</p>
+
+<table class="center mbtablestyle">
+  <tbody>
+    <tr>
+      <td><strong>Activity B</strong></td>
+      <td><strong>Amount</strong></td>
+      <td><strong>Unit</strong></td>
+      <td><strong>Type</strong></td>
+      <td><strong>Notes</strong></td>
+    </tr>
+    <tr>
+      <td>Product <em>b</em></td>
+      <td>0.5</td>
+      <td>kg</td>
+      <td>Output</td>
+      <td>Reference flow</td>
+    </tr>
+    <tr>
+      <td>Product <em>d</em></td>
+      <td>2</td>
+      <td>kg</td>
+      <td>Input</td>
+      <td>Name/code of db activity D</td>
+    </tr>
+    <tr>
+      <td>Env. exchange <em>x</em></td>
+      <td>1</td>
+      <td>kg</td>
+      <td>Air</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+<p><i><font size="2">Table 2. Inventory of activity B, data from Pizzol M (2017), foreground activities from 'db_name', 'db_version'</font></i></p>
+
+<p>And the <strong>third table</strong>. We are done.</p>
+
+<table class="center mbtablestyle">
+  <tbody>
+    <tr>
+      <td><strong>Activity C</strong></td>
+      <td><strong>Amount</strong></td>
+      <td><strong>Unit</strong></td>
+      <td><strong>Type</strong></td>
+      <td><strong>Notes</strong></td>
+    </tr>
+    <tr>
+      <td>Product <em>c</em></td>
+      <td>0.6</td>
+      <td>kg</td>
+      <td>Output</td>
+      <td>Reference flow</td>
+    </tr>
+    <tr>
+      <td>Product <em>e</em></td>
+      <td>3</td>
+      <td>kWh</td>
+      <td>Input</td>
+      <td>Name/code of db activity E</td>
+    </tr>
+    <tr>
+      <td>Product <em>f</em></td>
+      <td>2</td>
+      <td>kg</td>
+      <td>Input</td>
+      <td>Name/code of db activity F</td>
+    </tr>
+  </tbody>
+</table>
+<p><i><font size="2">Table 3. Inventory of activity C, data from Pizzol M (2017), foreground activities from 'db_name', 'db_version'</font></i></p>
+
+<p>Just to make myself completely clear, this corresponds to the figure below where stuff in blue is database activities and environmental exchanges.</p>
+
+<center><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="559px" version="1.1" content="&lt;mxfile userAgent=&quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36&quot; version=&quot;7.6.8&quot; editor=&quot;www.draw.io&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;4aed7720-c67f-01e4-c34b-ff3ce57707e2&quot; name=&quot;Page1&quot;&gt;3Vhdb5swFP01PK4CjAk8pkm3vUyalEnrHh1wwCrgyJgm6a+fjc2HIR+oTdOtPCT2sX19fe7xkcACi3z/jaFt+oPGOLNcO95bYGm5LvSg+JXAQQHuzFVAwkisILsDVuQFK9Bp0IrEuNSYgjilGSdbE4xoUeCIGxhijO7MaRuaxQawRQkeAasIZWP0N4l5qtAAgA7/jkmS6p29mc57jaKnhNGq0NtZLtjUjxrOURNKzy9TFNNdDwIPFlgwSrlq5fsFziSzJmtfT4y2aTNc8CkLdFWeUVbpk88jTp4JPwh0rnPkh4aW+mRYrnUscL9LCcerLYrk6E7oQGApzzM9rENjxvH+ZHpOe2ghJUxzzJncWi/woK+WaBk5ni7AriuK03CZ9griawxpHSRt6I4M0dB8HOcGjLgZ8YGLeC7VJnpRhsqSRCYFeE/4Y6/9R7TtO9iSg+OBDEtasQgbtZnAVo8NeISMBmM4Q6K45o7HGNI7/KREbNwWAwaDYsyAGUIlr1f1RTcI5If+nd173PNhOWIJ5qOwdflaEiZV1DtSUR/lUrfFupR/ghT7KZGsMxpXkUxaTMkEkfdENBLZQA0itmvBkTSE6LkpBoZL8oLW9QRb9LfyRPUZ4b0FlzJyxWmpvFAuQBlJCtHO8EaGkjeJCIuaa5hTmXEp7h8pkl+ys/ziXefewXBQEzi+d0E4Vprjvf3a+ecsaczzrS3JtT/QkmbvaUmCAHZ41OKsO2rMnehXmhd1Xf9NCwPALJ7rv9LCPO9CoBOmJUqDDr1p2gNOJuwN1abN8WRezmA+DAb6Uhm81kGDkQCldi575vrzeyaA0KQejI0h9N/HM8Nznrn4eM8MgHlbGh3dwjObV4rbmuZsommG/59pAu9KpjkKdC3TdAfmbJrgxflOcF3TdJwjrulPcM3o87umB+yL1hDCq7im6HYv1qqM3bcL8PAX&lt;/diagram&gt;&lt;diagram id=&quot;a7cb868d-396a-2bf1-6e86-127da95b5a5c&quot; name=&quot;Page2&quot;&gt;7VrLcuMoFP0aLyclCb28TJykZzFTNVWZqvQsiUQkOrJwIRzb+foBA5IQcuy2cZx0dRYOHMEF3ce5F+wJmM3X3yhclH+THFWTwMvXE3A7CYJk6vFPAWwkAKaRBAqKcwl5HfCA35AEfY0ucY4ahUmIEVIxvDDBjNQ1ypiBQUrJyhz2TKrcABawQBbwkMHKRh9xzkqJpgB0+J8IF6VaOUzUvp9g9lJQsqzVcjWpkXwyh1qKGtqUMCerHgTuJmBGCWGyNV/PUCWUairsfsfTdscU1eyQCYGc8AqrpXrp64zhV8w2HL1We2QbrZHtSyEx15+Am1WJGXpYwEw8XXEX4FjJ5pV6rEQjytB65/b89qW5FyEyR4yKpdWEMIrlFOVBfqh0v+rs4Wtdlj1bxAqDygWKVnSnDN5Q+hjXDbB0Y+kD1fm1cDTeyyrYNDgzVYDWmH3vtf/jbe8qapWDcssDB6rhy5ElzVDPXLa2etqIRpShMYoqyI1rrjimIbXCPwTzvbTGiNKBMRJgipA7VbP6TjcQFE/3CGKQFohZgrYGa1/7IBuGIzaM4Vx4av3UiH9cDd5LIVRPSb7MxDb5kIqr7gbzRiEaUCN8uRa0nIG7OTPNT1GD3+DTdoDH+wvxRtt3jG4m0a2QvGSkkcQnJsAKFzVvV+hZiBKxgzkfXSuYEbHjhkccrot/Ref2j9BNpEXTwLRJZEdaOrV9yw9PD7RgekCk8Uh5UF1CWUkKUsPqrkNvOm7yTCv8QIxtVHYR+uZQJ+EvslWjGNcwSl7QjFSEbtcE4u/+/uhgTcYVfmIUBrEZPNOzxU7yXm6w3f+jc0PgXTA3pOfMDVwBdPNdOfK2I58F7yQOy/FG3VM6xyfIJQCYxgviI3NJGO4RtCMeuGngpjdMUfPODYdDb1M5a+e+/MH4KB34l9zBscFpU6bwnf2p7OnXT2UgikzVA5sYdAXiOpXpo8s4ac4uT5opMMNFM9lHkKbvX4I1kwNZU5vuK9EmCB3RpiXIFW0GA3o2aXDveD91S5u+feD1ruIDeDP79XkzBN5ebtA3OM550y42f54aWgKQlVLLAa6K+z4N+N64Lj+GB4Y0DsLoSB7wBoLAeXgA+OMbdhbXdkEORFQ/lu+HNRoPa4nl+HUItWNyXkh5vdR+954gjhmyPg1rPJOa6VN1oPq7Y+QkdvH17YH2AH1M6bNLYkeMJqGTLhhcXOV17JKcgV0uVlFo9tZmSQdsfiiTgMQ3s0c6MJwrJhmsozfsikmAXcG3V4Sofr0aIQe0zkpYcwuPEMz6y/LCuXggGVR4nn060yZ2zQPAxQHkvFXGxSoKYB6arQPfoTwQxANB3nkqCmud2Pim63QesE8KwQHnhNxVQXH7ZYnjowqK4c1fGFhEko5c8zghkvgo53h25Rz3v51jzz2Xri51laBTSt85gBPn4N3u+3pJNN2vIcDd/w==&lt;/diagram&gt;&lt;/mxfile&gt;" onclick="(function(svg){var src=window.event.target||window.event.srcElement;while (src!=null&amp;&amp;src.nodeName.toLowerCase()!='a'){src=src.parentNode;}if(src==null){if(svg.wnd!=null&amp;&amp;!svg.wnd.closed){svg.wnd.focus();}else{var r=function(evt){if(evt.data=='ready'&amp;&amp;evt.source==svg.wnd){svg.wnd.postMessage(decodeURIComponent(svg.getAttribute('content')),'*');window.removeEventListener('message',r);}};window.addEventListener('message',r);svg.wnd=window.open('https://www.draw.io/?client=1&amp;lightbox=1&amp;edit=_blank');}}})(this);" viewBox="0 0 559 315" style="cursor:pointer;max-width:100%;max-height:315px;"><defs /><g transform="translate(0.5,0.5)"><rect x="310" y="57" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000" pointer-events="none" /><g transform="translate(344.5,80.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="50" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 50px; white-space: nowrap; word-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Activity A</div></div></foreignObject><text x="25" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Activity A</text></switch></g><path d="M 430 87 L 543.63 87" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" /><path d="M 548.88 87 L 541.88 90.5 L 543.63 87 L 541.88 83.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none" /><g transform="translate(447.5,69.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="79" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;"> 1 kg product <i>a</i></div></div></foreignObject><text x="40" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">&amp;nbsp;1 kg product &lt;i&gt;a&lt;/i&gt;</text></switch></g><path d="M 120 57 L 120 13.37" fill="none" stroke="#3333ff" stroke-miterlimit="10" pointer-events="none" /><path d="M 120 8.12 L 123.5 15.12 L 120 13.37 L 116.5 15.12 Z" fill="#3333ff" stroke="#3333ff" stroke-miterlimit="10" pointer-events="none" /><rect x="60" y="57" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000" pointer-events="none" /><g transform="translate(94.5,80.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="50" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 50px; white-space: nowrap; word-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Activity B</div></div></foreignObject><text x="25" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Activity B</text></switch></g><path d="M 180 87 L 250 87 Q 260 87 265 79.5 L 267.5 75.75 Q 270 72 280 72 L 303.63 72" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" /><path d="M 308.88 72 L 301.88 75.5 L 303.63 72 L 301.88 68.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none" /><g transform="translate(210.5,49.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="86" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">0.5 kg product <i>b</i></div></div></foreignObject><text x="43" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">0.5 kg product &lt;i&gt;b&lt;/i&gt;</text></switch></g><rect x="137" y="142" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000" pointer-events="none" /><g transform="translate(171.5,165.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="50" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 52px; white-space: nowrap; word-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Activity C</div></div></foreignObject><text x="25" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Activity C</text></switch></g><path d="M 257 172 L 270 172 Q 280 172 280 162 L 280 112 Q 280 102 290 102 L 303.63 102" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" /><path d="M 308.88 102 L 301.88 105.5 L 303.63 102 L 301.88 98.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none" /><g transform="translate(285.5,144.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="85" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">0.6 kg product <i>c</i></div></div></foreignObject><text x="43" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">0.6 kg product &lt;i&gt;c&lt;/i&gt;</text></switch></g><path d="M 137 259 L 157 259 Q 167 259 167 249 L 167 208.37" fill="none" stroke="#3333ff" stroke-miterlimit="10" pointer-events="none" /><path d="M 167 203.12 L 170.5 210.12 L 167 208.37 L 163.5 210.12 Z" fill="#3333ff" stroke="#3333ff" stroke-miterlimit="10" pointer-events="none" /><g transform="translate(44.5,243.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="87" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 255); line-height: 1.2; vertical-align: top; white-space: nowrap; font-style: italic;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">3 kWh product <i>e</i><div><i>db Activity E</i></div></div></div></foreignObject><text x="44" y="19" fill="#3333FF" text-anchor="middle" font-size="12px" font-family="Helvetica" font-style="italic">[Not supported by viewer]</text></switch></g><path d="M 168 298 L 215 298 Q 225 298 225 288 L 225 208.37" fill="none" stroke="#3333ff" stroke-miterlimit="10" pointer-events="none" /><path d="M 225 203.12 L 228.5 210.12 L 225 208.37 L 221.5 210.12 Z" fill="#3333ff" stroke="#3333ff" stroke-miterlimit="10" pointer-events="none" /><g transform="translate(31.5,19.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="61" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 255); line-height: 1.2; vertical-align: top; white-space: nowrap;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">1 kg env.<div>exchange <i>x</i></div></div></div></foreignObject><text x="31" y="19" fill="#3333FF" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text></switch></g><path d="M 89 174 L 109 174 Q 119 174 119 164 L 119 123.37" fill="none" stroke="#3333ff" stroke-miterlimit="10" pointer-events="none" /><path d="M 119 118.12 L 122.5 125.12 L 119 123.37 L 115.5 125.12 Z" fill="#3333ff" stroke="#3333ff" stroke-miterlimit="10" pointer-events="none" /><g transform="translate(1.5,158.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="76" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 255); line-height: 1.2; vertical-align: top; white-space: nowrap; font-style: italic;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">2 kg product <i>d</i><div><i>db Activity D</i></div></div></div></foreignObject><text x="38" y="19" fill="#3333FF" text-anchor="middle" font-size="12px" font-family="Helvetica" font-style="italic">[Not supported by viewer]</text></switch></g><g transform="translate(82.5,287.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="73" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 255); line-height: 1.2; vertical-align: top; white-space: nowrap; font-style: italic;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">2 kg product <i>f</i><div><i>db Activity F</i></div></div></div></foreignObject><text x="37" y="19" fill="#3333FF" text-anchor="middle" font-size="12px" font-family="Helvetica" font-style="italic">[Not supported by viewer]</text></switch></g></g></svg></center>
+
+<center><i><font size="2">Foreground product system plus background activities and environmental exchanges</font></i></center>
+
+<h1 id="special-cases">Special cases?</h1>
+
+<p>Substitution, partitioning, scenarios, etc. Are these special cases? No. The suggestions above are probably sufficient to document almost all situations.
+I never use it, but when using the partitioning method I strongly recommend providing both the original and allocated dataset and the used <strong>allocation factors</strong> alongside the tables.
+When using the substitution method, it helps to signal what is the <strong>substituted co-product</strong>, e.g. with a minus sign or a written note.
+For scenarios, I would add the scenario name to the activity name e.g. <em>Activity A scenario I</em>.</p>
+
+<h1 id="my-foreground-system-is-too-big-for-tables">My foreground system is too big for tables</h1>
+
+<p>Maybe you have a lot of scenarios, or activities with a substantial amount of exchanges, or somehow you feel this is unhandy, or you have a page limit for your report, or you simply have done a huge LCA. In these cases I would organise the data in a separate file to add as <strong>supplementary material</strong>.</p>
+
+<p>One can e.g. use a compact <strong>matrix</strong> to describe the system, as Heijungs and Suh (2002)<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> would probably do (minus signs indicate input, plus sign indicate output). Notice the nice 3 x 3 foreground technology matrix.</p>
+
+<table class="center mbtablestyle">
+  <tbody>
+    <tr>
+      <td> </td>
+      <td><strong>Activity A</strong></td>
+      <td><strong>Activity B</strong></td>
+      <td><strong>Activity C</strong></td>
+    </tr>
+    <tr>
+      <td><strong>product a (kg)</strong></td>
+      <td>1</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>product b (kg)</strong></td>
+      <td>-0.5</td>
+      <td>0.5</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>product c (kg)</strong></td>
+      <td>-0.6</td>
+      <td> </td>
+      <td>0.6</td>
+    </tr>
+    <tr>
+      <td>Name/code of db activity D (kg)</td>
+      <td> </td>
+      <td>-2</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Name/code of db activity E (kWh)</td>
+      <td> </td>
+      <td> </td>
+      <td>-3</td>
+    </tr>
+    <tr>
+      <td>Name/code of db activity F (kg)</td>
+      <td> </td>
+      <td> </td>
+      <td>-2</td>
+    </tr>
+    <tr>
+      <td>Env exchange to Air x (kg)</td>
+      <td> </td>
+      <td>1</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Or make a sort of long <strong>dataframe</strong> or list. It’s somehow similar to this <a href="http://nbviewer.jupyter.org/urls/bitbucket.org/cmutel/brightway2/raw/default/notebooks/IO%20-%20importing%20an%20Excel%20file.ipynb">Brightway2 example</a>.</p>
+
+<table class="center mbtablestyle">
+  <tbody>
+    <tr>
+      <td><strong>Activity</strong></td>
+      <td><strong>Exchange</strong></td>
+      <td><strong>Amount</strong></td>
+      <td><strong>Unit</strong></td>
+      <td><strong>Type</strong></td>
+      <td><strong>Notes</strong></td>
+    </tr>
+    <tr>
+      <td>A</td>
+      <td>a</td>
+      <td>1</td>
+      <td>kg</td>
+      <td>Output</td>
+      <td>Reference flow</td>
+    </tr>
+    <tr>
+      <td>A</td>
+      <td>b</td>
+      <td>0.5</td>
+      <td>kg</td>
+      <td>Input</td>
+      <td>Foreground</td>
+    </tr>
+    <tr>
+      <td>A</td>
+      <td>c</td>
+      <td>0.6</td>
+      <td>kg</td>
+      <td>Input</td>
+      <td>Foreground</td>
+    </tr>
+    <tr>
+      <td>B</td>
+      <td>b</td>
+      <td>0.5</td>
+      <td>kg</td>
+      <td>Output</td>
+      <td>Reference flow</td>
+    </tr>
+    <tr>
+      <td>B</td>
+      <td>d</td>
+      <td>2</td>
+      <td>kg</td>
+      <td>Input</td>
+      <td>Name/code of db activity</td>
+    </tr>
+    <tr>
+      <td>B</td>
+      <td>x</td>
+      <td>1</td>
+      <td>kg</td>
+      <td>Air</td>
+      <td>Environmental</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>c</td>
+      <td>0.6</td>
+      <td>kg</td>
+      <td>Output</td>
+      <td>Reference flow</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>e</td>
+      <td>3</td>
+      <td>kWh</td>
+      <td>Input</td>
+      <td>Name/code of db activity</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>f</td>
+      <td>2</td>
+      <td>kg</td>
+      <td>Input</td>
+      <td>Name/code of db activity</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>You find
+<a href="/assets/Example_product_system.xlsx">here</a> an example of Excel file with the same foreground system above in these two different styles.</p>
+
+<h1 id="my-foreground-system-is-too-big-for-excel">My foreground system is too big for Excel</h1>
+
+<p>Then you probably don’t need to read this post and you know better than me how to document your analysis.</p>
+
+<h1 id="shareable-material">Shareable material</h1>
+
+<p>Do you <strong>care about others</strong>? Make your foreground data available to them in a way that reduces their effort in reproducing your results. For example, here the <em>Pickled Herring</em> product system that we used as teaching material at Aalborg University for many years. We document the system both using the SimaPro matrix <a href="/assets/LCI_PH_2017.xlsx">.xlsx</a> version and the corresponding SimaPro <a href="/assets/LCI_PH_2017.csv">.csv</a> version. The former is useful for understanding the system at a glance, the latter is useful for reproducing it as the students can import the data directly into their computer. Similar export/import options should be possible for other LCA software I believe (I haven’t checked this but really I hope so).</p>
+
+<h1 id="more-advanced-stuff">More advanced stuff</h1>
+
+<p><em>What about <strong>geography</strong>, <strong>uncertainty</strong>, and all other info?</em> I don’t see why this can’t be reported in table format too…<em>There are many different LCA software around and different data formats, which one to use?</em> For software-ready data sharing, I would use the format my software allows. In the future hopefully there will be more options to convert between data formats of different software. <em>What about ecoSpold formats?</em> ecoSpold is for databases and LCA software as far as I know, not for scientific reporting. So not relevant here. <em>Is this ISO compliant?</em> No idea. Is this important? What I care about is that the information reported is <strong>understandable</strong> (i.e. <em>transparent, complete, and clear</em>). <em>Are there other ways of doing this, it looks so manual?</em> Most of reporting work is manual work. However, certainly there are other ways of doing good documentation and structuring tables etc. These are examples that work for me and I think would suffice for many LCAs. Ideally it would be good to develop (open) tools and solutions to automatise some of this reporting to avoid transcription mistakes. Please get in touch if you have any suggestion or material to share in this sense. <em>Is there research work going on in this area?</em> The most interesting work on this topic (that I am aware of, at least) is the research effort within the LCA Interest Group of SETAC North America and its guidelines for inventory model description and revision. Hopefully the group will publish something in the future that can provide more robust and extensive guidance than this post on the topic of foreground inventory documentation. <em>EDIT FEBRUARY 2018: The SETAC NA group just published a <a href="https://doi.org/10.1007/s11367-018-1446-8">position paper</a> on this topic.</em></p>
+
+<p> </p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>I learned most of these tricks from <a href="http://personprofil.aau.dk/109449?lang=en">Jannick</a> so big thanks to him! <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>Heijungs, R., &amp; Suh, S. (2002). The basic model for inventory analysis. In A. Tukker (Ed.), The computational structure of Life Cycle Assessment (pp. 11–28). London: Kluver Academic Publisher. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

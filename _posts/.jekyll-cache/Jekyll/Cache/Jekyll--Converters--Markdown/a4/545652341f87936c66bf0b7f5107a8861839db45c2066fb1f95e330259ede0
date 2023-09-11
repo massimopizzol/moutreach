@@ -1,0 +1,30 @@
+I"B<p><img src="/assets/Forest.JPG" alt="Forest" /></p>
+<center><i><font size="2"> Forest in northern Italy (Photo: Antonio Pizzol)</font></i></center>
+
+<p>I have written this article<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> together with <a href="http://www.geomar.de/en/mitarbeiter/fb3/eoe/eoe-n/mscotti/">Marco</a> and I am really proud of it.</p>
+
+<h3 id="why-we-did-it">Why we did it</h3>
+<p>We wanted to answer a simple question: <strong>where does the wood of tomorrow come from?</strong> This is an important question because many are looking at wood as future energy source or construction material. Energy from waste wood residues may contribute to reducing our dependency from fossil fuels, as woody feedstock can be used for heating and for producing liquid fuels too. In fact, this study was part of the larger <a href="http://www.et.aau.dk/research-programmes/biomass/activities/c3bo/">C3BO project</a> on producing fuel from wood residues. Wood is also praised as a sustainable construction material and future substitute of cement. <em>So who is going to produce all this wood and where?</em> Once we figure this out, we can investigate in detail what impact wood production will have on the environment in terms of land occupation and emissions. This will allow making better informed decisions and evaluate which energy source and construction material is more <strong>eco-efficient</strong>.</p>
+
+<h3 id="how-we-did-it">How we did it</h3>
+<p>To answer this question we had to study the market of wood products. We live in the times of globalization, so products are traded globally. However, to what extent is this the case for wood products? Chips and particles are light and cheap, but sawn wood is heavy and costly. So there must be differences in the way they are traded. The market may be <strong>not that global</strong> after all. There may be many local markets instead. We looked at trade data from <a href="http://faostat.fao.org/">FAOSTAT</a>. These show the amount of wood products exchanged by all countries in the world via exports and imports, in the last 15 years. <strong>We realized that this was a <em>network</em></strong>! A trade network to be precise. At that point we knew that we could use some powerful mathematical tools (<em>network analysis</em>, <em>clustering algorithms</em>)<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> to crunch the data and see whether the trade network was fragmented into smaller networks, called <em>communities</em>, and whether these could represent <strong>geographical markets</strong>.</p>
+
+<h3 id="what-we-found">What we found</h3>
+<p>We found that the wood trade network could be actually split into smaller geographical markets, which correspond to our communities. Most interestingly the trade network of each wood product was fragmented in a different way. For some products like wood pulp we could observe a huge, global market, with several countries trading between each other. For some other products like sawn wood we could see many different markets with countries trading with their neighbors only. The nice thing is that in the fragmented networks <strong>the identified communities matched quite well existing geographical areas</strong>, e.g. Northern Europe and Asia. This confirmed our expectation that the markets relate to geographical proximity, trade areas (e.g. the EU), and the combination of both.</p>
+
+<h3 id="what-next">What next?</h3>
+<p>Well this was not sufficient to fully answer our initial question. We had to do some other things too, like checking if these geographical markets <strong>changed over time</strong> (they were pretty stable in the last 15 years), and finding who are the most successful countries to produce wood products in each market. Why this last part? Because we assumed that <strong>today’s most successful producers will be tomorrow’s suppliers of wood</strong>. We used a simple approach here. We calculated whether the production of wood products in each country had been increasing or decreasing over the last 15  years. Unfortunately, the results were not robust and changed too much depending on the time-span under analysis, indicating that a more advanced model would be needed. <strong>Ouch!</strong> We’ll take it from here in our next study.</p>
+
+<p> </p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p><em>Pizzol M, Scotti M, Identifying marginal supplying countries of wood products via trade network analysis, The International Journal of Life Cycle Assessment (2016)</em> <a href="http://link.springer.com/article/10.1007/s11367-016-1222-6">doi:10.1007/s11367-016-1222-6</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p><em>The R code used for doing this analysis is available at my github <a href="https://github.com/massimopizzol/Wood_trade_network_analysis">profile</a></em> <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

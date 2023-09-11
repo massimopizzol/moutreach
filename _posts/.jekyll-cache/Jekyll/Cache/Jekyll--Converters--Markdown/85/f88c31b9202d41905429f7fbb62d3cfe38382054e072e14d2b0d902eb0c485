@@ -1,0 +1,44 @@
+I"�<p><img src="/assets/image800x450size.JPG" alt="Figurehere" /></p>
+<center><i><font size="2">Figure caption</font></i></center>
+
+<p> </p>
+
+<h1 id="intro">Intro</h1>
+
+<p>Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here.</p>
+
+<p>Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here.</p>
+
+<p>Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here, Text here.
+Text here</p>
+
+<p><em>Text in italics here</em>
+<strong>Text in bold here</strong> 
+<em>Text in italics here</em> 
+<strong>Text in bold here</strong></p>
+
+<p><sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> footnote</p>
+
+<h1 id="section-heading">Section heading</h1>
+
+<blockquote>
+  <p><em>quote</em></p>
+
+</blockquote>
+
+<h2 id="subsection-heading">Subsection heading</h2>
+
+<p><a href="https://en.wikipedia.org/wiki/RTFM">link</a></p>
+
+<h3 id="subsubsection-heading">SubSubsection heading</h3>
+
+<p>  Space</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>footnote <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

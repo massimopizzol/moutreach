@@ -1,0 +1,68 @@
+I"a<p><img src="/assets/OMGBW2Worked.png" alt="OMG" /></p>
+<center><i><font size="2">Some cryptic python code</font></i></center>
+
+<h1 id="hacking">Hacking</h1>
+
+<p>I have been using the <a href="https://brightwaylca.org/">Brightway LCA framework</a> for a while. It is a great tool to do LCA at research level and beyond the limitations of traditional commercial LCA software.</p>
+
+<p>Our Department kindly provides a SimaPro LCA software faculty license for students and staff as well as a developer one for staff. This has been working fine for both research and teaching for long time. Still does. However, SimaPro is good for consultants but doesn’t allow much flexibility in doing more advanced analysis, e.g. uncertainty analysis via Monte Carlo simulation.</p>
+
+<p>An interesting alternative is <em>Brightway2</em>. This is a LCA software written in the programming language <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">python</a>. It’s open source, extremely flexible, allows to do very advanced simulations<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>. Can be used in endless combinations with all the python data science features and packages. <em>But</em>, unless you already are a python expert, it has a <strong>steep learning curve</strong>.</p>
+
+<p>I really enjoy using <em>Brightway2</em>, especially for doing uncertainty analysis and statistical testing of data. Feels like doing real science. But I often have a hard time figuring out how to make it work. This is part of the trade off with experimental software: it’s advanced but unfriendly. I am self-learned in python (studied <a href="https://learnpythonthehardway.org/python3/">this book</a> during the evenings when I took paternity leave some years ago…). And not a programmer so this largely explains why I am having a hard time.</p>
+
+<p>So I got this idea: if more people at our group use it, then we’ll perhaps create a small <strong>community</strong>. This could make it easier to share code, experiences, fix problems, etc. Also, I was not using <em>Brightway2</em> regularly in the beginning and I kept forgetting how all the functions and syntax worked. So I made some scripts to <strong>teach myself</strong> things after a period off.  I said OK, let’s revise the material I already have, make a nice compilation of scripts and related explanations, and share them with some colleagues and students here and make everybody happy. <em>How difficult can it be?</em></p>
+
+<p>It turned out to be not too difficult but a bit <strong>time consuming</strong>. Certainly it was worth the effort.</p>
+
+<h1 id="experimenting">Experimenting</h1>
+
+<p>I organised an <em>unofficial</em> course in <em>Brightway2</em> for staff and students here at my Department. No credits, no guarantee of success - this had not been tested. 
+12 brave people volunteered for that. Different background, all of them had some LCA knowledge although with different degree of expertise, almost none of them had previous python knowledge, and only some of them had taken statistics classes before. <strong>Mixed audience</strong>.</p>
+
+<p>The main <strong>learning objective</strong> was to being able to use <em>Brightway2</em> at a level comparable to other commercial LCA software. This required gaining both knowledge and skills in python and <em>Brightway2</em> data structures and syntax, plus elements of LCA and statistics.</p>
+
+<p>My biggest <strong>concern</strong> was that I had never been teaching python before, and I had only been teaching little statistics before. I had to cover all these things quite in detail because of the mixed audience. Also, I am certainly not a <em>Brightway2</em> expert. I estimate that I can use perhaps 15-20% of its full potential. Optimistically.</p>
+
+<p><strong>I decided not to overthinking this</strong>. Perhaps I was <em>expert enough</em> in all this stuff to teach it. To my intended audience at least. I.e. to complete beginners. And in relation to the objective set for the course. Worst case, if I had said something wrong in class, we would find together an answer. Or google one. Sharing experiences with others was more important than fearing to fail.</p>
+
+<p><strong>I could only gain from this.</strong></p>
+
+<h1 id="evaluating">Evaluating</h1>
+
+<p>And so we did it. Four lectures, eight hours. A lot of preparation, some mistakes on the way, plenty of areas for improvement, but also great fun, huge learning experience. I believe I learned at least as much as the students did from this course.</p>
+
+<p>After a little evaluation survey and personal reflection, here the main take home messages:</p>
+
+<ul>
+  <li>
+    <p><strong>More time needed</strong>. No surprise, the course was really condensed. In particular more time to be dedicated to practical exercises. Makes sense, this is a tool, so one needs to get hands dirty and try try try…(<em>now imagine the sound of somebody frantically typing on a keyboard: tjk tjk tjk k-tjk tjk k-tjk tjk</em>)</p>
+  </li>
+  <li>
+    <p><strong>Python and stats: not scary</strong> (at this level at least). It is actually surprisingly straightforward to teach base elements of programming (functions, objects, loops) and statistics (distributions, significance tests) because 1) there is plenty of reading material available for free online - compared to teaching LCA this is the world of plenty 2) they are applied easily and immediately and this makes them very concrete. Definitely worth trying.</p>
+  </li>
+  <li>
+    <p><strong>Fix it on the way</strong>. The students had interesting questions about issues that I didn’t face or didn’t think about including (<em>How to fix this installation?</em> <em>How to model co-products?</em> <em>How to find an exchange without indexing?</em> etc.). We found solutions instantly (thanks also to our own python guru <a href="http://personprofil.aau.dk/126896?lang=en">Romain Sacchi</a>) or after the lecture and followed up on the next lecture.</p>
+  </li>
+</ul>
+
+<p>I hope now some of the students will now start using <em>Brightway2</em> for the next project or analysis. In any case, I have now eight hours worth of fairly organised and <strong>tested</strong> teaching material on this subject, ready for reuse.</p>
+
+<p>What this experience confirmed is that teaching a subject is a very <strong>effective</strong> method to better master the subject, because one gets to better know where his knowledge is solid and where it can be strengthened.  Teaching is learning.</p>
+
+<p>As somebody wise said: <em>“Between the road uphill and the road downhill, choose the road uphill and you’ll always be better off”</em>.</p>
+
+<p>–</p>
+
+<p><em>EDIT AUGUST 2018: The material for the course described in this post is freely availabe at <a href="https://github.com/massimopizzol/B4B">this repository</a> on my github page</em></p>
+
+<p>–</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Mutel, C. Brightway: An open source framework for Life Cycle Assessment. J. Open Source Softw. 2017, 2 (12), 1–2. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

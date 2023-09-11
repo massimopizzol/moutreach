@@ -1,0 +1,186 @@
+I"@#<p class="center"><img src="/assets/desk.jpg" alt="Desk_order" /></p>
+<center><i><font size="2"> “Be regular and orderly in your life like a bourgeois, so that you may be violent and original in your work”
+― Gustave Flaubert (Photo: Massimo Pizzol)</font></i></center>
+
+<p> </p>
+
+<p>Reporting and communication are important elements in making understandable, transparent, and reproducible Life Cycle Assessment (LCA) studies. Yet very little has been written on how to report LCA studies <em>the right way</em>.</p>
+
+<p>Sure enough there is a section called <em>Reporting</em> in the <a href="http://www.iso.org/iso/catalogue_detail?csnumber=38498">ISO14044 standards</a>. And this section is a long bullet-point list of requirements specifying <strong>what to include</strong> in a LCA report. I have never seen a report that covers all the points, but let’s keep this for another post. Another famous documentation on the topic are probably the <em>“ten commandments” of Heijungs<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></em> which is a nice reading I recommend. In his paper Heijungs teaches <strong>how to speak</strong> LCA language. That paper deals with the correct use of LCA terminology in scientific articles.</p>
+
+<p>But there is another problem that is not covered by these sources and that I often encounter when reviewing (and writing!) LCA reports: <strong>how to structure</strong> a LCA report. Poor structuring of LCA reports complicates the understanding of the study and ultimately impedes the comprehension of its message.</p>
+
+<p>So in this post I describe two typical problems in structuring LCA reports and propose practical solutions to overcome them. In the context of this post a <em>LCA report</em> is defined as any document intended to thoroughly communicate the making and the outcome of a LCA study. Thus, here both a student project report and a scientific article are examples of LCA reports. As usual in this blog the proposed ideas and recommendations are based on my experience as LCA researcher and teacher, <em>so these are things that I have tried and work well <strong>for me</strong></em>, but it’s not dogma.</p>
+
+<h2 id="1-the-four-iso-phases-are-not-a-report-structure">1) The four ISO phases are not a report structure</h2>
+
+<p>They are a <strong>working process</strong>. In fact LCA is usually called an <em>iterative procedure</em>. So, using the four phases as the outline of a report is a poor choice. They <em>can</em> be used in this way, obviously. But I don’t really see the advantages. Building a chronological storytelling of the work done, in the sense that one first reads about goal and scope, then inventory, etc., is inaccurate because the working process has certainly not been linear. Moreover, there are better structure templates.</p>
+
+<p>Writers of scientific papers would probably (have to) follow the <em>Introduction - Methods - Results - And - Discussion</em> structure, so-called <a href="https://en.wikipedia.org/wiki/IMRAD">IMRAD</a>. The IMRAD is well established and good guidance can be found on how to follow it correctly, so it’s an easier choice for those who prefer predefined structures. In the table below I show an example of fitting ISO phases and IMRAD structure. This is one possible way  - there may be others too - and the list is non-exhaustive. In the table and in the rest of this post <em>LCI = Life Cycle Inventory</em> and <em>LCIA = Life Cycle Impact Assessment</em>.</p>
+
+<table class="center mbtablestyle">
+  <thead>
+    <tr>
+      <th>IMRAD</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Introduction</strong></td>
+    </tr>
+    <tr>
+      <td>…</td>
+    </tr>
+    <tr>
+      <td>Goal of the LCA</td>
+    </tr>
+    <tr>
+      <td>Decision to be supported</td>
+    </tr>
+    <tr>
+      <td><strong>Methods</strong></td>
+    </tr>
+    <tr>
+      <td>Functional unit</td>
+    </tr>
+    <tr>
+      <td>System description and alternatives</td>
+    </tr>
+    <tr>
+      <td>Modelling approach (e.g. consequential)</td>
+    </tr>
+    <tr>
+      <td>Chosen LCIA method</td>
+    </tr>
+    <tr>
+      <td>Key LCI data</td>
+    </tr>
+    <tr>
+      <td>Methods for sensitivity/uncertainty analysis</td>
+    </tr>
+    <tr>
+      <td>…</td>
+    </tr>
+    <tr>
+      <td><strong>Results</strong></td>
+    </tr>
+    <tr>
+      <td>Key LCIA results</td>
+    </tr>
+    <tr>
+      <td>Results of sensitivity/uncertainty analysis</td>
+    </tr>
+    <tr>
+      <td><strong>Discussion</strong></td>
+    </tr>
+    <tr>
+      <td>Limitations of the study</td>
+    </tr>
+    <tr>
+      <td>…</td>
+    </tr>
+  </tbody>
+</table>
+
+<p> </p>
+
+<p>Fortunately there are also those who can choose report structure freely. So why should one stick to the four phases? One may instead choose an original, imaginative, and unique structure that fits the report’s purposes. Plus, one may have a valid reason to present only specific things, e.g. LCIA results only. And this leads me to the second point.</p>
+
+<h2 id="2-just-put-stuff-in-the-appendix">2) Just put stuff in the appendix</h2>
+
+<p>I read some days ago a twitter post saying something like: <em>“Check out the LCA of product X! Oh wait, it’s 300 pages…“</em> I am puzzled about that too…who is actually gong to read all these pages?</p>
+
+<p>In LCA, it feels like <strong>no space will ever be large enough</strong> to report all the study materials. This problem is bogus. It is not only inevitable but also necessary to make a selection of what to present. Because in LCA like in any other discipline some things are way more relevant than others. Most importantly, let’s not confuse communication and documentation. A critical selection of the material is always possible and the easiest thing is to <strong>organize stuff in a main document plus appendix</strong>. In the case of a scientific journal article this would be the <em>manuscript</em> and <em>supplementary material</em>.</p>
+
+<p>The former one is usually concise and should tell the main story for those who are simply interested in understanding what is going on and what are key take-home messages. The latter is used to document extensively the details behind the study and to provide additional information for those who want to understand what is going on <em>under the hood</em> and e.g. use some of the data or results for their own analysis. A quick google search will tell that the word <em>appendix</em> derives from the Latin word <em>appendere</em>, i.e. <em>‘hang upon’</em>. So it’s the place where to hang all the stuff one doesn’t really need right now but may be useful later on…</p>
+
+<p>Here below a summary of differences between main document and appendix.</p>
+
+<table class="center mbtablestyle">
+  <thead>
+    <tr>
+      <th>Main document</th>
+      <th>Appendix</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Limited space or word limit</td>
+      <td>Plenty of space</td>
+    </tr>
+    <tr>
+      <td>Rigid structure (e.g. IMRAD)</td>
+      <td>Flexible structure</td>
+    </tr>
+    <tr>
+      <td>More text than tables/figures</td>
+      <td>More tables/figures than text</td>
+    </tr>
+    <tr>
+      <td>Focus on communication</td>
+      <td>Focus on documentation</td>
+    </tr>
+  </tbody>
+</table>
+
+<p> </p>
+
+<p>And here some suggestions on what should be included in the main document and in appendix, for the case of LCA reports.</p>
+
+<table class="center mbtablestyle">
+  <thead>
+    <tr>
+      <th>Main document</th>
+      <th>Appendix</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Flow chart of product system</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Selected foreground LCI data</td>
+      <td>All remaining foreground LCI data</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Names of background system processes</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Equations and sources for LCI</td>
+    </tr>
+    <tr>
+      <td>Allocated LCIs</td>
+      <td>Unallocated LCIs + Allocation procedure details</td>
+    </tr>
+    <tr>
+      <td>Selected LCIA impact categories</td>
+      <td>All LCIA impact categories</td>
+    </tr>
+    <tr>
+      <td>Summary of LCIA relative values (contribution analysis)</td>
+      <td>List of LCIA absolute values</td>
+    </tr>
+  </tbody>
+</table>
+
+<p> </p>
+
+<h3 id="i-am-not-done-yet">I am not done yet…</h3>
+
+<p>…but I will stop here anyway, because this post is getting too long!</p>
+
+<p>I will add some more in a future post and also draw conclusions on this topic.</p>
+
+<p> </p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Heijungs, R., 2013. <em>Ten easy lessons for good communication of LCA.</em> Int. J. Life Cycle Assess. 1–4. <a href="http://link.springer.com/article/10.1007/s11367-013-0662-5">doi:10.1007/s11367-013-0662-5</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

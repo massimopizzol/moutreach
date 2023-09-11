@@ -1,0 +1,48 @@
+I"Z<p><img src="/assets/CNstuds.png" alt="Chinese students running" /></p>
+<center><i><font size="2"> Students running in Beijing, some with mask (Photo: Hao Yin)</font></i></center>
+
+<p>This post is about a research article<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> I co-authored with Hao Yin, who is a PhD student enrolled at a joint program between Aalborg University and the School of Environment at Beijing Normal University.</p>
+
+<p>Hao is a Beijingese and experiences air pollution in first person. Her research is about an environmental issue she has to deal with everyday.
+In particular this paper addresses exposure to <a href="https://en.wikipedia.org/wiki/Particulates">PM2.5</a>. PM2.5 is particulate matter with a diameter lower than 2.5 <a href="https://en.wikipedia.org/wiki/Micrometre">micrometres</a>.</p>
+
+<p>The study is about Beijing, which has been suffering of serious air pollution problems in the last years, check e.g. their air quality <a href="http://aqicn.org/city/beijing/">here</a>.</p>
+
+<h1 id="whats-new-about-this-study">What’s new about this study?</h1>
+
+<p>When Hao arrived to Denmark in summer 2015 she was struggling with how to calculate the <strong>externalities</strong> related to PM2.5 pollution and its health impacts. These are the costs that pollution puts on society and that are often not accounted by economic indicators. One of the difficult tasks was keeping track of all the studies made in this area.</p>
+
+<p>The problem was that PM2.5 exposure is correlated with many and various adverse health impacts and typically each exposure assessment study focuses on one or more of these, but not all of them. Moreover, not all studies cover the entire <strong>impact pathway</strong> from emission to exposure, impact, and ultimately cost. Also, these estimates are highly uncertain and results can change quite a lot across studies.</p>
+
+<p><em>So what if we wanted to know the total cost of PM2.5 pollution in Beijing?</em></p>
+
+<p>To figure this out, it is not sufficient to simply sum up estimates from different studies. The first reason is because of <strong>double counting</strong> of impacts. One study may cover cardiovascular and respiratory mortality, while another lung cancer and respiratory mortality. So merging the two would result in a double counting of respiratory mortality cases.</p>
+
+<p>The second reason is that each study makes <strong>different modelling assumptions</strong>. For external costs estimation one study may use the value of statistical life (VSL, an estimate of the willingness to pay to avoid a decrease in life expectancy) while another may use the human capital approach (an estimate of the output produced by an individual over an expected lifetime). So they are not directly comparable.</p>
+
+<p>Hao reviewed all the various PM2.5 related health impacts and classified them to avoid double counting. Then took exposure-response coefficients from each available epidemiological study (or at least as many she could find…), and applied different approaches to external costs estimation to give an upper and lower bound of the external costs due to PM2.5.</p>
+
+<h1 id="what-about-uncertainties">What about uncertainties?</h1>
+
+<p>To account for uncertainties, Hao applied the uncertainty analysis technique called <strong>Monte Carlo simulation</strong>. The name is great and the tool is great too. In short, this means that the calculation of external costs is performed several thousand times, and each time the input values in the model change a bit, <em>fishing</em> from the probability distribution of each parameter.</p>
+
+<p>This allows to get a list of thousands of results (the <em>distribution</em>) for each model output. This information is much richer than the information provided by a single point value, because tells how the result varies and in which range. In particular, in this study the uncertainty of parameters such as PM2.5 concentration, exposure-response coefficients, and economic cost per case was taken into account.</p>
+
+<p>The simulation was made using the software R (Hao had never used R before but learned it super fast!). <a href="https://www.r-bloggers.com/probability-and-monte-carlo-methods/">Here</a> an example of R code for Monte Carlo simulation, although not too popular-style, there are R packages for Monte Carlo too…</p>
+
+<h1 id="pm25-pollution-costs-are-substantial">PM2.5 pollution costs are substantial!</h1>
+
+<p>This paper provides a <em>reasonable</em> estimate of the total health impacts and external cost due to PM2.5 pollution, as well as a quantification of their uncertainty. It’s reasonable because takes into account results from several previous studies and aggregates them using a consistent approach. I would define the methodological approach used as a mixture between a <strong>meta-analysis</strong>, a <strong>review</strong>, and an <strong>uncertainty analysis</strong>.</p>
+
+<p>The results showed that the external costs were between 0.3% and 0.9% of regional GDP depending on the modelling assumptions, which is <em>huge</em>! But still in accordance with previous studies. Also, we observed that premature deaths due to PM2.5 pollution represent the largest share of costs. Hopefully, studies like this can be used to inform policymakers and the public about the seriousness of PM2.5 pollution and to <strong>internalize</strong> its costs.</p>
+
+<p> </p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p><em>Yin, H., et al., External costs of PM2.5 pollution in Beijing, China: Uncertainty analysis of multiple health impacts and costs, Environmental Pollution (2017),</em> <a href="http://www.sciencedirect.com/science/article/pii/S0269749116308600">http://dx.doi.org/10.1016/j.envpol.2017.02.029</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

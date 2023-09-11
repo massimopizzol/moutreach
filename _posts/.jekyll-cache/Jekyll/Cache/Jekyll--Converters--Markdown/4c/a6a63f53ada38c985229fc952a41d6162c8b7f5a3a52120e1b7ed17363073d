@@ -1,0 +1,68 @@
+I"�<p class="center"><img src="/assets/desk.jpg" alt="Desk_order" /></p>
+<center><i><font size="2"> “One day I will find the right words, and they will be simple.”
+― Jack Kerouac, The Dharma Bums (Photo: Massimo Pizzol) </font></i></center>
+
+<p> </p>
+
+<p>This is the continuation of a <a href="/2017/02/01/reporting-LCA-results-part-I.html">previous post</a> on problems in structuring LCA reports. Here I add some more on the topic and draw some conclusions. As in the previous post, for <em>LCA report</em> I intend any document where a LCA study is thoroughly presented i.e. anything from student project report to scientific article.</p>
+
+<h2 id="3-consistency-this-stranger">3) Consistency, this stranger</h2>
+
+<p><em>Give me consistency or give me death</em>…said the wise man<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>. Consistency between flow charts, inventory tables, and impact assessment figures.</p>
+
+<p>Let’s assume that in a LCA report the foreground system of product X is described with a flow chart that includes three processes named respectively: <em>production of X</em>, <em>use of X</em>, <em>disposal of X</em>.</p>
+
+<p>A couple of pages below in the same report there are three inventory tables. One is about the process <em>X production</em>, the other one is called <em>use stage</em>, and the last one is called <em>waste management</em>. Hmmm…are they the same processes as above? Maybe, who knows. Let’s continue and see.</p>
+
+<p>Further below in the report the results section proposes a nice and colorful <a href="https://en.wikipedia.org/wiki/Bar_chart">stacked barchart</a> that reports the contribution analysis for a certain impact category. The chart shows one large bar named <em>use of X</em> and many thin bars with strange names such as: <code class="language-plaintext highlighter-rouge">Barley grain, feed {GLO}| market for | Conseq, U</code> and <code class="language-plaintext highlighter-rouge">Biowaste {RoW}| market for | Conseq, U</code>… Yes, these are <a href="http://www.ecoinvent.org/database/database.html">ecoinvent database</a> names, so it’s background processes…</p>
+
+<p>At this point we (the readers) are probably getting a headache while scrolling up and down the document trying to understand what corresponds to what. The solution to this mess is as simple as this: <strong>same names and same number of processes presented in the flow chart, inventory tables, and impact assessment figures.</strong></p>
+
+<p><em>It’s consistency, baby.</em></p>
+
+<h2 id="4-when-lcia-results-read-like-a-cure-for-insomnia">4) When LCIA results read like a cure for insomnia…</h2>
+
+<p>…then something is probably wrong. Recently I discussed with the co-authors of a paper how to report the LCIA results in a draft manuscript. The main author was initially concerned about the text written, because it read like this (kind of):</p>
+
+<blockquote>
+  <p>…in the BAU scenario, the production stage contributes 10-20% to three impact categories (GWP, POCP, AP, HT carc) and 15-30% to two impact categories (EP and IR). The use of product Y in scenario 2 results in lower impacts (10-15 %) for four impact categories (HT non carc, HT carc, EcoTox marine, EcoTox terrestrial), and 10-15% lower impacts for two impact categories (GWP and FF) in comparison with the BAU scenario results…</p>
+</blockquote>
+
+<p>So, a lot of numbers, lists of impact categories, and quite detailed information. Personally, I found this too heavy a read (and a bit boring). In the other authors’ previous experience, however, reviewers had appreciated this sort of punctilious reporting of results. <em>A matter of taste, then?</em></p>
+
+<p>OK, reporting impact assessment results is objectively difficult. So many impact categories, so many processes, contribution of stages versus contribution of processes (and foreground versus background), etc. It is then important that <strong>text and figures complement each other</strong>. They actually work well in combination.</p>
+
+<p>Let’s assume we have a set of nice and correct figures for contribution analysis. Each figure conveys one key message. Relevant explanatory text for these figures <strong>describes trends and tradeoffs in the LCIA results rather than reporting plain values</strong>.</p>
+
+<p>Why repeating information that is already in the figures (or in the supporting information…)? The text becomes interesting when it <em>explains</em> the figures. Good text confirms that the reader’s interpretation of the figure is the same as the author’s. Relevant text adds something to the figure.</p>
+
+<p>Here an example of how the text above could be revised for the above mentioned LCIA results:</p>
+
+<blockquote>
+  <p>Figure 1 shows that for several impact categories the production stage is a major contributor to the total impacts compared to other stages. This is due to the activities A and B performed in this stage. In scenario 2, the use of product Y leads to lower results in the toxicity categories compared to the BAU scenario, due to the fact that the production of Y does not emit heavy metals.</p>
+</blockquote>
+
+<p>Surely more general, certainly more readable, perhaps more informative? Here another example of how some students summarized their LCA results focusing on two main patterns they had observed.</p>
+
+<blockquote>
+  <p>In the LCIA results, one main pattern can be identified that is evident from figure X. In all scenarios the  avoided impacts within one impact category are outweighed by the generated impacts. A second observable pattern is that scenario Y always has the highest impact whereas scenario Z has the lowest impact.</p>
+</blockquote>
+
+<p>Simple and clear. Well done!</p>
+
+<h3 id="concluding-on-lca-reports-structure">Concluding on LCA reports structure</h3>
+
+<p><em>The right way</em> of reporting LCA results has not been invented yet. In this and the previous post I identified four practices that in my experience work best. Avoid using the ISO phases as outline, put stuff in appendix, be consistent between LCI and LCIA, text and figures complement each other.</p>
+
+<p>A good deal of this is a matter of personal taste, and there may be better ways of structuring LCA reports too. <a href="http://www.urbandictionary.com/define.php?term=Rock%20the%20Casbah">Rock the Casbah</a> and find them.</p>
+
+<p>Yet, if one day you find a really annoying reviewer…who is pointing out these issues in what sounds a very irritating tone…there is a good chance it is me…</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Sorry, <a href="https://en.wikipedia.org/wiki/Give_Me_Convenience_or_Give_Me_Death">Dead Kennedys</a>. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

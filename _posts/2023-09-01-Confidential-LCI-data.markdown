@@ -34,5 +34,6 @@ So either you want to keep confidentiality, or you want to go public with green 
 
 The idea that we as a society should allow anybody to publish green claims without providing supporting evidence sounds, in all honesty, quote **bogus** to me.
 
+&nbsp;
 
-[^1]: Anybody who has tried to reproduce LCA results starting from published data knows what I am talking about - this is a painful process. 
+[^1]: _Anybody who has tried to reproduce LCA results starting from published data knows what I am talking about - this is a painful process._ 
