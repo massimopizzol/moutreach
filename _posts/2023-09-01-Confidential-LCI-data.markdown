@@ -13,11 +13,11 @@ excerpt: About LCA and confidentiality
 
 There have been some interesting posts in the [Pre mailing list](https://support.simapro.com/s/article/How-do-I-subscribe-to-the-LCA-discussion-list) about how to deal with confidentiality when performing LCA studies, expecially in comparative context.
 
-Everybody who does LCA knows this issue. Companies and organisations of all sizes and types are usually reluctant to - or direclty against - sharing publicly the inventory data about their processes and activities. For example the amount of energy or chemicals needed to produce a unit of product. The reason that I hear the most is maintaining **competitive advantage**. They don't want competitors to know what they do and how. 
+Everybody who does LCA knows this issue. Companies and organisations of all sizes and types are usually reluctant to[^1] - or direclty against - sharing publicly the inventory data about their processes and activities. For example the amount of energy or chemicals needed to produce a unit of product. The reason that I hear the most is maintaining **competitive advantage**. They don't want competitors to know what they do and how. 
 
 OK, fair enough. 
 
-But. Are these concerns **reasonable or** are producers **magnifying the problem**? Indeed publicly available inventory data on production activities can be a great help for LCA researchers! And for the general public to keep producers accountable for their claims. But do competitors really care about life cycle inventories? How many in the general public will actually take the time to check them in detail? How much valuable and practical is this rather aggregated information for reproducibility? And for process understanding[^1]? And, in the worse case, for scooping company secrets?
+But. Are these concerns **reasonable or** are producers **magnifying the problem**? Indeed publicly available inventory data on production activities can be a great help for LCA researchers! And for the general public to keep producers accountable for their claims. But do competitors really care about life cycle inventories? How many in the general public will actually take the time to check them in detail? How much valuable and practical is this rather aggregated information for reproducibility? And for process understanding[^2]? And, in the worse case, for scooping company secrets?
 
 
 The problem for me starts when organisations concerned with confidentiality are very eager to put their LCA results out in the open. Because I feel that LCA nowadays is unfortunately 10% a tool for process improvement and decision support, and 90% a tool for marketing of decision already been taken.
@@ -36,4 +36,6 @@ The idea that we as a society should allow anybody to publish green claims witho
 
 &nbsp;
 
-[^1]: _Anybody who has tried to reproduce LCA results starting from published data knows what I am talking about - this is a painful process._ 
+[^1]: _For an overview of privacy-related as well as other challenges to data sharing see: [Supply-chain data sharing for scope 3 emissions](https://www.nature.com/articles/s44168-023-00032-x)_
+
+[^2]: _Anybody who has tried to reproduce LCA results starting from published data knows what I am talking about - this is a painful process._ 
