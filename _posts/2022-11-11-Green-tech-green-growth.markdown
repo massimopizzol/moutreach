@@ -2,7 +2,7 @@
 layout: post
 title: Green tech - green growth?
 date: 2022-11-11
-tags: [Articles, Scientific writing]
+tags: [articles, scientific writing]
 excerpt: A Nordic innovation paper
 ---
 

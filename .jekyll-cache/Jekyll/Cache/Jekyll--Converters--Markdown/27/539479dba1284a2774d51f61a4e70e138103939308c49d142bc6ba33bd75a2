@@ -1,0 +1,91 @@
+I"#<p> </p>
+
+<h1 id="it-takes-ages">It takes ages</h1>
+
+<p>I have been waiting to write about this article for SO long time: <a href="https://link-springer-com.zorac.aub.aau.dk/chapter/10.1007/978-3-031-08313-6_8"><em>Green Tech for Green Growth? Insights from Nordic Environmental Innovation</em></a> recently published together with <a href="https://pure.au.dk/portal/da/persons/mikael-skou-andersen(d6eb07fd-3020-4801-9beb-04c0cc0f0914).html">Prof. Mikael Skou Andersen</a> from Aarhus Univ., Dep. Environmental Sciences.</p>
+
+<h1 id="nowagg">NOWAGG</h1>
+
+<p>First, this is the result of the work done under the <a href="https://vbn.aau.dk/en/projects/new-nordic-ways-to-green-growth">NOWAGG project</a> that run between 2017-19. Yes, it took a long time to publish results, but better late than never.</p>
+
+<p>In this study we started from a simple premise: achieving a “green growth” means relying <strong>a lot</strong> on technological solutions to decouple growth and emissions — but evidence shows that bringing new “green” technologies to the market is actually not so easy…🤔</p>
+
+<p><em>(parenthesis: we used “green technology” to refer to a technology that is considered environmentally friendly based on its production process or supply chain. We chose it to match the “green growth” terminology and among various synonymous (“environmental technology,” “green tech” and “cleantech”, “environment-related technologies”))</em></p>
+
+<p>So <strong>why</strong> the journey of many green technologies from their early conception to their large-scale adoption and upscaling remains <strong>a serious challenge</strong>? We wanted to find out.</p>
+
+<p>There has been entire books on the topic of tech innovation and development, but we wanted an ampirical study on the nordics. Because  the nordic countries are often taken as <strong>leaders in environmental innovation</strong> - so…it would be interesting to see what happens there.</p>
+
+<h1 id="patents">Patents</h1>
+
+<p>We used a <strong>mixed-methods approach</strong>: quantiative (patent analysis) and qualitative (interviews). I was not used to any of those so…it wasn’t easy.</p>
+
+<p>Why the <strong>patents</strong>? Because it’s a proxy for innovation, and it’s realtively good data. Very organized, very structured, realtively easy to retrieve (after you learn some SQL…)</p>
+
+<p>So we got data for all the patents submitted in 2000–2017 in the five Nordic countries: Denmark🇩🇰, Finland🇫🇮, Iceland🇮🇸, Norway🇳🇴, and Sweden🇸🇪 and selected the “green” ones based on an existing classificaiton (<a href="https://www.oecd-ilibrary.org/environment/measuring-environmental-innovation-using-patent-data_5js009kf48xw-en">Haščič &amp; Migotto, 2015</a>).</p>
+
+<p>Below the result:</p>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here green patents classified according to technological domains (data from EPO). <br />- increasing steadily since 2000 (after 2015 the decrease is due to delays in reporting).<br />- but country-specific tech development pattern (strongholds or preferred areas) <a href="https://t.co/TtwseAsjMy">pic.twitter.com/TtwseAsjMy</a></p>&mdash; Massimo Pizzol 🇺🇦 (@m_outreach) <a href="https://twitter.com/m_outreach/status/1590069600041177092?ref_src=twsrc%5Etfw">November 8, 2022</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>Green patents classified according to technological domains (data from <a href="https://www.epo.org/">EPO</a>) are</p>
+
+<ul>
+  <li>increasing steadily since 2000 (after 2015 the decrease is due to delays in reporting).</li>
+  <li>But Nordic countries displays a different pattern in terms of type of technologies patented suggesting country-specific strongholds or preferred areas of green technology development.</li>
+</ul>
+
+<p>So far so good, we get the <strong>big picture</strong>: a lot of green tech developm,ent going on in all countries, with country specific differences in the type of techs developed. But we don’t know the details of this story.</p>
+
+<p>So we went qualitative.</p>
+
+<h1 id="interviews">Interviews.</h1>
+
+<p>Conveniently, patent data include names of inventors… It’s a gigantic phoenbook…but without phone numbers 🙁 So we found the mails/phone numbers of about 200 inventors. Contacted them. Interviewed more than 40.</p>
+
+<p>What did we ask? In simple terms, to <strong>tell us a story</strong> of their technology, what went well, what went wrong, and why. Then we made a qualitative content analysis to summarize findings.</p>
+
+<p>And again:</p>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And here the result, we were able to find a structure that fits basically all stories and described the &quot;life cycle&quot; or &quot;journey&quot; of a green tech from conception to market. 7 steps influenced by 4 factors: Organisation, Funding, Technology, Market. <a href="https://t.co/rPfK0fUbKG">pic.twitter.com/rPfK0fUbKG</a></p>&mdash; Massimo Pizzol 🇺🇦 (@m_outreach) <a href="https://twitter.com/m_outreach/status/1590069623256657920?ref_src=twsrc%5Etfw">November 8, 2022</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>We were able to find a <strong>structure</strong> that fits basically all stories and described the “life cycle” or “journey” of a green tech from conception to market. Seven steps influenced by four factors: <strong>Organisation, Funding, Technology, Market</strong>.</p>
+
+<p>Not surprisingly, this scheme fits previous theories about innovation and the different steps in technology development (there are several models in the literature about this). So what is the new stuff here?</p>
+
+<h1 id="the-new-stuff">The new stuff</h1>
+
+<p>Is that we have now <strong>a pretty good picture</strong> of what is happening in the Nordics when it comes to green tech development. And all the juicy details are in the paper and I can’t possibly summarize here. Some key points.</p>
+
+<p>The process of environmental innovation is <strong>complex</strong>. One does not just…bring a green idea to market. This journey is complicated by several obstacles, technological, organisational, economic, poltical.</p>
+
+<p>If you think technology is going to save us, you have to arm yourself with patience. Green tech development takes <strong>long</strong> time. The scales are <strong>huge</strong>. The money is <strong>scarce</strong>. The failure rate <strong>high</strong>.</p>
+
+<h1 id="peculiar-green-tech-development-issues">Peculiar green tech development issues:</h1>
+
+<p>☑️Funding: a lot of research money but when it comes to upscaling…the costs are orders of magnitude higher and —there is no money (<strong>valley of death</strong> issue for greeen tech).</p>
+
+<p>☑️“catch 22” problem or <strong>“chicken-and-egg”</strong> 🐓🥚problem: investors want to see the green techn at work in real scale before investing, but funding is required precisely to proof that the techn can work at large scale (because pilot and industrial are hugely dfifferent)</p>
+
+<p>☑️What is <strong>scale up</strong> for green tech? From building many large plants of relatively low-tech machinery operating on huge amounts of material (biomass valorisation) to mass-produice high-tech components with high degree of automation (fuel cells)</p>
+
+<p>☑️Policy, it’s tricky. Sometimes policies that try to favour one type of green tech innovation prevent another. E.g. incentives for biofuels <strong>do not help</strong> developing high-value products from biomass.</p>
+
+<p>☑️Investors: when it comes to green technology are risk-averse and keen to ensure stable market conditions in the long term, which is only rarely achieved. They want <strong>policy to make the market stable</strong>…and secure…</p>
+
+<p>☑️(True story) To get the funding many responded one needs “the right guy” or “the guy who is good at getting money”. Forget about green tech as just engineers, this is a <strong>business</strong> issue just as much.</p>
+
+<p>..and much more. <a href="https://link-springer-com.zorac.aub.aau.dk/chapter/10.1007/978-3-031-08313-6_8">Here a link to the paper</a><sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup> . More details there. Enjoy</p>
+
+<p> </p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Yeah, I know, the paper is paywalled….Send a request <a href="https://www.researchgate.net/publication/360243965_Green_tech_for_green_growth_Insights_from_Nordic_environmental_innovation">here on Researchgate</a> or <a href="mailto:massimo@plan.aau.dk">write me</a> and I will happily send a copy of it. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

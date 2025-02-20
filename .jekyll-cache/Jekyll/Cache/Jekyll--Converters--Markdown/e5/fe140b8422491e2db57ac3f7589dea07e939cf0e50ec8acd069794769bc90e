@@ -1,4 +1,4 @@
-I"<p class="center"><img src="https://moutreach.science/assets/desk.jpg" alt="Desk_order" /></p>
+I"<p class="center"><img src="https://moutreach.science/assets/desk.jpg" alt="Desk_order" /></p>
 <center><i><font size="2"> “One day I will find the right words, and they will be simple.”
 ― Jack Kerouac, The Dharma Bums (Photo: Massimo Pizzol) </font></i></center>
 
@@ -8,7 +8,7 @@
 
 <h2 id="3-consistency-this-stranger">3) Consistency, this stranger</h2>
 
-<p><em>Give me consistency or give me death</em>…said the wise man<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>. Consistency between flow charts, inventory tables, and impact assessment figures.</p>
+<p><em>Give me consistency or give me death</em>…said the wise man<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup>. Consistency between flow charts, inventory tables, and impact assessment figures.</p>
 
 <p>Let’s assume that in a LCA report the foreground system of product X is described with a flow chart that includes three processes named respectively: <em>production of X</em>, <em>use of X</em>, <em>disposal of X</em>.</p>
 
@@ -60,7 +60,7 @@
 
 <div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:1" role="doc-endnote">
+    <li id="fn:1">
       <p>Sorry, <a href="https://en.wikipedia.org/wiki/Give_Me_Convenience_or_Give_Me_Death">Dead Kennedys</a>. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>

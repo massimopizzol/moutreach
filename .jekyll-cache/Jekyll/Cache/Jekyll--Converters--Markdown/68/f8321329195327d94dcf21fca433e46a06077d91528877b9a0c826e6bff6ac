@@ -1,4 +1,4 @@
-I"Y#<p class="center"><img src="https://moutreach.science/assets/desk.jpg" alt="Desk_order" /></p>
+I"F#<p class="center"><img src="https://moutreach.science/assets/desk.jpg" alt="Desk_order" /></p>
 <center><i><font size="2"> “Be regular and orderly in your life like a bourgeois, so that you may be violent and original in your work”
 ― Gustave Flaubert (Photo: Massimo Pizzol)</font></i></center>
 
@@ -6,7 +6,7 @@
 
 <p>Reporting and communication are important elements in making understandable, transparent, and reproducible Life Cycle Assessment (LCA) studies. Yet very little has been written on how to report LCA studies <em>the right way</em>.</p>
 
-<p>Sure enough there is a section called <em>Reporting</em> in the <a href="http://www.iso.org/iso/catalogue_detail?csnumber=38498">ISO14044 standards</a>. And this section is a long bullet-point list of requirements specifying <strong>what to include</strong> in a LCA report. I have never seen a report that covers all the points, but let’s keep this for another post. Another famous documentation on the topic are probably the <em>“ten commandments” of Heijungs<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></em> which is a nice reading I recommend. In his paper Heijungs teaches <strong>how to speak</strong> LCA language. That paper deals with the correct use of LCA terminology in scientific articles.</p>
+<p>Sure enough there is a section called <em>Reporting</em> in the <a href="http://www.iso.org/iso/catalogue_detail?csnumber=38498">ISO14044 standards</a>. And this section is a long bullet-point list of requirements specifying <strong>what to include</strong> in a LCA report. I have never seen a report that covers all the points, but let’s keep this for another post. Another famous documentation on the topic are probably the <em>“ten commandments” of Heijungs<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup></em> which is a nice reading I recommend. In his paper Heijungs teaches <strong>how to speak</strong> LCA language. That paper deals with the correct use of LCA terminology in scientific articles.</p>
 
 <p>But there is another problem that is not covered by these sources and that I often encounter when reviewing (and writing!) LCA reports: <strong>how to structure</strong> a LCA report. Poor structuring of LCA reports complicates the understanding of the study and ultimately impedes the comprehension of its message.</p>
 
@@ -178,7 +178,7 @@
 
 <div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:1" role="doc-endnote">
+    <li id="fn:1">
       <p>Heijungs, R., 2013. <em>Ten easy lessons for good communication of LCA.</em> Int. J. Life Cycle Assess. 1–4. <a href="http://link.springer.com/article/10.1007/s11367-013-0662-5">doi:10.1007/s11367-013-0662-5</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>

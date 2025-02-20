@@ -1,4 +1,4 @@
-I"�<h1 id="an-invitation">An invitation</h1>
+I"y<h1 id="an-invitation">An invitation</h1>
 
 <p>I’ve been invited by The Danish Youth Association of Science (<em>Ungdommens Naturvidenskabelige Forening</em> - <a href="https://unf.dk/">UNF</a>) to give a two-hour lecture/workshop <a href="https://unf.dk/aktiviteter/2019-09-19/life-cycle-analysis-lca/">about LCA</a> for a mixed audience. Mixed audience means anybody from high school students to people enjoying their pension, and all the rest in the middle with mixed background of course.</p>
 
@@ -55,7 +55,7 @@
 
 <p><strong>Problem.</strong> An unsolvable choice between two fictional products. This exercise should trigger some reflection on impact pathways, on comparability across emissions and impacts, and on trade-offs.  Note: numbers are invented.</p>
 
-<p><strong>Discussion.</strong> Showing a simple calculation of CO<sub>2</sub>-equivalents. Showing a slide about impact pathway from Joillet et al.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> Discuss uncertainty at midpoint and endpoint. Discuss weighting (<em>which impact is most important, and what “important” means?</em>), value choices (<em>impacts to who?</em>), spatial and temporal perspectives (<em>impacts today or tomorrow, local or global?</em>), etc. This is really a powerful exercise on many levels because opens up a lot of pandora boxes and discussion points. Total nice.</p>
+<p><strong>Discussion.</strong> Showing a simple calculation of CO<sub>2</sub>-equivalents. Showing a slide about impact pathway from Joillet et al.<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup> Discuss uncertainty at midpoint and endpoint. Discuss weighting (<em>which impact is most important, and what “important” means?</em>), value choices (<em>impacts to who?</em>), spatial and temporal perspectives (<em>impacts today or tomorrow, local or global?</em>), etc. This is really a powerful exercise on many levels because opens up a lot of pandora boxes and discussion points. Total nice.</p>
 
 <h1 id="feedback-and-reflection">Feedback and reflection</h1>
 
@@ -71,7 +71,7 @@
 
 <div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:1" role="doc-endnote">
+    <li id="fn:1">
       <p>Jolliet et al. The LCIA midpoint-damage framework of the UNEP/SETAC life cycle initiative. Int. J. Life Cycle Assess. 2004, 9 (6), 394–404. <a href="https://link.springer.com/article/10.1007/BF02979083">https://doi.org/10.1007/BF02979083</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>

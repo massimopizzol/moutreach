@@ -1,4 +1,4 @@
-I"�1<p><img src="https://moutreach.science/assets/DSC_0235.JPG" alt="Figurehere" /></p>
+I"�1<p><img src="https://moutreach.science/assets/DSC_0235.JPG" alt="Figurehere" /></p>
 <center><i><font size="2">Same but different</font></i></center>
 
 <p> </p>
@@ -9,7 +9,7 @@
 
 <p>I am reproducing below excerpts of a correspondence that was posted some time ago in the worldwide famous <a href="https://support.simapro.com/articles/FAQ/How-do-I-subscribe-to-the-LCA-discussion-list">Pré mailing list</a>. If you haven’t already, you should subscribe there and get updates on what is going on in the <strong>LCA community</strong>…</p>
 
-<p>I find this was a very good question that received a very good answer. And probably a good read for both my students <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> and the readers of this blog, hopefully.</p>
+<p>I find this was a very good question that received a very good answer. And probably a good read for both my students <sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup> and the readers of this blog, hopefully.</p>
 
 <p>Here we go.</p>
 
@@ -83,7 +83,7 @@
 
 <p>More in general, the model uncertainty goes also beyond linking activities. The LCA practitioner makes several other modelling choices, assumptions, and approximations that all can influence the final results.</p>
 
-<p>There is a <a href="https://doi.org/10.1016/j.jclepro.2020.122304">recent scientific paper</a> investigating what happens when different practitioners model the same system. Spoiler: the result is different because they make different choices, depending on their personal understanding of the problem and data and their experience<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>.</p>
+<p>There is a <a href="https://doi.org/10.1016/j.jclepro.2020.122304">recent scientific paper</a> investigating what happens when different practitioners model the same system. Spoiler: the result is different because they make different choices, depending on their personal understanding of the problem and data and their experience<sup id="fnref:2"><a href="#fn:2" class="footnote" rel="footnote" role="doc-noteref">2</a></sup>.</p>
 
 <p>At this point I should probably make a further distinction between what are purely methodological choices like the choice of modelling approach (we can even call it a <strong>philosophy</strong>: attributional, consequential) that leads to differences in how supply mixes and multifunctional processes are modelled, and what are instead practitioner-specific choices, like choosing a specific size of lorry to model road transport. While the latter is a potentially improvable with better knowledge and data availability, the former is a choice that should be applied <strong>consistently</strong> within one project and especially <strong>aligned</strong> to the question the LCA intends to answer.</p>
 
@@ -122,10 +122,10 @@
 
 <div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:1" role="doc-endnote">
+    <li id="fn:1">
       <p>Students, you are my target audience here. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
-    <li id="fn:2" role="doc-endnote">
+    <li id="fn:2">
       <p>To be honest I had wanted to do this very same study in a long time but these guys were faster than me….well I can’t be everywhere. <em>Uncertainty in LCA: An estimation of practitioner-related effects. Scrucca F. et al., Journal of Cleaner Production, 268, 122304, 2020 <a href="https://doi.org/10.1016/j.jclepro.2020.122304">https://doi.org/10.1016/j.jclepro.2020.122304</a></em> <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>

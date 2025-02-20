@@ -1,4 +1,4 @@
-I"z<p><img src="https://moutreach.science/assets/OMGBW2Worked.png" alt="OMG" /></p>
+I"g<p><img src="https://moutreach.science/assets/OMGBW2Worked.png" alt="OMG" /></p>
 <center><i><font size="2">Some cryptic python code</font></i></center>
 
 <h1 id="hacking">Hacking</h1>
@@ -7,7 +7,7 @@
 
 <p>Our Department kindly provides a SimaPro LCA software faculty license for students and staff as well as a developer one for staff. This has been working fine for both research and teaching for long time. Still does. However, SimaPro is good for consultants but doesn’t allow much flexibility in doing more advanced analysis, e.g. uncertainty analysis via Monte Carlo simulation.</p>
 
-<p>An interesting alternative is <em>Brightway2</em>. This is a LCA software written in the programming language <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">python</a>. It’s open source, extremely flexible, allows to do very advanced simulations<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>. Can be used in endless combinations with all the python data science features and packages. <em>But</em>, unless you already are a python expert, it has a <strong>steep learning curve</strong>.</p>
+<p>An interesting alternative is <em>Brightway2</em>. This is a LCA software written in the programming language <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">python</a>. It’s open source, extremely flexible, allows to do very advanced simulations<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup>. Can be used in endless combinations with all the python data science features and packages. <em>But</em>, unless you already are a python expert, it has a <strong>steep learning curve</strong>.</p>
 
 <p>I really enjoy using <em>Brightway2</em>, especially for doing uncertainty analysis and statistical testing of data. Feels like doing real science. But I often have a hard time figuring out how to make it work. This is part of the trade off with experimental software: it’s advanced but unfriendly. I am self-learned in python (studied <a href="https://learnpythonthehardway.org/python3/">this book</a> during the evenings when I took paternity leave some years ago…). And not a programmer so this largely explains why I am having a hard time.</p>
 
@@ -60,7 +60,7 @@
 
 <div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:1" role="doc-endnote">
+    <li id="fn:1">
       <p>Mutel, C. Brightway: An open source framework for Life Cycle Assessment. J. Open Source Softw. 2017, 2 (12), 1–2. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
