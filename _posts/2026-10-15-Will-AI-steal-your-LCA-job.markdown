@@ -29,7 +29,7 @@ So it is not unlikely that soon we might be able to see LCAs made by AI, where t
 
 # What is left for us poor LCA experts to do?
 
-Here a bold prediction, bolder than [Vanna Marchi ](https://en.wikipedia.org/wiki/Wanna_Marchi) can predict: the AI might steal some part of the job, but won't steal the job as such. 
+Here a bold prediction, bolder than [Wanna Marchi ](https://en.wikipedia.org/wiki/Wanna_Marchi) can predict: the AI might steal some part of the job, but won't steal the job as such. 
 
 Think about it: we can now produce, without AI support, LCA result much faster (way way faster!) and in much larger amount than we could do five, ten, or 15 years ago. Ok also compared to 20 years ago, yes I have been around this space for _so long_ (damn, send help). This **has not reduced** the amount of LCA expertise needed and the number of LCA experts. Jeez, there are even more of those than before! There are even those who call themselves LCA experts and know nothing about LCA! Ok that's another story. 
 
