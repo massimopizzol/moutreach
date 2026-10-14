@@ -37,7 +37,7 @@ Anyway, yes, this automation has _shifted_ the type of expertise needed, and LCA
 
 # But I like the good old competences
 
-There are going to be needed **even more**. Another prediction, in your face, tech lords! Two reasons.
+These are going to be needed **even more**. Another prediction, in your face, tech lords! Two reasons.
 
 One reasons is that AI is a peculiar tool, in the sense that it has a stochastic element, or how do you call that. It is not like a calculator or like a spreadsheet in MS Excel. It does not return exact results and not even consistent results. **Would be nice though**. But in my understanding, this will not change much. And thus we will always need LCA experts to validate AI outputs, and to be able to **dig deeper** into the details of the analysis and be able to explain it. Because for so much that humanity nowadays likes black boxes, and that people like "single number" answers, even a single score LCA is useless if you can't explain the result. And here comes the second point.
 
