@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Will AI steal your LCA job?
-date: 2026-10-15
+date: 2026-10-14
 tags: [life cycle assessment]
 excerpt: Yes, almost certainly
 ---
